@@ -1,0 +1,19 @@
+{% macro lang_code2name(code) -%}
+  {%- if   code == 'en'    -%}   English
+  {%- elif code == 'zh'    -%}   中文
+  {%- elif code == 'th'    -%}   ไทย
+  {%- elif code == 'zh_TW' -%}   中文 (繁體)
+  {%- elif code == 'zh_CN' -%}   中文 (简体)
+  {%- else -%}{{ code }}{%- endif -%}
+{%- endmacro %}
+
+{% macro translations_for(writing, SITEURL) -%}
+  {%- if writing.translations -%}
+    <div class="available-translations">
+      <span>{{- 'Translation(s)'|gettext(writing.lang) -}}</span>:&nbsp;
+      {%- for translation in writing.translations -%}
+        <a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a>&nbsp;
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+{%- endmacro %}

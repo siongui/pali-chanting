@@ -1,0 +1,6 @@
+{% extends "layout/group.html" %}
+
+{% set groups_name = ('Authors'|gettext(DEFAULT_LANG)) %}
+{% set groups_partial_url = AUTHORS_URL | default('authors.html') %}
+{% set group = author %}
+{% set group_css_class = "author" %}

@@ -1,0 +1,26 @@
+{%- from 'layout/includes/time.html' import Gregorian_calendar -%}
+{% for article in (articles_page.object_list if articles_page else articles) %}
+<article class="post">
+  <header>
+    <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+  </header>
+  <aside class="post-metadata-date">
+    {%- if article.modified -%}
+    <time datetime="{{ article.modified.isoformat() }}">
+      {{ Gregorian_calendar(article.date) }}
+      ({{ 'Updated'|gettext(DEFAULT_LANG) }}: {{ Gregorian_calendar(article.modified) }})
+    </time>
+    {%- else -%}
+    <time datetime="{{ article.date.isoformat() }}">
+      {{ Gregorian_calendar(article.date) }}
+    </time>
+    {%- endif -%}
+  </aside>
+
+  <div class="post-content">
+    {{ article.summary }}
+    <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">&nbsp;read more &raquo;</a>
+  </div>
+</article>
+{% endfor %}
+{# TODO: add pagination #}

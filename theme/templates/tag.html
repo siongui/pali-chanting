@@ -1,0 +1,6 @@
+{% extends "layout/group.html" %}
+
+{% set groups_name = ('Tags'|gettext(DEFAULT_LANG)) %}
+{% set groups_partial_url = TAGS_URL | default('tags.html') %}
+{% set group = tag %}
+{% set group_css_class = "tag" %}

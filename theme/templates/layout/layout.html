@@ -1,0 +1,33 @@
+{#
+  HTML5 Semantic Elements
+  @see http://www.w3schools.com/html/html5_semantic_elements.asp
+
+  Facebook Content Sharing Best Practices
+  @see https://developers.facebook.com/docs/sharing/best-practices
+#}
+{%- from 'layout/includes/i18n.html' import translations_for, lang_code2name -%}
+{%- from 'layout/includes/time.html' import Gregorian_calendar -%}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8">
+  <title>{%- block title -%}{{ SITENAME }}{%- endblock -%}</title>
+  <meta name="keywords" content="{% block meta_keywords -%}{{ META_KEYWORDS }}{%- endblock %}"/>
+  <meta name="description" content="{% block meta_description -%}{{ META_DESCRIPTION }}{%- endblock %}"/>
+  <meta name="author" content="{% block meta_author -%}{{ AUTHOR }}{%- endblock %}"/>
+  {%- if OG_TITLE -%}<meta property="og:title" content="{{ OG_TITLE }}" />{%- endif -%}
+  {%- if OG_IMAGE -%}<meta property="og:image" content="{{ OG_IMAGE }}" />{%- endif -%}
+  {%- if OG_DESCRIPTION -%}<meta property="og:description" content="{{ OG_DESCRIPTION }}" />{%- endif -%}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/theme/css/style.css">
+</head>
+<body>
+{% include 'layout/includes/top_nav.html' %}
+{% if GOOGLE_CSE %}<gcse:search></gcse:search>{% endif %}
+{%- block content -%}{%- endblock -%}
+{% include 'layout/includes/footer.html' %}
+{% include 'layout/includes/cse.html' %}
+{% include 'layout/includes/analytics.html' %}
+</body>
+</html>

@@ -1,0 +1,9 @@
+{# https://en.wikipedia.org/wiki/Gregorian_calendar #}
+{% macro Gregorian_calendar(datetime) -%}
+{{ datetime | strftime('%B %d, %Y') }}
+{%- endmacro %}
+
+{# https://en.wikipedia.org/wiki/Buddhist_calendar #}
+{% macro Buddhist_calendar(datetime) -%}
+{{ datetime | strftime('%B %d') }}, {{ datetime.year + 543 }}
+{%- endmacro %}

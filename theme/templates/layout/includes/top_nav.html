@@ -1,0 +1,32 @@
+<nav class="nav">
+  <div class="nav-left">
+    <a class="nav-item" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+  </div>
+
+  <label for="menu-toggle" class="nav-toggle">&equiv;</label>
+  <input type="checkbox" id="menu-toggle" class="is-hidden"/>
+
+  <div class="nav-right nav-menu">
+    {% if DISPLAY_PAGES_ON_MENU %}
+    {%- for p in pages -%}
+      <a class="nav-item" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+    {%- endfor -%}
+    {% endif %}
+
+    <a class="nav-item" href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">{{ 'Archives'|gettext(DEFAULT_LANG) }}</a>
+    <a class="nav-item" href="{{ SITEURL }}/{{ CATEGORIES_URL | default('categories.html') }}">{{ 'Categories'|gettext(DEFAULT_LANG) }}</a>
+    <a class="nav-item" href="{{ SITEURL }}/{{ TAGS_URL | default('tags.html') }}">{{ 'Tags'|gettext(DEFAULT_LANG) }}</a>
+    <a class="nav-item" href="{{ SITEURL }}/{{ AUTHORS_URL | default('authors.html') }}">{{ 'Authors'|gettext(DEFAULT_LANG) }}</a>
+    <!--TODO: add links for Links(optional), and RSS -->
+
+    <span class="vertical-divider"></span>
+
+    {% if lang_siteurls %}
+      {% for lang, url in lang_siteurls.items() %}
+        {% if lang != DEFAULT_LANG %}
+        <a class="nav-item" href="{{ url }}/">{{ lang_code2name(lang) }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</nav>
