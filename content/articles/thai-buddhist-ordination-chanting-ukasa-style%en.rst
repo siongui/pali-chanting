@@ -46,7 +46,7 @@ of prayer and chants the following words:
 
 .. container:: align-center video-container-description
 
-  Requesting the Going-Forth (Pāli: pabbajjā) (請求出家 คำขอบรรพชา)
+  Requesting the Going-Forth (Pāli: `pabbajjā`_) (請求出家 คำขอบรรพชา)
 
 ----
 
@@ -139,6 +139,82 @@ of prayer and chants the following words:
 
 ----
 
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hGvl8Jl1rfs?list=PLoNCcUhkg9c08_y4DI1RL4Ymi7Yll5EQT" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  Instruction:Basic objects of Meditation (Pāli: `mūlakammaṭṭhāna`_) (根本業處 มูลกัมมัฎฐาน)
+
+The ordinand sits down with his legs folded to one side.
+Having placed the set of robes in front of himself,
+the Preceptor instructs the applicant in the Triple Gem,
+advises him to develop conviction in it as it his refuge and
+reminds him of the purpose and benefits of ordination. After that he
+teaches the applicant the five basic objects of meditation, and after
+explaining their meaning and the purpose of contemplating them, recites
+them in the forward and reverse orders. The applicant repeats the
+tacapañcakakammaṭṭhān after-him word-by-word as follows.
+
+.. list-table:: 
+   :class: table-syntax-diff
+
+   * - kesā lomā nakhā dantā taco (forward order)
+     -
+
+   * - taco dantā nakhā lomā kesā (reverse order)
+     -
+
+-After taking meditation instruction, the applicant should kneel up and allow
+the preceptor to take the shoulder cloth from the robe bundle and put it over
+the applicant's head.
+The applicant should then extend his forearms towards the Preceptor to receive
+the rest of the robe bundle. He should then back out from the assembly on his
+knees, stand and retreat to the place prepared for changing.
+
+----
+
+MonPitee Thai Page 193
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5KDVXNkArCc?list=PLoNCcUhkg9c08_y4DI1RL4Ymi7Yll5EQT" frameborder="0" allowfullscreen></iframe>
+
+.. container:: align-center video-container-description
+
+  Taking Refuge and Ten Precepts (皈依及十戒 คำขอสรณคมน์และศีล)
+
+.. list-table:: 十戒
+   :class: table-syntax-diff
+
+   * - pāṇātipātā veramaṇī sikkhāpadaṃ samādiyāmi
+     -
+   * - adinnādānā veramaṇī sikkhāpadaṃ samādiyāmi
+     -
+   * - abrahmacariyā veramaṇī sikkhāpadaṃ samādiyāmi
+     -
+   * - musāvādā veramaṇī sikkhāpadaṃ samādiyāmi
+     -
+   * - surāmerayamajjapamādaṭṭhānā veramaṇī sikkhāpadaṃ samā-diyāmi
+     -
+   * - vikālabhojanā veramaṇī sikkhāpadaṃ samādiyāmi
+     -
+   * - naccagītavāditavisūkadassanā veramaṇī sikkhāpadaṃ samā-diyāmi
+     -
+   * - mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānāveramaṇī sikkhāpadaṃ samādiyāmi
+     -
+   * - uccāsayanamahāsayanā veramaṇī sikkhāpadaṃ samā-diyāmi
+     -
+   * - jātarūparajatapaṭiggahaṇā veramaṇī sikkhāpadaṅ samādiyāmi
+     -
+
+----
+
 References:
 
 .. [1] | `ukasa ordination - Google search <https://www.google.com/search?q=ukasa+ordination>`_
@@ -158,6 +234,9 @@ References:
 
 .. [5] `[PDF]沙馬內拉學處 - 台灣南傳上座部佛教學院 <http://www.taiwandipa.org.tw/images/k/k490-0.pdf>`_
 
+.. [6] `[PDF]Ordination Chanting (Ukasa style) - Seattle Meditation Center <http://www.meditationseattle.org/wp-content/uploads/2015/05/ordination-chanting-ukasa-style.pdf>`_
+
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
 .. _อุททิสสนาธิฏฐานคาถา: http://aia.or.th/prayer41.htm
 .. _pabbajjā: http://dictionary.sutta.org/browse/p/pabbajj%C4%81
+.. _mūlakammaṭṭhāna: http://dictionary.sutta.org/browse/m/m%C5%ABlakamma%E1%B9%AD%E1%B9%ADh%C4%81na
