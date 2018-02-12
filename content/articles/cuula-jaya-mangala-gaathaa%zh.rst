@@ -12,7 +12,7 @@ cūla-jaya-maṅgala-gāthā (小勝利吉祥偈 จุลชัยยะมง�
 
   .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6r1CKnr2HnY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/G2wMkBifqY4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 .. container:: align-center video-container-description
 
@@ -119,6 +119,8 @@ cūla-jaya-maṅgala-gāthā (小勝利吉祥偈 จุลชัยยะมง�
 .. [Chant3] `Monks Pali Chanting  (Wat Pa Baan Taad)  1.wmv - YouTube <https://www.youtube.com/watch?v=drykKJ8jxi0>`_
 
 .. [Chant4] `จุลชัยยะมงคลคาถา - YouTube <https://www.youtube.com/watch?v=ipdPCJPVvEk>`__
+
+.. [Chant5] `จุลชัยยะมงคลคาถา ตัวธรรมอีสาน - YouTube <https://www.youtube.com/watch?v=G2wMkBifqY4>`_
 
 
 搜尋：
