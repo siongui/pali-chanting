@@ -453,7 +453,7 @@ At the end of kammavaca the applicant has become a bhikkhu ( Full Ordination ).
 Anusāsana
 
 After the applicant has become a bhikkhu, a senior bhikkhu is to explain the
-four dependances Cattaro Nissaya and the four most important rules of vinaya
+four dependances Cattāro Nissaya and the four most important rules of vinaya
 
 Traditionally an offering is made to all the members of the Sangha present.
 
