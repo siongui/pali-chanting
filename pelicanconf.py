@@ -19,6 +19,11 @@ STATIC_PATHS = ['articles', 'extra', 'code']
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/yezi.png': {'path': 'favicon.ico'},}
 
+# https://github.com/spatialaudio/nbsphinx/issues/549
+# https://docs.getpelican.com/en/stable/settings.html
+# https://docutils.sourceforge.io/docs/user/config.html#line-length-limit
+DOCUTILS_SETTINGS = {'line_length_limit': 1000000}
+
 # modify TIMEZONE to your timezone
 TIMEZONE = 'Asia/Taipei'
 
