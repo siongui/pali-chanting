@@ -2,15 +2,13 @@
 How to Develope
 ===============
 
-.. image:: https://travis-ci.org/siongui/pali-chanting.png?branch=master
-    :target: https://travis-ci.org/siongui/pali-chanting
+.. image:: https://github.com/siongui/pali-chanting/workflows/Pelican%20site%20CI/badge.svg
+    :target: https://github.com/siongui/pali-chanting/blob/master/.github/workflows/pelican.yml
 
-.. See how to add travis ci image from https://raw.githubusercontent.com/demizer/go-rst/master/README.rst
-   https://github.com/demizer/go-rst/commit/9651ab7b5acc997ea2751845af9f2d6efee825df
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 17.04`_
+Development Environment: `Ubuntu 22.04`_
 
 
 First-time Setup
@@ -101,7 +99,7 @@ References
 
 
 .. _Pelican: http://blog.getpelican.com/
-.. _Ubuntu 17.04: http://releases.ubuntu.com/17.04/
+.. _Ubuntu 22.04: https://releases.ubuntu.com/22.04/
 .. _UNLICENSE: http://unlicense.org/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
