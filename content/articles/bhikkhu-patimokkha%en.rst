@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-03-28T21:56+07:00
+:modified: 2023-03-29T21:30+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -75,25 +75,85 @@ Pubba-kicca
 
    * - Pāli
      - English
+     - Chinese
 
    * - Okāsaṃ me bhante thero detu, pāṭimokkhaṃ uddesituṃ.
      - May the senior monk give me the opportunity to recite the Pāṭimokkha.
+     - 願長老給我機會背誦波羅提木叉
 
    * - PUBBA-KICCAṂ
      - PRELIMINARY DUTIES
+     - 事前工作
 
    * - Uposatha-karaṇato pubbe nava-vidhaṃ pubba-kiccaṃ kātabbaṃ hoti:
      - Before doing the Uposatha, the ninefold preliminary duty should be done:
+     - 在進行布薩之前，有九項應當做的工作：
 
    * - taṇṭhāna-sammajjanañ-ca;
      - sweeping the place;
+     - 打掃該地方;
 
+   * - tattha padīp'ujjalanañ-ca;
+     - lighting a lamp there;
+     - 點亮那裡的燈;
+
+   * - āsana-paññapanañ-ca;
+     - preparing the seats;
+     - 敷設座位;
+
+   * - pānīya-paribhojanīyūpaṭṭhapanañ-ca;
+     - setting out water for drinking and washing;
+     - 準備飲用和洗用水
+
+   * - chandārahānaṃ bhikkhūnaṃ chandāharaṇañ-ca;
+     - conveying the consent of the bhikkhus who should give their consent;
+     - 帶來應當給予意欲的比丘們的意欲
+
+   * - tesaññeva akat'uposathānaṃ pārisuddhiyā-pi āharaṇañ-ca;
+     - conveying the purity of those same bhikkhus who do not join in the
+       Uposatha;
+     - 帶來同樣那些不參加布薩的比丘們的清淨;
+
+   * - utukkhānañ-ca;
+     - season-telling;
+     - 季節宣告;
+
+   * - bhikkhu-gaṇanā ca;
+     - bhikkhu-counting; and
+     - 比丘人數
+
+   * - bhikkhunīnam-ovādo cā'ti.
+     - instructing the bhikkhunis.
+     - 教誡比丘尼
+
+   * - Tattha purimesu catūsu kiccesu padīpa-kiccaṃ idāni suriy'ālokassa
+       atthitāya n'atthi. *Aparāni tīṇi* [pd1]_ bhikkhūnaṃ vattaṃ jānantehi
+       bhikkhūhi [pd2]_ katāni pariniṭṭhitāni honti.
+     - With regard to the first four of these, there is no lamp duty because of
+       the current presence of sunlight. The remaining three have been done by
+       bhikkhus who know the bhikkhus' duties. These are therefore completed.
+     - 對於其中的前面四項工作，點燈工作因現在有陽光故不用，
+       其餘三項已由清楚比丘義務的比丘做完成了。因此這些已完成。
+
+   * - 
+     - 
+     - 
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
 Preliminary Duties: Notes
 +++++++++++++++++++++++++
 
-TODO
+.. [pd1] *If the recitation is held at night, change* "Tattha purimesu catūsu
+         kiccesu padīpa-kiccaṃ idāni suriy'ālokassa atthitāya n'atthi. Aparāni
+         tīṇi" *to* "Tattha parimāni cattāri": "*Of the first four*...."
 
+.. [pd2] *If sāmaṇeras help with the tasks, change* "bhikkhūhi" *to*
+         "sāmaṇerehi-pi bhikkhūhi-pi": "*Novices and bhikkhus*...."
+         *If laypeople living in the monastery help with the tasks, change this
+         to* "ārāmikehi-pi bhikkhūhi-pi": "*Monastery dwellers and
+         bhikkhus*...."
 
 Bhikkhu Pāṭimokkha
 ++++++++++++++++++
