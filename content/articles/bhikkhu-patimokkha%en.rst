@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-03-29T21:30+07:00
+:modified: 2023-03-30T20:25+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -134,6 +134,12 @@ Pubba-kicca
        bhikkhus who know the bhikkhus' duties. These are therefore completed.
      - 對於其中的前面四項工作，點燈工作因現在有陽光故不用，
        其餘三項已由清楚比丘義務的比丘做完成了。因此這些已完成。
+
+   * - Chandāharaṇa pārisuddhi-āharaṇāni pana imissaṃ sīmāyaṃ hattha-pāsaṃ
+       vijahitvā nisinnānaṃ bhikkhūnaṃ abhāvato n'atthi.
+     - There is no conveying of consent or purity because in this territory
+       there are no bhikkhus sitting outside the hatthapāsa.
+     - 不用帶來意欲、帶來清淨，因為於此界內並沒有坐在伸手所及處之外的比丘。
 
    * - 
      - 
