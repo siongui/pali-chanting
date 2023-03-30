@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-03-30T20:25+07:00
+:modified: 2023-03-30T21:21+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -77,9 +77,9 @@ Pubba-kicca
      - English
      - Chinese
 
-   * - Okāsaṃ me bhante thero detu, pāṭimokkhaṃ uddesituṃ.
-     - May the senior monk give me the opportunity to recite the Pāṭimokkha.
-     - 願長老給我機會背誦波羅提木叉
+   * - *Okāsaṃ me bhante thero detu, pāṭimokkhaṃ uddesituṃ.*
+     - *May the senior monk give me the opportunity to recite the Pāṭimokkha.*
+     - *願長老給我機會背誦波羅提木叉。*
 
    * - PUBBA-KICCAṂ
      - PRELIMINARY DUTIES
@@ -128,7 +128,7 @@ Pubba-kicca
 
    * - Tattha purimesu catūsu kiccesu padīpa-kiccaṃ idāni suriy'ālokassa
        atthitāya n'atthi. *Aparāni tīṇi* [pd1]_ bhikkhūnaṃ vattaṃ jānantehi
-       bhikkhūhi [pd2]_ katāni pariniṭṭhitāni honti.
+       *bhikkhūhi* [pd2]_ katāni pariniṭṭhitāni honti.
      - With regard to the first four of these, there is no lamp duty because of
        the current presence of sunlight. The remaining three have been done by
        bhikkhus who know the bhikkhus' duties. These are therefore completed.
@@ -140,6 +140,44 @@ Pubba-kicca
      - There is no conveying of consent or purity because in this territory
        there are no bhikkhus sitting outside the hatthapāsa.
      - 不用帶來意欲、帶來清淨，因為於此界內並沒有坐在伸手所及處之外的比丘。
+
+   * - Utukkhānaṃ nāma, ettakaṃ atikkantaṃ ettakaṃ avasiṭṭhanti evaṃ
+       utu-ācikkhanaṃ. Utūnīdha pana sāsane hemanta-gimha-vassānānaṃ vasena tīṇi
+       honti.
+     - Season-telling means declaring the season thus: "This number (of
+       Uposathas) is past; this number remains."
+
+       In this Teaching there are three seasons: winter, summer, and the rainy
+       season.
+     - 季節宣告即是“若干次已經過去，還剩若干次”
+       這樣告知季節。
+
+       在此教法中有涼季、熱季和雨季三季。
+
+   * - Ayaṃ *hemantotu*. [pd3]_ Asmiñ-ca utumhi *aṭṭha uposathā*. [pd4]_
+       Iminā pakkhena:
+
+       | eko uposatho sampatto,
+       | *satta uposathā avasiṭṭhā*. [pd5]_
+
+       Iti evaṃ sabbehi āyasmantehi utukkhānaṃ dhāretabbam.
+     - This is the *winter*, and in this season there are *eight* Uposathas.
+       With this fortnight:
+
+       | one Uposatha has arrived;
+       | *seven* Uposathas remain.
+
+       That's how the venerable ones should all remember the season-telling.
+     - 這時是涼季。在這個季節裡有八次布薩。於這個半月：
+
+       | 一次布薩已到來
+       | 還剩下七次布薩
+
+       這樣的季節宣告請所有具壽們記住。
+
+   * - ( Evaṃ, bhante )
+     - ( Yes, venerable sir )
+     - （是的，尊者。）
 
    * - 
      - 
@@ -155,11 +193,28 @@ Preliminary Duties: Notes
          kiccesu padīpa-kiccaṃ idāni suriy'ālokassa atthitāya n'atthi. Aparāni
          tīṇi" *to* "Tattha parimāni cattāri": "*Of the first four*...."
 
+         如果是在晚上，"purimesu catūsu kiccesu padīpa-kiccaṃ idāni
+         suriy'ālokassa atthitāya n'atthi. Aparāni tīṇi" 則改念為 "parimāni
+         cattāri"。
+
 .. [pd2] *If sāmaṇeras help with the tasks, change* "bhikkhūhi" *to*
          "sāmaṇerehi-pi bhikkhūhi-pi": "*Novices and bhikkhus*...."
          *If laypeople living in the monastery help with the tasks, change this
          to* "ārāmikehi-pi bhikkhūhi-pi": "*Monastery dwellers and
          bhikkhus*...."
+
+         如果由沙彌和比丘完成，則念"sāmaṇerehi-pi bhikkhūhi-pi"。
+         如果由住寺居士和比丘完成，則念"ārāmikehi-pi bhikkhūhi-pi"。
+
+.. [pd3] *During the hot season, change* "hemantotu" *to* "gimhotu." *During the
+         rainy season, change it to* "vassānotu."
+
+         如果是熱季，改念"gimhotu"。
+         如果是雨季，改念"vassānotu"。
+
+.. [pd4]
+
+.. [pd5]
 
 Bhikkhu Pāṭimokkha
 ++++++++++++++++++
