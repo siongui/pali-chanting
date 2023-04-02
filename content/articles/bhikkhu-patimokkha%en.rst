@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-03-30T21:21+07:00
+:modified: 2023-04-02T21:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -212,9 +212,30 @@ Preliminary Duties: Notes
          如果是熱季，改念"gimhotu"。
          如果是雨季，改念"vassānotu"。
 
-.. [pd4]
+.. [pd4] *During a normal rainy season, change* "aṭṭha uposathā" *to* "sattā ca
+         uposathā ekā ca pavāraṇā": "*Seven uposathas and one pavāraṇā.*"
+
+         如果是正常的雨季，改念為："sattā ca uposathā ekā ca pavāraṇā":
+         "七個布薩及一個自恣"
+
+         *During a hot or cold season with an additional month, change it to*
+         "adhikamāsa-vasena dasa uposathā": "*Because of the additional month,
+         ten uposathās....*"
+
+         如果熱季或涼季有閏月，則改念為： "adhikamāsavasena dasa uposathā":
+         "因為閏月，十個布薩...."
+
+         *During a rainy season with an additional month, change it to*
+         "adhikamāsa-vasena nava ca uposathā ekā ca pavāraṇā": "*Because of
+         the additional month, nine uposathas and one pavāraṇā....*"
+
+         如果雨季有閏月，則改念為： "adhikamāsa-vasena nava ca uposathā ekā ca
+         pavāraṇā": "因為閏月，九個布薩及一個自恣...."
 
 .. [pd5]
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
 Bhikkhu Pāṭimokkha
 ++++++++++++++++++
