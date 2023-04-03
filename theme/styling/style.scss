@@ -183,3 +183,15 @@ a {
   padding: 3px;
   float: right;
 }
+
+// Google search: stack td on mobile
+// Stack two <td> over each other
+// https://stackoverflow.com/a/15571109
+.stack-th-td-on-mobile {
+  @media #{$smartphone} {
+    th,td {
+      display: block;
+      clear: both;
+    }
+  }
+}

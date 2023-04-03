@@ -72,6 +72,8 @@ Pubba-kicca
 
 .. list-table:: Pubba-kicca
    :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
 
    * - Pāli
      - English
