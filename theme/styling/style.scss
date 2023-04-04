@@ -194,4 +194,16 @@ a {
       clear: both;
     }
   }
+
+  // https://stackoverflow.com/a/28186676
+  // https://www.w3schools.com/cssref/sel_nth-child.php
+  tr > td:first-child,th:first-child {
+    background-color: None;
+  }
+  tr > td:nth-child(2),th:nth-child(2) {
+    background-color: Azure;
+  }
+  tr > td:last-child,th:last-child {
+    background-color: Cornsilk;
+  }
 }
