@@ -234,7 +234,23 @@ Preliminary Duties: Notes
          如果雨季有閏月，則改念為： "adhikamāsa-vasena nava ca uposathā ekā ca
          pavāraṇā": "因為閏月，九個布薩及一個自恣...."
 
-.. [pd5]
+.. [pd5] *This is the calculation for the first uposatha in a normal hot or cold
+         season. The calculation for other dates - to be stated after* "iminā
+         pakkhena eko uposatho sampatto" - *is as follows*:
+
+         *During a normal hot or cold season:*
+
+         | *Second:* eko uposatho atikkanto, cha uposathā avasiṭṭhā.
+         | *Third:* dve uposathā atikkantā, pañca uposathā avasiṭṭhā.
+         | *Fourth:* tayo uposathā atikkantā, cattāro uposathā avasiṭṭhā.
+         | *Fifth:* cattāro uposathā atikkantā, tayo uposathā avasiṭṭhā.
+         | *Sixth:* pañca uposathā atikkantā, dve uposathā avasiṭṭhā.
+         | *Seventh:* cha uposathā atikkantā, eko uposatho avasiṭṭho.
+         | *Eighth:* satta uposathā atikkantā, aṭṭha uposathā paripuṇṇā.
+
+         *During a normal rainy season:*
+
+         | *First:* cha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
 
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
