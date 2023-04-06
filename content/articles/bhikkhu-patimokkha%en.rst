@@ -251,6 +251,39 @@ Preliminary Duties: Notes
          *During a normal rainy season:*
 
          | *First:* cha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Second:* eko uposatho atikkanto, pañca ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Third:* dve uposathā atikkantā, cattāro ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Fourth:* tayo uposathā atikkantā, tayo ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Fifth:* cattāro uposathā atikkantā, dve ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Sixth: (see the separate section on the Pavāraṇā.)*
+         | *Seventh:* pañca ca uposathā ekā ca pavāraṇā atikkantā, eko uposatho avasiṭṭho.
+         | *Eighth:* cha ca uposathā ekā ca pavāraṇā atikkantā, satta ca uposathā ekā ca pavāraṇā paripuṇṇā.
+
+         *During a hot or cold season with an additional month:*
+
+         | *First:* nava uposathā avasiṭṭhā.
+         | *Second:* eko uposatho atikkanto, aṭṭha uposathā avasiṭṭhā.
+         | *Third:* dve uposathā atikkantā, satta uposathā avasiṭṭhā.
+         | *Fourth:* tayo uposathā atikkantā, cha uposathā avasiṭṭhā.
+         | *Fifth:* cattāro uposathā atikkantā, pañca uposathā avasiṭṭhā.
+         | *Sixth:* pañca uposathā atikkantā, cattāro uposathā avasiṭṭhā.
+         | *Seventh:* cha uposathā atikkantā, tayo uposathā avasiṭṭhā.
+         | *Eighth:* satta uposathā atikkantā, dve uposathā avasiṭṭhā.
+         | *Ninth:* aṭṭha uposathā atikkantā, eko uposatho avasiṭṭho.
+         | *Tenth:* nava uposathā atikkantā, dasa uposathā paripuṇṇā.
+
+         *During a rainy season with an additional month:*
+
+         | *First:* aṭṭha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Second:* eko uposatho atikkanto, satta ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Third:* dve uposathā atikkantā, cha ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Fourth:* tayo uposathā atikkantā, pañca ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Fifth:* cattāro uposathā atikkantā, cattāro ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Sixth:* pañca uposathā atikkantā, tayo ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Seventh:* cha uposathā atikkantā, dve ca uposathā ekā ca pavāraṇā avasiṭṭhā.
+         | *Eighth: (see the separate section on the Pavāraṇā.)*
+         | *Ninth:* satta ca uposathā ekā ca pavāraṇā atikkantā, eko uposatho avasiṭṭho.
+         | *Tenth:* aṭṭha ca uposathā ekā ca pavāraṇā atikkantā, nava ca uposathā ekā ca pavāraṇā paripuṇṇā.
 
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
