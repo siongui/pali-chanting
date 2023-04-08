@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-02T21:53+07:00
+:modified: 2023-04-08T21:03+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -177,9 +177,27 @@ Pubba-kicca
 
        這樣的季節宣告請所有具壽們記住。
 
-   * - ( Evaṃ, bhante )
-     - ( Yes, venerable sir )
-     - （是的，尊者。）
+   * - *( Evaṃ, bhante )*
+     - *( Yes, venerable sir )*
+     - *（是的，尊者。）*
+
+   * - Bhikkhu-gaṇanā nāma imasmiṃ uposath'agge uposathatthāya sannipatitā
+       bhikkhū ettakāti bhikkhūnaṃ gaṇanā. Imasmim-pana uposath'agge
+       *cattāro* [pd6]_ bhikkhū sannipatitā honti. Iti sabbehi āyasmantehi
+       bhikkhu-gaṇanā-pi dhāretabbā.
+     - Bhikkhu-counting means counting the number of bhikkhus, (saying,) "This
+       number of bhikkhus has gathered in this Uposatha hall for the purpose of
+       the Uposatha." And in this Uposatha hall *four* bhikkhus have gathered.
+
+       That's how the venerable ones should all remember the bhikkhu-counting.
+     - 比丘人數即是在此布薩堂為了布薩而集合的比丘有多少位為比丘們的人數。
+       在此布薩堂有 *四* 位比丘集合。
+
+       這樣的比丘人數請所有具壽們記住！
+
+   * - *( Evaṃ, bhante )*
+     - *( Yes, venerable sir )*
+     - *（是的，尊者。）*
 
    * - 
      - 
@@ -284,6 +302,36 @@ Preliminary Duties: Notes
          | *Eighth: (see the separate section on the Pavāraṇā.)*
          | *Ninth:* satta ca uposathā ekā ca pavāraṇā atikkantā, eko uposatho avasiṭṭho.
          | *Tenth:* aṭṭha ca uposathā ekā ca pavāraṇā atikkantā, nava ca uposathā ekā ca pavāraṇā paripuṇṇā.
+
+.. [pd6] Cattāro = *four*. *This should be replaced with the actual number of
+         bhikkhus present*.
+
+         5 pañca
+         6 cha
+         7 satta
+         8 aṭṭha
+         9 nava
+         10 dasa
+         11 ekādasa
+         12 dvādasa, bārasa
+         13 terasa, teḷasa
+         14 catuddasa, cuddasa
+         15 paṇṇarasa, pañcadasa
+         16 soḷasa
+         17 sattarasa
+         18 aṭṭhārasa, aṭṭhādasa
+         19 ekūnavīsati
+
+         20 vīsati, vīsa
+         21 ekavīsati
+         22 dvāvīsati, dvāvīsa, dvevīsati, bāvīsati, bāvīsa
+         23 tevīsati
+         24 catuvīsati
+         25 pañcavīsati
+         26 chabbīsati
+         27 sattavīsati
+         28 aṭṭhavīsati
+         29 ekūnatiṃsa
 
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
