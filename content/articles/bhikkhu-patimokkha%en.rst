@@ -199,6 +199,11 @@ Pubba-kicca
      - *( Yes, venerable sir )*
      - *（是的，尊者。）*
 
+   * - Bhikkhunīnam-ovādo pana idāni tāsaṃ natthitāya n'atthi.
+     - There is no instructing of the bhikkhunis because they now do not exist.
+     - 教誡比丘尼因現在她們已不復存在故不用。
+
+..
    * - 
      - 
      - 
@@ -332,6 +337,109 @@ Preliminary Duties: Notes
          27 sattavīsati
          28 aṭṭhavīsati
          29 ekūnatiṃsa
+
+         30 tiṃsa, samatiṃsa, tiṃsati
+         31 ekatiṃsa, ekattiṃsa
+         32 dvattiṃsa
+         33 tettiṃsa
+         34 catuttiṃsa
+         35 pañcattiṃsa
+         36 chattiṃsa
+         37 sattattiṃsa
+         38 aṭṭhattiṃsa
+         39 ekūnacattāḷīsa
+
+         40 cattāḷīsa, cattārīsa
+         41 ekacattāḷīsa
+         42 dvacattāḷīsa, dvecattāḷīsa, dvicattāḷīsa
+         43 tecattāḷīsa
+         44 catucattāḷīsa
+         45 pañca-cattāḷīsa
+         46 chacattāḷīsa
+         47 sattacattāḷīsa
+         48 aṭṭhacattāḷīsa
+         49 ekūnapaññāsa
+
+         50 paññāsa
+         51 ekapaññāsa
+         52 dvapaññāsa, dvepaññāsa, dvipaññāsa
+         53 tepaññāsa
+         54 catupaññāsa
+         55 pañca-paññāsa
+         56 chapaññāsa
+         57 sattapaññāsa
+         58 aṭṭhapaññāsa
+         59 ekūnasaṭṭhī
+
+         60 saṭṭhī, saṭṭhi
+         61 ekasaṭṭhī
+         62 dvāsaṭṭhī, dvesaṭṭhī, dvisaṭṭhī
+         63 tesaṭṭhī
+         64 catusaṭṭhī
+         65 pañcasaṭṭhī
+         66 chasaṭṭhī
+         67 sattasaṭṭhī
+         68 aṭṭhasaṭṭhī
+         69 ekūnasattati
+
+         70 sattati
+         71 ekasattati
+         72 dvasattati, dvāsattati, dvesattati, dvisattati
+         73 tesattati
+         74 catusattati
+         75 pañcasattati
+         76 chasattati
+         77 sattasattati
+         78 aṭṭhasattati
+         79 ekūnāsīti
+
+         80 asīti
+         81 ekāsīti
+         82 dvāsīti
+         83 tayāsīti
+         84 caturāsīti
+         85 pañcāsīti
+         86 chaḷāsīti
+         87 sattāsīti
+         88 aṭṭhāsīti
+         89 ekūnanavuti
+
+         90 navuti
+         91 ekanavuti
+         92 dvanavuti, dvenavuti
+         93 tenavuti
+         94 catunavuti
+         95 pañcanavuti
+         96 chanavuti
+         97 sattanavuti
+         98 aṭṭhanavuti
+         99 ekūnasataṃ
+
+         | 100 bhikkhusataṃ
+         | 101 ekuttara-bhikkhusataṃ
+         | 102 dvayuttara-bhikkhusataṃ
+         | 103 tayuttara-bhikkhusataṃ
+         | 104 catuttara-bhikkhusataṃ
+         | 105 pañcuttara-bhikkhusataṃ
+         | 106 chaḷuttara-bhikkhusataṃ
+         | 107 sattuttara-bhikkhusataṃ
+         | 108 aṭṭhuttara-bhikkhusataṃ
+         | 109 navuttara-bhikkhusataṃ
+         | 110 dasuttara-bhikkhusataṃ
+         | 120 vīsuttara-bhikkhusataṃ
+         | 130 tiṃsuttara-bhikkhusataṃ
+         | 140 cattāḷīsuttara-bhikkhusataṃ
+         | 150 paññāsuttara-bhikkhusataṃ
+         | 160 saṭṭhayuttara-bhikkhusataṃ
+         | 170 sattatyuttara-bhikkhusataṃ
+         | 180 asītyuttara-bhikkhusataṃ
+         | 190 navutyuttara-bhikkhusataṃ
+         | 199 ekūnasatuttara-bhikkhusataṃ
+         | 200 dve bhikkhu-satāni
+         | 201 ekuttarāni dve bhikkhu-satāni
+         | 300 tayo bhikkhu-satāni
+         | 400 cattāro bhikkhu-satāni
+         | 500 pañca bhikkhu-satāni
 
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
