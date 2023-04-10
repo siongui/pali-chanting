@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-08T21:03+07:00
+:modified: 2023-04-10T21:21+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -202,6 +202,34 @@ Pubba-kicca
    * - Bhikkhunīnam-ovādo pana idāni tāsaṃ natthitāya n'atthi.
      - There is no instructing of the bhikkhunis because they now do not exist.
      - 教誡比丘尼因現在她們已不復存在故不用。
+
+   * - Iti sakaraṇ'okāsānaṃ pubba-kiccānaṃ katattā, nikkaraṇ'okāsānaṃ
+       pubba-kiccānaṃ pakatiyā pariniṭṭhitattā.
+
+       Evan-taṃ nava-vidhaṃ pubba-kiccaṃ pariniṭṭhitaṃ hoti.
+     - Thus the ninefold preliminary duty has been completed by the doing of
+       what there is occasion to do and by the very nature of what there is no
+       occasion to do.
+     - 這樣，有可能做的事前工作已經做了，沒辦法做到的事前工作自然也就完成了。
+
+       這樣九項事前的工作完成了。
+
+   * - Niṭṭhite ca pubba-kicce, sace so divaso
+       cātuddasī-paṇṇarasī-sāmaggīna-maññataro yathājja uposatho paṇṇaraso
+       [cātuddaso],
+     - When the preliminary duty has been completed, if the day is either the
+       fourteenth, the fifteenth, or the harmony day - as today is the fifteenth
+       [fourteenth] - then:
+     - 完成事前工作時，如果那天是十四日、十五日與和合日的其中一種，
+       則今天是十五日[十四日]。
+
+   * - 1. yāvatikā ca bhikkhū kammappattā saṅgh'uposathārahā, cattāro vā tato vā
+       atirekā pakatattā pārājikaṃ anāpannā saṅghena vā anukkhittā,
+     - 1. if the bhikkhus coming to the transaction and appropriate for the
+       Saṅgha­- uposatha number four or more, being regular bhikkhus who have
+       neither committed a parajika offense nor been suspended by the Saṅgha;
+     - 1.凡是有資格參加僧團布薩羯磨者，
+       是四位或以上不曾犯波羅夷或未被僧團檢舉的合格比丘。
 
 ..
    * - 
