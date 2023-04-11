@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-10T21:21+07:00
+:modified: 2023-04-11T22:04+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -228,8 +228,47 @@ Pubba-kicca
      - 1. if the bhikkhus coming to the transaction and appropriate for the
        Saṅgha­- uposatha number four or more, being regular bhikkhus who have
        neither committed a parajika offense nor been suspended by the Saṅgha;
-     - 1.凡是有資格參加僧團布薩羯磨者，
+     - 1. 凡是有資格參加僧團布薩羯磨者，
        是四位或以上不曾犯波羅夷或未被僧團檢舉的合格比丘。
+
+   * - 2. te ca kho hatthapāsaṃ avijahitvā eka-sīmāyaṃ ṭhitā,
+     - 2. if they have not left the hatthapāsa to remain within the territory;
+     - 2. 他們處於同一界內，不分離於伸手所及處。
+
+   * - 3. tesañ-ca vikāla-bhojanādivasena vatthu-sabhāgāpattiyo ce na vijjanti,
+     - 3. if they have no offenses in common, such as eating food at the wrong
+       time; and
+     - 3. 他們不存在[違犯]非時食等事的同分罪。
+
+   * - 4. tesañ-ca hatthapāse hatthapāsato bahikaraṇavasena vajjetabbo koci
+       vajjanīya-puggalo ce n'atthi.
+     - 4. if there is, within the hatthapāsa, no disqualified person who should
+       be expelled outside the hatthapāsa,
+     - 4. 在他們伸手所及處之內，沒有任何應被遣出於伸手所及處之外的應被遣出之人。
+
+   * - Evan-taṃ uposatha-kammaṃ imehi catūhi lakkhaṇehi saṅgahitaṃ
+       pattakallaṃ nāma hoti, kātuṃ yuttarūpaṃ.
+     - then the Uposatha-transaction endowed with these four characteristics is
+       said to be ready and fit to be done.
+     - 如此，布薩羯磨由這四種特相構成，稱為“已到適時”，適合做事。
+
+   * - Uposatha-kammassa pattakallattaṃ viditvā idāni kariyamāno uposatho
+       saṅghena anumānetabbo.
+     - Knowing the Uposatha-transaction to be ready, the Saṅgha may infer that
+       the Uposatha should now be done.
+     - 知道布薩羯磨已到適時後，應清楚僧團現在正在進行布薩。
+
+   * - *( Sādhu, bhante )*
+     - *( Very well, venerable sir )*
+     - *（善哉，尊者。）*
+
+   * - Senior bhikkhu: Pubba-karaṇa-pubba-kiccāni samāpetvā imassa nisinnassa
+       bhikkhu-saṅghassa anumatiyā pāṭimokkhaṃ uddesituṃ ajjhesanaṃ karomi.
+     - Senior bhikkhu: The preliminary tasks and preliminary duties having been
+       completed, then with the consent of this seated Community of bhikkhus I
+       make a request that the Pāṭimokkha be recited.
+     - 資深比丘：事前工作及事前職責已完成了，在在座的比丘僧團同意下，
+       我請求誦波羅提木叉。
 
 ..
    * - 
