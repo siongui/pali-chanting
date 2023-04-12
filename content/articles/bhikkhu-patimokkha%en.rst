@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-11T22:04+07:00
+:modified: 2023-04-12T21:31+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -511,8 +511,8 @@ Preliminary Duties: Notes
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
-Bhikkhu Pāṭimokkha
-++++++++++++++++++
+Bhikkhu Pāṭimokkha - Nidān'uddeso
++++++++++++++++++++++++++++++++++
 
 .. container:: align-center video-container
 
@@ -520,6 +520,39 @@ Bhikkhu Pāṭimokkha
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+.. list-table:: Bhikkhu Pāṭimokkha - Nidān'uddeso
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Bhikkhu Pāṭimokkhaṃ
+     - Bhikkhu Pāṭimokkha
+     - 比丘波羅提木叉
+
+   * - Namo tassa bhagavato arahato sammā-sambuddhassa. *( tikkhattuṃ )*
+     - Homage to the Blessed One, the worthy one, the rightly self-awakened one.
+       *( three times )*
+     - 禮敬那位世尊，阿羅漢，正自覺者！ *（三遍）*
+
+   * - Suṇātu me bhante [āvuso] sangho. Ajj'uposatho paṇṇaraso [cātuddaso]. Yadi
+       saṅghassa pattakallaṃ, sangho upo-sathaṃ kareyya, pāṭimokkhaṃ uddiseyya.
+     - Venerable sirs [friends], may the Saṅgha listen to me. Today is the
+       Uposatha of the fifteenth [fourteenth]. If the Saṅgha is ready, let it
+       perform the Uposatha, let it recite the Pāṭimokkha.
+     - 尊者[朋友]們，請僧團聽我(說)，今天是十五日[十四日]布薩。若僧團已到適時，
+       僧團應進行布薩，誦波羅提木叉。
+
+..
+   * - 
+     - 
+     - 
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
 ----
 
