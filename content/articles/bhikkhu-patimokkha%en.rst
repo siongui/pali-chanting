@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-12T21:31+07:00
+:modified: 2023-04-13T22:10+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -520,7 +520,7 @@ Bhikkhu Pāṭimokkha - Nidān'uddeso
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-.. list-table:: Bhikkhu Pāṭimokkha - Nidān'uddeso
+.. list-table:: Bhikkhu Pāṭimokkha - Nidān'uddeso/The lntroduction Section/序誦
    :header-rows: 1
    :class: stack-th-td-on-mobile
    :widths: auto
@@ -545,6 +545,42 @@ Bhikkhu Pāṭimokkha - Nidān'uddeso
        perform the Uposatha, let it recite the Pāṭimokkha.
      - 尊者[朋友]們，請僧團聽我(說)，今天是十五日[十四日]布薩。若僧團已到適時，
        僧團應進行布薩，誦波羅提木叉。
+
+   * - Kiṃ saṅghassa pubba-kiccaṃ? Pārisuddhiṃ āyasmanto ārocetha. Pāṭimokkhaṃ
+       uddisissāmi. Taṃ sabbeva santā sādhukaṃ suṇoma manasikaroma. Yassa siyā
+       āpatti, so āvikareyya. Asantiyā āpattiyā tuṇhī bhavitabbaṃ. Tuṇhī-bhāvena
+       kho pan'āyasmante parisuddhā ti vedissāmi.
+     - What is the Saṅgha's preliminary duty? Let the venerable ones announce
+       any purity (that needs to be announced). I will recite the Pāṭimokkha.
+       May all of us who are present listen and pay careful attention. If anyone
+       has an offense, let him reveal it. Those without offense should remain
+       silent. By their silence I will know that the venerable ones are pure.
+     - 什麼是僧團的事前工作？請具壽們告知清淨，我將誦波羅提木叉。
+       請一切在場者對此好好地傾聽、作意！凡是有罪者，他要坦白；
+       沒有罪者應保持沉默。以沉默故，我將知道具壽們是清淨的。
+
+   * - Yathā kho pana pacceka-puṭṭhassa veyyākaraṇaṃ hoti, Evam-evaṃ evarūpāya
+       parisāya yāva-tatiyaṃ anussāvitaṃ hoti. Yo pana bhikkhu yāva-tatiyaṃ
+       anussāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya,
+       sampajāna-musāvād'assa hoti. Sampajāna-musāvādo kho pan'āyasmanto
+       antarāyiko dhammo vutto bhagavatā. Tasmā saramānena bhikkhunā āpannena
+       visuddh'āpekkhena santī āpatti āvikātabbā. Āvikatā hi'ssa phāsu hoti.
+     - Just as, when questioned individually, one should answer, the same holds
+       true when in this assembly the declaration (at the end of each section)
+       is made three times. Should any bhikkhu, when the declaration is made
+       three times, remember an existing offense but not reveal it, he has a
+       deliberate lie. And the Blessed One has declared a deliberate lie to be
+       an obstruction. Therefore any bhikkhu with an offense, on remembering it
+       and aiming at purity, should reveal his existing offense. Having revealed
+       it, he will be at peace.
+     - 正如對單一的問題有所回答，同樣地，在如此之眾中有乃至第三次的宣告。
+       若比丘在乃至第三次的宣告時，記得有罪而不坦白者，則為故意虛妄語。
+       具壽們，世尊說故意虛妄語是障礙法。
+       因此，記得曾犯戒而希望清淨的比丘有罪應當坦白，坦白了他才能安樂。
+
+   * - *( Nidān'uddeso niṭṭhito )*
+     - *(The lntroduction Section is finished)*
+     - *（ 序誦完成 ）*
 
 ..
    * - 
