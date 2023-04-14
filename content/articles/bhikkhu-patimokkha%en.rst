@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-13T22:10+07:00
+:modified: 2023-04-14T21:59+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -581,6 +581,47 @@ Bhikkhu Pāṭimokkha - Nidān'uddeso
    * - *( Nidān'uddeso niṭṭhito )*
      - *(The lntroduction Section is finished)*
      - *（ 序誦完成 ）*
+
+..
+   * - 
+     - 
+     - 
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
+
+Bhikkhu Pāṭimokkha - Pārājika
++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=423" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pārājika
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Tatr'ime **cattāro pārājikā dhammā** uddesaṃ āgacchanti.
+     - Here, venerable sirs, these **four actions entailing defeat** come up for
+       recitation.
+     - 於此，誦出此 **四波羅夷法** 來。
+
+   * - 1. Yo pana bhikkhu bhikkhūnaṃ sikkhā-sājīva-samāpanno, sikkhaṃ
+       appaccakkhāya dubbalyaṃ anāvikatvā, methunaṃ dhammaṃ paṭiseveyya antamaso
+       tiracchāna-gatāya-pi: pārājiko hoti asaṃvāso.
+     - 1. Should any bhikkhu-participating in the training and livelihood of the
+       bhikkhus, without having renounced the training, without having declared
+       his weakness-engage in sexual intercourse, even with a female animal, he
+       is defeated and no longer in affiliation.
+     - 1．若比丘得到諸比丘之學與生活規則，未捨棄學，沒有表明羸弱而從事淫欲法者，
+       乃至與畜生，也是波羅夷，不共住。
 
 ..
    * - 
