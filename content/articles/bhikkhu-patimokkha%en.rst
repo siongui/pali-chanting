@@ -26,7 +26,7 @@ line with the readings found in the Royal Thai edition of the Canon.
 
 The English translation in this edition is based, with minor corrections, on the
 translations of the Pāṭimokkha rules contained in the 2007 edition of
-*The Buddhist Monastic Code*.
+*The Buddhist Monastic Code*. [5]_
 
 I would like to acknowledge the help I have received from many individuals in
 preparing this edition in particular from Vens. Khematto Bhikkhu and Atthaññū
@@ -324,6 +324,8 @@ Preliminary Duties: Notes
          如果雨季有閏月，則改念為： "adhikamāsa-vasena nava ca uposathā ekā ca
          pavāraṇā": "因為閏月，九個布薩及一個自恣...."
 
+         See also [4]_
+
 .. [pd5] *This is the calculation for the first uposatha in a normal hot or cold
          season. The calculation for other dates - to be stated after* "iminā
          pakkhena eko uposatho sampatto" - *is as follows*:
@@ -374,6 +376,8 @@ Preliminary Duties: Notes
          | *Eighth: (see the separate section on the Pavāraṇā.)*
          | *Ninth:* satta ca uposathā ekā ca pavāraṇā atikkantā, eko uposatho avasiṭṭho.
          | *Tenth:* aṭṭha ca uposathā ekā ca pavāraṇā atikkantā, nava ca uposathā ekā ca pavāraṇā paripuṇṇā.
+
+         See also [4]_
 
 .. [pd6] Cattāro = *four*. *This should be replaced with the actual number of
          bhikkhus present*.
@@ -653,3 +657,10 @@ References:
        (
        `PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/patimokkha/Bhikkhu_Mahinda-Patimokkha-2009-hant.pdf>`__
        )
+
+.. [4] `Splendid Moons - uposatha moonday calendar <https://splendidmoons.github.io/>`_
+       (`GitHub <https://github.com/splendidmoons>`__)
+
+.. [5] `The Buddhist Monastic Code <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`_
+
+.. [6] `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
