@@ -627,10 +627,27 @@ Bhikkhu Pāṭimokkha - Pārājika
      - 1．若比丘得到諸比丘之學與生活規則，未捨棄學，沒有表明羸弱而從事淫欲法者，
        乃至與畜生，也是波羅夷，不共住。
 
+   * - 2. Yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyya-saṅkhātaṃ ādiyeyya,
+       yathārūpe adinnādāne rājāno coraṃ gahetvā, haneyyuṃ vā bandheyyuṃ vā
+       pabbājeyyuṃ vā, "Coro'si bālo'si muḷho'si theno'sī" ti. Tathārūpaṃ
+       bhikkhu adinnaṃ ādiyamāno: ayam-pi pārājiko hoti asaṃvāso.
+     - 2. Should any bhikkhu, in what is reckoned a theft, take what is not
+       given from an inhabited area or from the wilderness -just as when, in the
+       taking of what is not given, kings arresting the criminal would flog,
+       imprison, or banish him, (saying,) "You are a robber, you are a fool, you
+       are benighted, you are a thief" -a bhikkhu in the same way taking what is
+       not given also is defeated and no longer in affiliation.
+     - 2．若比丘在村落或林野，以盜心不與而取 ，猶如在不與取時，諸王抓住盜賊後，
+       可能打殺、捆縛或驅逐：“你是小偷、愚者、痴者、盜賊。”
+       同樣地，比丘在不與而取時，這也是波羅夷，不共住。
+
 ..
    * - 
      - 
      - 
+
+   %s/比庫/比丘/gc
+   %s/巴拉基格/波羅夷/gc
 
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
