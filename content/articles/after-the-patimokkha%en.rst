@@ -35,10 +35,27 @@ Sīluddesa-pāṭha
      - 
      - 
 
-   * - [Bhāsitam-idaṁ] tena Bhagavatā jānatā passatā arahatā sammā-sambuddhena: “Sampanna-sīlā bhikkhave viharatha sampanna-pāṭimokkhā. Pāṭimokkha-saṁvara-saṁvutā viharatha ācāra-gocara-sampannā. Aṇumattesu vajjesu bhaya-dassāvī samādāya sikkhatha sikkhāpadesūti.”
-
-       Tasmā tih’amhehi sikkhitabbaṁ: “Sampanna-sīlā viharissāma sampanna-pāṭimokkhā. Pāṭimokkha-saṁvara-saṁvutā viharissāma ācāra-gocara-sampannā. Aṇumattesu vajjesu bhaya-dassāvī samādāya sikkhissāma sikkhāpadesūti.” Evañ-hi no sikkhitabbaṁ.
+   * - [Bhāsitam-idaṁ] tena Bhagavatā jānatā passatā arahatā sammā-sambuddhena:
+       “Sampanna-sīlā bhikkhave viharatha sampanna-pāṭimokkhā.
+       Pāṭimokkha-saṁvara-saṁvutā viharatha ācāra-gocara-sampannā.
+       Aṇumattesu vajjesu bhaya-dassāvī samādāya sikkhatha sikkhāpadesūti.”
+     - This was said by the Blessed One, the One who Knows, the One who Sees,
+       the Worthy One Rightly Self-awakened: “Live consummate in virtue, monks,
+       and consummate in the Patimokkha. Live restrained with the restraint of
+       the Patimokkha, consummate in your behavior & sphere of activity. Train
+       yourselves, having undertaken the training rules, seeing danger in the
+       slightest faults.”
      - 
+
+   * - Tasmā tih’amhehi sikkhitabbaṁ: “Sampanna-sīlā viharissāma
+       sampanna-pāṭimokkhā. Pāṭimokkha-saṁvara-saṁvutā viharissāma
+       ācāra-gocara-sampannā. Aṇumattesu vajjesu bhaya-dassāvī samādāya
+       sikkhissāma sikkhāpadesūti.” Evañ-hi no sikkhitabbaṁ.
+     - Therefore we should train ourselves: “We will live consummate in virtue,
+       consummate in the Patimokkha. We will live restrained with the restraint
+       of the Patimokkha, consummate in our behavior & sphere of activity. We
+       will train ourselves, having undertaken the training rules, seeing danger
+       in the slightest faults.” That’s how we should train ourselves.
      - 
 
 ..
@@ -72,46 +89,41 @@ Tāyana-gāthā
      - 
      - 
 
-   * - [Chinda sotaṁ] parakkamma
+   * - | [Chinda sotaṁ] parakkamma
+       | Kāme panūda brāhmaṇa
+       | Nappahāya muni kāme
+       | N’ekattam-upapajjati.
+     - Having striven, brāhman, cut the stream. Dispel sensual passions.
+       Without abandoning sensual passions, a sage encounters no oneness of
+       mind.
+     -
 
-       Kāme panūda brāhmaṇa
-
-       Nappahāya muni kāme
-
-       N’ekattam-upapajjati.
-
-       Kayirā ce kayirāthenaṁ
-
-       Daḷhamenaṁ parakkame
-
-       Sithilo hi paribbājo
-
-       Bhiyyo ākirate rajaṁ.
-
-       Akataṁ dukkaṭaṁ seyyo
-
-       Pacchā tappati dukkaṭaṁ.
-
-       Katañ-ca sukataṁ seyyo
-
-       Yaṁ katvā nānutappati.
-
-       Kuso yathā duggahito
-
-       Hattham’evānukantati
-
-       Sāmaññaṁ dupparāmaṭṭhaṁ
-
-       Nirayāyūpakaḍḍhati.
-
-       Yaṅ-kiñci sithilaṁ kammaṁ
-
-       Saṅkiliṭṭhañ-ca yaṁ vataṁ
-
-       Saṅkassaraṁ brahma-cariyaṁ
-
-       Na taṁ hoti, mahapphalanti.
+   * - | Kayirā ce kayirāthenaṁ
+       | Daḷhamenaṁ parakkame
+       | Sithilo hi paribbājo
+       | Bhiyyo ākirate rajaṁ.
+       | Akataṁ dukkaṭaṁ seyyo
+       | Pacchā tappati dukkaṭaṁ.
+       | Katañ-ca sukataṁ seyyo
+       | Yaṁ katvā nānutappati.
+     - If something’s to be done, then work at it firmly, for a slack
+       going-forth kicks up all the more dust. It’s better to leave a misdeed
+       undone. A misdeed burns you afterward. Better that a good deed be done
+       that, when done, you don’t regret.
      - 
+
+   * - | Kuso yathā duggahito
+       | Hattham’evānukantati
+       | Sāmaññaṁ dupparāmaṭṭhaṁ
+       | Nirayāyūpakaḍḍhati.
+       | Yaṅ-kiñci sithilaṁ kammaṁ
+       | Saṅkiliṭṭhañ-ca yaṁ vataṁ
+       | Saṅkassaraṁ brahma-cariyaṁ
+       | Na taṁ hoti, mahapphalanti.
+     - Just as sharp-bladed grass, if wrongly held, wounds the very hand that
+       holds it—the contemplative life, if wrongly grasped, drags you down to
+       hell. Any slack act, or defiled observance, or fraudulent holy life bears
+       no great fruit.
      - 
 
 ----
