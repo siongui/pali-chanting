@@ -2,15 +2,57 @@ After the Pāṭimokkha
 ####################
 
 :date: 2023-04-15T23:07+07:00
+:modified: 2023-04-17T22:01+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Chanting after the Bhikkhu Pāṭimokkha
 :og_image: http://i.ytimg.com/vi/5rgjIQkyBr8/hqdefault.jpg
 
 
-Chanting after the Bhikkhu Pāṭimokkha [1]_
+Chanting after the Bhikkhu Pāṭimokkha [1]_ [3]_
 
 .. contents:: **After the Pāṭimokkha**
+
+
+Sacca-kiriyā-gāthā
+++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5rgjIQkyBr8?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Sacca-kiriyā-gāthā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - [Handa mayaṃ sacca-kiriyā-gāthāyo bhaṇāmase]
+     - 
+     - 
+
+   * - | Natthi me saraṇaṃ aññaṃ buddho me saraṇaṃ varaṃ
+       | Etena sacca-vajjena sotthi me hotu sabbadā
+     - | For me there is no other Refuge, the Buddha is my excellent refuge.
+       | By the utterance of this Truth, may there be blessings for me.
+     - 
+
+   * - | Natthi me saraṇaṃ aññaṃ dhammo me saraṇaṃ varaṃ
+       | Etena sacca-vajjena sotthi me hotu sabbadā
+     - | For me there is no other Refuge, the Dhamma is my excellent refuge.
+       | By the utterance of this Truth, may there be blessings for me.
+     - 
+
+   * - | Natthi me saraṇaṃ aññaṃ saṅgho me saraṇaṃ varaṃ
+       | Etena sacca-vajjena sotthi me hotu sabbadā
+     - | For me there is no other Refuge, the Sangha is my excellent refuge.
+       | By the utterance of this Truth, may there be blessings for me.
+     - 
 
 
 Sīluddesa-pāṭha
@@ -133,3 +175,5 @@ References:
 .. [1] `After the Pāṭimokkha | A Chanting Guide <https://www.dhammatalks.org/books/ChantingGuide/Section0076.html>`_
 
 .. [2] `ภิกขุปาฏิโมกข์ Recitation of Pāṭimokkha <https://www.youtube.com/playlist?app=desktop&list=PLC1rhYaavWnUQaIlAHd1dwpODp_N4izlE>`_
+
+.. [3] `Sacca-kiriyā-gāthā - Essential Chants - Pāṭimokkha Chants - Bhikkhu Manual <https://bhikkhu-manual.github.io/chants/patimokkha-chants.html#sacca>`_
