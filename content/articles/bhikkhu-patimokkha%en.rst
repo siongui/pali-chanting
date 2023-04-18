@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-14T21:59+07:00
+:modified: 2023-04-18T21:22+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -658,16 +658,36 @@ Bhikkhu Pāṭimokkha - Pārājika
        “餵，男子！為什麼如此惡苦地活著？死了比活著更好！ ”如此之心意、心思惟，
        以各種方法讚歎死亡的美好，或勸勉死，這也是波羅夷，不共住。
 
+   * - 4. Yo pana bhikkhu anabhijānaṃ uttari-manussa-dhammaṃ attūpanāyikaṃ
+       alam-ariya-ñāṇa-dassanaṃ samudācareyya: "Iti jānāmi, iti passāmī" ti.
+       Tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā āpanno
+       visuddh'āpekkho evaṃ vadeyya, "Ajānam-evaṃ āvuso avacaṃ, 'jānāmi,'
+       apassaṃ, 'passāmi.' Tucchaṃ musā vilapin" ti. Aññatra adhimānā: ayam-pi
+       pārājiko hoti asaṃvāso.
+     - 4. Should any bhikkhu, without direct knowledge, claim a superior human
+       state, a truly noble knowledge and vision, as present in himself,
+       (saying,) "Thus do I know; thus do I see," such that regardless of
+       whether or not he is cross-examined on a later occasion, he-being
+       remorseful and desirous of purification-might say, "Friends, not knowing,
+       I said I know; not seeing, I said I see-vainly, falsely, idly," unless it
+       was from over-estimation, he also is defeated and no longer in
+       affiliation.
+     - 4．若比丘聲稱關於自己未證知的上人法 、能為聖者的智見:
+       “我如是知，我如是見。”從那之後的時間，[無論]被檢問或沒有被檢問，
+       若希望所犯的清淨而如此說：“賢友，不如此知而說‘我知’，不見[而說]‘我見’，
+       [我說了]空無、虛偽、妄語。”
+       除了增上慢外，這也是波羅夷，不共住。
+
 ..
    * - 
      - 
      - 
 
-   %s/比庫/比丘/gc
-   %s/巴拉基格/波羅夷/gc
-
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
+
+   %s/比庫/比丘/gc
+   %s/巴拉基格/波羅夷/gc
 
 ----
 
