@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-18T21:22+07:00
+:modified: 2023-04-19T21:16+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -678,6 +678,44 @@ Bhikkhu Pāṭimokkha - Pārājika
        [我說了]空無、虛偽、妄語。”
        除了增上慢外，這也是波羅夷，不共住。
 
+   * - Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā, yesaṃ bhikkhu aññataraṃ
+       vā aññataraṃ vā āpajjitvā na labhati bhikkhūhi saddhiṃ saṃvāsaṃ. Yathā
+       pure, tathā pacchā: pārājiko hoti asaṃvāso.
+     - Venerable sirs, the four actions entailing defeat have been recited. A
+       bhikkhu who has committed any one of these offenses no longer has the
+       right to live together with the bhikkhus. Whatever he was before [he
+       became a bhikkhu], that is what he is after [committing the offense]: he
+       is defeated and no longer in affiliation.
+     - 具壽們，已經誦出四波羅夷法。若比丘犯了其中任何一條，
+       則不得與比丘們一起共住，以後就像先前那樣，是波羅夷，不共住。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *( Pārājik'uddeso niṭṭhito )*
+     - *(The Defeat Section is finished)*
+     - *（ 波羅夷誦完成 ）*
+
 ..
    * - 
      - 
@@ -688,6 +726,16 @@ Bhikkhu Pāṭimokkha - Pārājika
 
    %s/比庫/比丘/gc
    %s/巴拉基格/波羅夷/gc
+
+
+Bhikkhu Pāṭimokkha - Saṅghādisesa
++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=601" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----
 
