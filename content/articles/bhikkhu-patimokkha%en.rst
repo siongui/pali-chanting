@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-19T21:16+07:00
+:modified: 2023-04-20T21:40+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -736,6 +736,35 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
   .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=601" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+.. list-table:: Bhikkhu Pāṭimokkha - Saṅghādisesa
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **terasa saṅghādisesā dhammā** uddesaṃ āgacchanti.
+     - Venerable sirs, these **thirteen actions entailing initial and subsequent
+       meetings of the Community** come up for recitation.
+     - 具壽們，誦出此 **十三僧殘法** 來。
+
+   * - 1 . Sañcetanikā sukka-visaṭṭhi aññatra supinantā, saṅghādiseso.
+     - 1. Intentional emission of semen---except while dreaming---entails
+       initial and subsequent meetings of the Community.
+     - 1. 故意出精，除了夢中外，僧殘。
+
+..
+   * - 
+     - 
+     - 
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
+
 
 ----
 
