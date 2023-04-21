@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-20T21:40+07:00
+:modified: 2023-04-21T20:55+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -756,6 +756,26 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
      - 1. Intentional emission of semen---except while dreaming---entails
        initial and subsequent meetings of the Community.
      - 1. 故意出精，除了夢中外，僧殘。
+
+   * - 2. Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ
+       kāya-saṃsaggaṃ samāpajjeyya, hattha-gāhaṃ vā veṇi-gāhaṃ vā aññatarassa
+       vā aññatarassa vā aṅgassa parāmasanaṃ, saṅghādiseso.
+     - 2. Should any bhikkhu, overcome by lust, with altered mind, engage in
+       bodily contact with a woman, or in holding her hand, holding a lock of
+       her hair, or caressing any of her limbs, it entails initial and
+       subsequent meetings of the Community.
+     - 2．若比丘以貪愛、變易之心與女人發生身體相接觸，或捉手，或捉髮，
+       或摩觸任何部分者，僧殘。
+
+   * - 3. Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi
+       vācāhi obhāseyya, yathā taṃ yuvā yuvatiṃ methunūpasañhitāhi,
+       saṅghādiseso.
+     - 3. Should any bhikkhu, overcome by lust, with altered mind, address lewd
+       words to a woman in the manner of young men to a young woman alluding to
+       sexual intercourse, it entails initial and subsequent meetings of the
+       Community.
+     - 3．若比丘以貪愛、變易之心對女人說粗俗語，
+       猶如少男對少女[說]與淫欲相關者一樣，僧殘。
 
 ..
    * - 
