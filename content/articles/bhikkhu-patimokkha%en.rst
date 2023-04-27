@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-21T20:55+07:00
+:modified: 2023-04-27T21:37+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -776,6 +776,21 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        Community.
      - 3．若比丘以貪愛、變易之心對女人說粗俗語，
        猶如少男對少女[說]與淫欲相關者一樣，僧殘。
+
+   * - 4. Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike
+       atta-kāma-pāricariyāya vaṇṇaṃ bhāseyya, "Etad-aggaṃ bhagini
+       pāricariyānaṃ, yā m'ādisaṃ sīlavantaṃ kalyāṇa-dhammaṃ brahmacāriṃ etena
+       dhammena paricareyyā" ti, methunūpasañhitena, saṅghādiseso.
+     - 4. Should any bhikkhu, overcome by lust, with altered mind, speak in the
+       presence of a woman in praise of ministering to his own sensuality thus:
+       "This, sister, is the foremost ministration, that of ministering to a
+       virtuous, fine-natured follower of the celibate life such as myself with
+       this act"-alluding to sexual intercourse-it entails initial and
+       subsequent meetings of the Community.
+     - 4．若比丘以貪愛、變易之心在女人面前，讚嘆以欲侍奉自己而說:
+       “姐妹，這是最上的侍奉：像我這樣的持戒者、善法者、梵行者，
+       應該以此法來侍奉。”
+       與淫欲相關者，僧殘。
 
 ..
    * - 
