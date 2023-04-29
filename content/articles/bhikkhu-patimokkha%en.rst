@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-27T21:37+07:00
+:modified: 2023-04-29T21:21+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -791,6 +791,16 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        “姐妹，這是最上的侍奉：像我這樣的持戒者、善法者、梵行者，
        應該以此法來侍奉。”
        與淫欲相關者，僧殘。
+
+   * - 5. Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisa-matiṃ,
+       purisassa vā itthī-matiṃ, jāyattane vā jārattane vā antamaso
+       taṃ-khaṇikāya-pi, saṅghādiseso.
+     - 5. Should any bhikkhu engage in conveying a man's intentions to a woman
+       or a woman's intentions to a man, proposing marriage or paramourage-even
+       if only for a momentary liaison-it entails initial and subsequent
+       meetings of the Community.
+     - 5．若比丘從事做媒，[傳達]男子之意給女子，或女子之意給男子，
+       而成為妻子或情人，乃至短暫關係，也僧殘。
 
 ..
    * - 
