@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-29T21:21+07:00
+:modified: 2023-04-30T22:04+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -801,6 +801,30 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        meetings of the Community.
      - 5．若比丘從事做媒，[傳達]男子之意給女子，或女子之意給男子，
        而成為妻子或情人，乃至短暫關係，也僧殘。
+
+   * - 6. Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ att'uddesaṃ
+       pamāṇikā kāretabbā. Tatr'idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo
+       sugata-vidatthiyā, tiriyaṃ satt'antarā. Bhikkhū abhinetabbā
+       vatthu-desanāya. Tehi bhikkhūhi vatthuṃ desetabbaṃ anārambhaṃ
+       saparikka-manaṃ. Sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya
+       kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthu-desanāya, pamāṇaṃ vā
+       atikkāmeyya, saṅghādiseso.
+     - 6. When a bhikkhu is having a hut built from (gains acquired by) his own
+       begging-having no sponsor and destined for himself-he is to have it built
+       to the standard measurement. Here the standard is this: twelve spans,
+       using the sugata span, in length (measuring outside); seven in width,
+       (measuring) inside. Bhikkhus are to be assembled to designate the site.
+       The site the bhikkhus designate should be without disturbances and with
+       adequate space. If the bhikkhu should have a hut built from his own
+       begging on a site with disturbances and without adequate space, or if he
+       should not assemble the bhikkhus to designate the site, or if he should
+       have the standard exceeded, it entails initial and subsequent meetings of
+       the Community.
+     - 6．比丘在為自己建造自行乞求的無[施]主孤邸時，當適量而造。
+       這裡的量是：長為善至張手的十二張手，內部寬為七張。
+       應帶領比丘們指示地點，應由那些比丘指示無侵害、有環繞空間的地點。
+       假如比丘在有侵害、無環繞空間的地點建造自行乞求的孤邸，
+       或未帶領比丘們指示地點，或超過量者，僧殘。
 
 ..
    * - 
