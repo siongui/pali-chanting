@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-04-30T22:04+07:00
+:modified: 2023-05-01T22:38+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -825,6 +825,23 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        應帶領比丘們指示地點，應由那些比丘指示無侵害、有環繞空間的地點。
        假如比丘在有侵害、無環繞空間的地點建造自行乞求的孤邸，
        或未帶領比丘們指示地點，或超過量者，僧殘。
+
+   * - 7. Mahallakam-pana bhikkhunā vihāraṃ kārayamānena, sassāmikaṃ
+       att'uddesaṃ bhikkhū abhinetabbā vatthu-desanāya. Tehi bhikkhūhi vatthuṃ
+       desetabbaṃ anārambhaṃ saparikkamanaṃ. Sārambhe ce bhikkhu vatthusmiṃ
+       aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya
+       vatthu-desanāya, saṅghādiseso.
+     - 7. When a bhikkhu is having a large dwelling built-having a sponsor and
+       destined for himself-he is to assemble bhikkhus to designate the site.
+       The site the bhikkhus designate should be without disturbances and with
+       adequate space. If the bhikkhu should have a large dwelling built on a
+       site with disturbances and without adequate space, or if he should not
+       assemble the bhikkhus to designate the site, it entails initial and
+       subsequent meetings of the Community.
+     - 7．比丘在為自己建造有[施]主的大住所時，應帶領比丘們指示地點，
+       應由那些比丘指示無侵害、有環繞空間的地點。
+       假如比丘在有侵害、無環繞空間的地點建造大住所，或未帶領比丘們指示地點者，
+       僧殘。
 
 ..
    * - 
