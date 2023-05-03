@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-01T22:38+07:00
+:modified: 2023-05-03T22:58+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -842,6 +842,21 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        應由那些比丘指示無侵害、有環繞空間的地點。
        假如比丘在有侵害、無環繞空間的地點建造大住所，或未帶領比丘們指示地點者，
        僧殘。
+
+   * - 8. Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena
+       dhammena anuddhaṃseyya, "App'eva nāma naṃ imamhā brahma-cariyā cāveyyan"
+       ti. Tato aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā,
+       amūlakañ-c'eva taṃ adhikaraṇaṃ hoti, bhikkhu ca dosaṃ patiṭṭhāti,
+       saṅghādiseso.
+     - 8. Should any bhikkhu-corrupt, aversive, disgruntled--charge a bhikkhu
+       with an unfounded case entailing defeat, (thinking,) "Perhaps I may bring
+       about his fail from this celibate life," then regardless of whether or
+       not he is cross-examined on a later occasion, if the issue is unfounded
+       and the bhikkhu confesses his aversion, it entails initial and subsequent
+       meetings of the Community.
+     - 8．若比丘惡意、瞋恨、不滿，以無根據的波羅夷法誹謗比丘:
+       “或許因此能使他從梵行中退墮。 ”從那之後的時間，[無論]被檢問或沒有被檢問，
+       那只是毫無根據的事情，且比丘基於瞋恨，僧殘。
 
 ..
    * - 
