@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-03T22:58+07:00
+:modified: 2023-05-04T21:52+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -857,6 +857,23 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
      - 8．若比丘惡意、瞋恨、不滿，以無根據的波羅夷法誹謗比丘:
        “或許因此能使他從梵行中退墮。 ”從那之後的時間，[無論]被檢問或沒有被檢問，
        那只是毫無根據的事情，且比丘基於瞋恨，僧殘。
+
+   * - 9. Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto añña-bhāgiyassa
+       adhikaraṇassa kiñci desaṃ lesa-mattaṃ upādāya pārājikena dhammena
+       anuddhaṃseyya, "App'eva nāma naṃ imamhā brahma-cariyā cāveyyan" ti. Tato
+       aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā,
+       añña-bhāgiyañ-c'eva taṃ adhikaraṇaṃ hoti, koci deso lesa-matto upādinno,
+       bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.
+     - 9. Should any bhikkhu- corrupt, aversive, disgruntled- using as a mere
+       ploy an aspect of an issue that pertains otherwise, charge a bhikkhu with
+       a case entailing defeat, (thinking,) "Perhaps I may bring about his fall
+       from this celibate life," then regardless of whether or not he is
+       cross-examined on a later occasion, if the issue pertains otherwise, an
+       aspect used as a mere ploy, and the bhikkhu confesses his aversion, it
+       entails initial and subsequent meetings of the Cornmunity.
+     - 9．若比丘惡意、瞋恨、不滿，取其他事情的部分類似之處，以波羅夷法誹謗比丘：
+       “或許因此能使他從梵行中退墮。”從那之後的時間，[無論]被檢問或沒有被檢問，
+       那只是取了其他事情的部分類似之處，且比丘基於瞋恨，僧殘。
 
 ..
    * - 
