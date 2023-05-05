@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-04T21:52+07:00
+:modified: 2023-05-05T22:20+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -874,6 +874,39 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
      - 9．若比丘惡意、瞋恨、不滿，取其他事情的部分類似之處，以波羅夷法誹謗比丘：
        “或許因此能使他從梵行中退墮。”從那之後的時間，[無論]被檢問或沒有被檢問，
        那只是取了其他事情的部分類似之處，且比丘基於瞋恨，僧殘。
+
+   * - 10. Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya,
+       bhedana-saṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so
+       bhikkhu bhikkhūhi evam-assa vacanīyo, "Mā āyasmā samaggassa saṅghassa
+       bhedāya parakkami. Bhedana-saṃvattanikaṃ vā. adhikaraṇaṃ samādāya
+       paggayha aṭṭhāsi. Samet'āyasmā saṅghena, samaggo hi saṅgho sammodamāno
+       avivadamāno ek'uddeso phāsu viharatī" ti.
+
+       Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu
+       bhikkhūhi yāva-tatiyaṃ samanubhāsitabbo tassa paṭinissaggāya.
+       Yāva-tatiyañ-ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ.
+       No ce paṭinissajjeyya, saṅghādiseso.
+     - 10. Should any bhikkhu agitate for a schism in a united Community, or
+       should he persist in taking up an issue conducive to schism, the bhikkhus
+       are to admonish him thus: "Do not, venerable sir, agitate for a schism in
+       a united Community or persist in taking up an issue conducive to schism.
+       Let the venerable one be reconciled with the Community, for a united
+       Community, on courteous terms, without dispute, with a common recitation,
+       dwells in peace."
+
+       And should that bhikkhu, thus admonished by the bhikkhus, persist as
+       before, the bhikkhus are to rebuke him up to three times so as to desist.
+       If while being rebuked up to three times he desists, that is good. If he
+       does not desist, it entails initial and subsequent meetings of the
+       Community.
+     - 10．若比丘致力於分裂和合的僧團，或受持、堅持、住立於導致分裂之事。
+       比丘們應如此勸告那個比丘：“請具壽不要致力於分裂和合的僧團，
+       或受持、堅持、住立於導致分裂之事。具壽，請與僧團和合，
+       和合的僧團確實是歡喜、無爭、同一誦[戒]、安樂而住的！ ”
+
+       當比丘們在如此勸告那個比丘時，他仍然堅持，
+       比丘們應乃至第三次勸諫那個比丘，使他捨棄。假如在乃至第三次勸諫時捨棄了，
+       這實在很好。假如不捨棄，僧殘。
 
 ..
    * - 
