@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-05T22:20+07:00
+:modified: 2023-05-07T23:13+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -907,6 +907,47 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        當比丘們在如此勸告那個比丘時，他仍然堅持，
        比丘們應乃至第三次勸諫那個比丘，使他捨棄。假如在乃至第三次勸諫時捨棄了，
        這實在很好。假如不捨棄，僧殘。
+
+   * - 11. Tass'eva kho pana bhikkhussa bhikkhū honti anuvattakā vagga-vādakā,
+       eko vā dve vā tayo vā, te evaṃ vadeyyuṃ, "Mā āyasmanto etaṃ bhikkhuṃ
+       kiñci avacuttha. Dhamma-vādī c'eso bhikkhu, vinaya-vādī c'eso bhikkhu,
+       amhākañ-c'eso bhikkhu chandañ-ca ruciñ-ca adāyā voharati. Jānāti no
+       bhāsati, amhākam-p'etaṃ khamatī" ti. Te bhikkhū bhikkhūhi evam-assu
+       vacanīyā, "Mā āyasmanto evaṃ avacuttha. Na c'eso bhikkhu dhamma-vādī, na
+       c'eso bhikkhu vinaya-vādī. Mā āyasmantānam-pi saṅgha-bhedo rucittha.
+       Samet'āyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno
+       ek'uddeso phāsu viharatī" ti.
+
+       Evañ-ca te bhikkhū bhikkhūhi vuccamānā tath'eva paggaṇheyyuṃ te bhikkhū
+       bhikkhūhi yāva-tatiyaṃ samanubhāsitabbā tassa paṭinissaggāya.
+       Yāva-tatiyañ-ce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, icc'etaṃ kusalaṃ.
+       No ce paṭinissajjeyyuṃ, saṅghādiseso.
+     - 11. Should bhikkhus-one, two, or three-who are followers and partisans of
+       that bhikkhu, say, "Do not, venerable sirs, admonish that bhikkhu in any
+       way. He is an exponent of the Dhamma. He is an exponent of the Vinaya. He
+       acts with our consent and approval. He knows, he speaks for us, and that
+       is pleasing to us," the bhikkhus are to admonish them thus: "Do not say
+       that, venerable sirs. That bhikkhu is not an exponent of the Dhamma and
+       he is not an exponent of the Vinaya. Do not, venerable sirs, approve of
+       a schism in the Community. Let the venerable ones' (minds) be reconciled
+       with the Community, for a united Community, on courteous terms, without
+       dispute, with a common recitation, dwells in peace."
+
+       And should those bhikkhus, thus admonished by the bhikkhus, persist as
+       before, the bhikkhus are to rebuke them up to three times so as to
+       desist. If while being rebuked up to three times they desist, that is
+       good. If they do not desist, it entails initial and subsequent meetings
+       of the Community.
+     - 11．有比丘是那個比丘的追隨者、別眾說者，一個、兩個或三個，若他們如此說:
+       “具壽們，請不要說那位比丘的任何事情。那位比丘是法說者，那位比丘是律說者，
+       那位比丘取我們所欲和所喜樂的而說，知道我們而說，那是我們認可的。
+       ”比丘們應如此勸告那些比丘:“請具壽們不要如此說，那個比丘不是法說者，
+       那個比丘也不是律說者。具壽們，不要喜歡分裂僧團。具壽們，請與僧團和合，
+       和合的僧團確實是歡喜、無爭、同一誦[戒]、安樂而住的！ ”
+
+       當比丘們在如此勸告那些比丘時，他們仍然堅持，
+       比丘們應乃至第三次勸諫那些比丘，使他們捨棄。
+       假如在乃至第三次勸諫時捨棄了，這實在很好。假如不捨棄，僧殘。
 
 ..
    * - 
