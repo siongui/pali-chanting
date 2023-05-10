@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-07T23:13+07:00
+:modified: 2023-05-10T23:17+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -948,6 +948,49 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        當比丘們在如此勸告那些比丘時，他們仍然堅持，
        比丘們應乃至第三次勸諫那些比丘，使他們捨棄。
        假如在乃至第三次勸諫時捨棄了，這實在很好。假如不捨棄，僧殘。
+
+   * - 12. Bhikkhu pan'eva dubbaca-jātiko hoti, uddesa-pariyāpannesu
+       sikkhāpadesu bhikkhūhi saha-dhammikaṃ vuccamāno attānaṃ avacanīyaṃ
+       karoti, "Mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā.
+       Aham-p'āyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā.
+       Viramath'āyasmanto mama vacanāyā" ti. So bhikkhu bhikkhūhi evam-assa
+       vacanīyo, "Mā āyasmā attānaṃ avacanīyaṃ akāsi. Vacanīyam-eva āyasmā
+       attānaṃ karotu. Āyasmā-pi bhikkhū vadetu saha-dhammena, bhikkhū-pi
+       āyasmantaṃ vakkhanti saha-dhammena. Evaṃ saṃvaḍḍhā hi tassa bhagavato
+       parisā, yad'idaṃ aññam-añña-vacanena aññam-añña-vuṭṭhāpanenā" ti.
+
+       Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu
+       bhikkhūhi yāva-tatiyaṃ samanubhāsitabbo tassa paṭinissaggāya.
+       Yāva-tatiyañ-ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ.
+       No ce paṭinissajjeyya, saṅghādiseso.
+     - 12. In case a bhikkhu is by nature difficult to admonish-who, when being
+       legitimately admonished by the bhikkhus with reference to the training
+       rules included in the (Pāṭimokkha) recitation, makes himself
+       unadmonishable, (saying,) "Do not, venerable ones, say anything to me,
+       good or bad; and I won't say anything to the venerable ones, good or bad.
+       Refrain, venerable ones, from admonishing me"-the bhikkhus are to
+       admonish him thus: "Let the venerable one not make himself
+       unadmonishable. Let the venerable one make himself admonishable. Let the
+       venerable one admonish the bhikkhus in accordance with what is right, and
+       the bhikkhus will admonish the venerable one in accordance with what is
+       right; for it is thus that the Blessed One's following is nurtured:
+       through mutual admonition, through mutual rehabilitation."
+
+       And should that bhikkhu, thus admonished by the bhikkhus, persist as
+       before, the bhikkhus are to rebuke him up to three times so as to desist.
+       If while being rebuked up to three times he desists, that is good. If he
+       does not desist, it entails initial and subsequent meetings of the
+       Comrnunity.
+     - 12．有生性難教的比丘，當比丘們在屬於所誦學處的範圍內如法地勸告時，
+       他使自己不受勸告:“請具壽們不要勸告我任何善的或惡的，
+       我也不會勸說具壽們任何善的或惡的，請具壽們停止勸告我！”
+       比丘們應如此勸告那個比丘:“請具壽不要使自己不受勸告，
+       請具壽使自己接受勸告，請具壽如法地勸告比丘們，比丘們也將如法地勸說具壽，
+       如此則世尊之眾得以增長，即互相勸告，互相出罪。 ”
+
+       當比丘們在如此勸告那個比丘時，他仍然堅持，
+       比丘們應乃至第三次勸諫那個比丘，使他捨棄。假如在乃至第三次勸諫時捨棄，
+       這實在很好。假如不捨棄，僧殘。
 
 ..
    * - 
