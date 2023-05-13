@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-10T23:17+07:00
+:modified: 2023-05-13T21:23+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -990,6 +990,73 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
 
        當比丘們在如此勸告那個比丘時，他仍然堅持，
        比丘們應乃至第三次勸諫那個比丘，使他捨棄。假如在乃至第三次勸諫時捨棄，
+       這實在很好。假如不捨棄，僧殘。
+
+   * - 13. Bhikkhu pan'eva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati
+       kula-dūsako pāpa-samācāro. Tassa kho pāpakā samācārā dissanti c'eva
+       suyyanti ca, kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca. So
+       bhikkhu bhikkhūhi evam-assa vacanīyo, "Āyasmā kho kula-dūsako
+       pāpa-samācāro. Āyasmato kho pāpakā samācārā dissanti c'eva suyyanti ca,
+       kulāni c'āyasmatā duṭṭhāni dissanti c'eva suyyanti ca. Pakkamat'āyasmā
+       imamhā āvāsā, alan-te idha vāsenā" ti.
+
+       Evañ-ca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya,
+       "Chanda-gāmino ca bhikkhū, dosa-gāmino ca bhikkhū, moha-gāmino ca
+       bhikkhū, bhaya-gāmino ca bhikkhū, tādisikāya āpattiyā ekaccaṃ pabbājenti,
+       ekaccaṃ na pabbājentī" ti. So bhikkhu bhikkhūhi evam-assa vacanīyo, "Mā
+       āyasmā evaṃ avaca. Na ca bhikkhū chanda-gamino, na ca bhikkhū
+       dosa-gāmino, na ca bhikkhū moha-gāmino, na ca bhikkhū bhaya-gāmino.
+       Āyasmā kho kula-dūsako pāpa-samācāro. Āyasmato kho pāpakā samācārā
+       dissanti c'eva suyyanti ca, kulāni c'āyasmatā duṭṭhāni dissanti c'eva
+       suyyanti ca. Pakkamat'āyasmā imamhā āvāsā, alan-te idha vāsenā" ti.
+
+       Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu
+       bhikkhūhi yāva-tatiyaṃ samanubhāsitabbo tassa paṭinissaggāya.
+       Yāva-tatiyañ-ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ.
+       No ce paṭinissajjeyya, saṅghādiseso.
+     - 13. In case a bhikkhu living in dependence on a certain village or town
+       is a corrupter of families, a man of depraved conduct-whose depraved
+       conduct is both seen and heard about, and the families he has corrupted
+       are both seen and heard about-the bhikkhus are to admonish him thus:
+       "You, venerable sir, are a corrupter of families, a man of depraved
+       conduct. Your depraved conduct is both seen and heard about, and the
+       families you have corrupted are both seen and heard about. Leave this
+       monastery, venerable sir. Enough of your staying here."
+
+       And should that bhikkhu, thus admonished by the bhikkhus, say about the
+       bhikkhus, "The bhikkhus are biased through favoritism, biased through
+       aversion, biased through delusion, biased through fear, in that for this
+       sort of offense they banish some and do not banish others," the bhikkhus
+       are to admonish him thus: "Do not say that, venerable sir. The bhikkhus
+       are not biased through favoritism, are not biased through aversion, are
+       not biased through delusion, are not biased through fear. You, venerable
+       sir, are a corrupter of families, a man of depraved conduct. Your
+       depraved conduct is both seen and heard about, and the families you have
+       corrupted are both seen and heard about. Leave this monastery, venerable
+       sir. Enough of your staying here."
+
+       And should that bhikkhu, thus admonished by the bhikkhus, persist as
+       before, the bhikkhus are to rebuke him up to three times so as to desist.
+       If while being rebuked up to three times he desists, that is good. If he
+       does not desist, it entails initial and subsequent meetings of the
+       Community.
+     - 13．若有比丘依止某一村或鎮而住，是污家者，惡行者 。
+       他的惡行被看見且被聽聞，被他所污的諸家被看見且被聽聞。
+       比丘們應如此勸告那個比丘:“具壽是污家者，惡行者。
+       具壽的惡行被看見且被聽聞，被具壽所污的諸家被看見且被聽聞。
+       請具壽離開此住處，你在這裡已住夠了。 ”
+
+       當比丘們如此勸告那個比丘時，他卻如此對那些比丘說:
+       “比丘們是隨欲者，比丘們是隨瞋者，比丘們是隨痴者，比丘們是隨怖者。
+       對同樣的罪，驅出一些人，不驅出一些人。”
+       比丘們應如此勸告那個比丘:“請具壽不要這樣說。比丘們不是隨欲者，
+       比丘們不是隨瞋者，比丘們不是隨痴者，比丘們不是隨怖者。
+       具壽是污家者，惡行者。
+       具壽的惡行被看見且被聽聞，被具壽所污的諸家被看見且被聽聞。
+       請具壽離開此住處，你在這裡已住夠了。 ”
+
+       當比丘們在如此勸告那個比丘時，他仍然堅持，
+       比丘們應乃至第三次勸諫那個比丘，使他捨棄。假如在乃至第三次勸諫時捨棄了，
        這實在很好。假如不捨棄，僧殘。
 
 ..
