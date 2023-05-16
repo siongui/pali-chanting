@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-13T21:23+07:00
+:modified: 2023-05-16T20:51+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1004,7 +1004,7 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        "Chanda-gāmino ca bhikkhū, dosa-gāmino ca bhikkhū, moha-gāmino ca
        bhikkhū, bhaya-gāmino ca bhikkhū, tādisikāya āpattiyā ekaccaṃ pabbājenti,
        ekaccaṃ na pabbājentī" ti. So bhikkhu bhikkhūhi evam-assa vacanīyo, "Mā
-       āyasmā evaṃ avaca. Na ca bhikkhū chanda-gamino, na ca bhikkhū
+       āyasmā evaṃ avaca. Na ca bhikkhū chanda-gāmino, na ca bhikkhū
        dosa-gāmino, na ca bhikkhū moha-gāmino, na ca bhikkhū bhaya-gāmino.
        Āyasmā kho kula-dūsako pāpa-samācāro. Āyasmato kho pāpakā samācārā
        dissanti c'eva suyyanti ca, kulāni c'āyasmatā duṭṭhāni dissanti c'eva
@@ -1058,6 +1058,60 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
        當比丘們在如此勸告那個比丘時，他仍然堅持，
        比丘們應乃至第三次勸諫那個比丘，使他捨棄。假如在乃至第三次勸諫時捨棄了，
        這實在很好。假如不捨棄，僧殘。
+
+   * - Uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā, nava paṭham'āpattikā
+       cattāro yāva-tatiyakā. Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā
+       yāvatihaṃ jānaṃ paṭicchādeti, tāvatihaṃ tena bhikkhunā akāmā
+       parivatthabbaṃ. Parivuttha-parivāsena bhikkhunā uttariṃ chā-rattaṃ,
+       bhikkhu-mānattāya paṭipajjitabbaṃ. Ciṇṇa-mānatto bhikkhu, yattha siyā
+       vīsati-gaṇo bhikkhu-saṅgho, tattha so bhikkhu abbhetabbo. Ekena-pi ce ūno
+       vīsati-gaṇo bhikkhu-saṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu
+       anabbhito, te ca bhikkhū gārayhā. Ayaṃ tattha sāmīci.
+     - Venerable sirs, the thirteen actions entailing initial and subsequent
+       meetings of the Community have been recited: nine committed on the first
+       offense, four after the third announcement. A bhikkhu who has committed
+       any one of these offenses must undergo probation, whether he likes it or
+       not, for as many days as he knowingly conceals it. Having undergone
+       probation, he must undergo a further six days of penance supervised by
+       the bhikkhus. Having finished the penance, he is to be rehabilitated
+       where there is a community of bhikkhus comprising a quorum of twenty. If
+       a community of bhikkhus comprising even one less than a quorum of twenty
+       should rehabilitate the bhikkhu, he is not rehabilitated and the bhikkhus
+       are blameworthy. This is the proper course here.
+     - 具壽們，已經誦出十三僧殘法。 [前面]九條第一次即犯；
+       [後面]四條乃至第三次[勸諫才犯]。只要比丘犯了其中任何一條後，
+       明知而隱瞞多少天，[即使]該比丘不願意，[也]應別住多少天。
+       住了別住的比丘還應再履行六夜的敬悅比丘。
+       行了敬悅的比丘，哪裡有二十眾的比丘僧，該比丘即應在那裡出罪。
+       假如不滿二十眾的比丘僧為該比丘出罪，即使[缺少]一位，該比丘也不能出罪，
+       而且那些比丘應受呵責。這於此是如法的。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *(Saṅghādises'uddeso niṭṭhito)*
+     - *(The Initial and Subsequent Community Meetings Section is finished)*
+     - *（ 僧殘誦完成 ）*
 
 ..
    * - 
