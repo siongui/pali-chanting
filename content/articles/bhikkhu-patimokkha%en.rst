@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-16T20:51+07:00
+:modified: 2023-05-17T20:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1112,6 +1112,37 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
    * - *(Saṅghādises'uddeso niṭṭhito)*
      - *(The Initial and Subsequent Community Meetings Section is finished)*
      - *（ 僧殘誦完成 ）*
+
+..
+   * - 
+     - 
+     - 
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
+
+
+Bhikkhu Pāṭimokkha - Aniyata
+++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=1259" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Aniyata
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **dve aniyatā dhammā** uddesaṃ āgacchanti.
+     - Venerable sirs, these **two indefinite actions** come up for recitation.
+     - 具壽們，誦出此 **二不定法** 來。
 
 ..
    * - 
