@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-05-28T20:19+07:00
+:modified: 2023-06-05T21:57+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1164,6 +1164,30 @@ Bhikkhu Pāṭimokkha - Aniyata
        有說話可信的近事女看見他後，以波羅夷、僧殘或波逸提三法中說出其中一種。
        承認坐的比丘應依波羅夷、僧殘或波逸提三法的其中一種來懲治，
        或應依據那位說話可信的近事女所說的來懲治該比丘。這是不定法。
+
+   * - 2. Na h'eva kho pana paṭicchannaṃ āsanaṃ hoti nālaṃkammaniyaṃ. Alañ-ca
+       kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ. Yo pana bhikkhu
+       tathā-rūpe āsane mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya.
+       Tam'enaṃ saddheyya-vacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena
+       vadeyya, saṅghādisesena vā pācittiyena vā. Nisajjaṃ bhikkhu paṭijānamāno
+       dvinnaṃ dhammānaṃ aññatarena kāretabbo, saṅghādisesena vā pācittiyena vā.
+       Yena vā sā saddheyya-vacasā upāsikā vadeyya, tena so bhikkhu kāretabbo.
+       Ayam-pi dhammo aniyato.
+     - 2. In case a seat is not sufficiently secluded to lend itself (to sexual
+       intercourse) but sufficiently so to address lewd words to a woman, should
+       any bhikkhu sit in private, alone with a woman on such a seat, so that a
+       female lay follower whose word can be trusted, having seen (them), might
+       describe it as constituting either of two cases-entailing communal
+       meetings or confession-then the bhikkhu, acknowledging having sat
+       (there), may be dealt with in line with either of the two cases-entailing
+       communal meetings or confession-or he is to be dealt with in line with
+       whichever case the female lay follower whose word can be trusted
+       described. This case too is indefinite.
+     - 2．再者，若並非屏覆、不適合行[淫]的座位，但卻適合對女人說粗俗語。
+       若比丘在這樣的座位單獨與一女人秘密共坐，有說話可信的近事女看見他後，
+       以僧殘或波逸提二法中說出其中一種。
+       承認坐的比丘應依僧殘或波逸提二法的其中一種來懲治，
+       或應根據那位說話可信的近事女所說的來懲治該比丘。這也是不定法。
 
 ..
    * - 
