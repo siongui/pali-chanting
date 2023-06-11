@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-05T21:57+07:00
+:modified: 2023-06-11T20:52+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1188,6 +1188,37 @@ Bhikkhu Pāṭimokkha - Aniyata
        以僧殘或波逸提二法中說出其中一種。
        承認坐的比丘應依僧殘或波逸提二法的其中一種來懲治，
        或應根據那位說話可信的近事女所說的來懲治該比丘。這也是不定法。
+
+   * - Uddiṭṭhā kho āyasmanto dve aniyatā dhammā.
+     - Venerable sirs, the two indefinite actions have been recited.
+     - 具壽們，已經誦出二不定法。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *(Aniyat'uddeso niṭṭhito)*
+     - *(The Indefinite Section is finished)*
+     - *（ 不定誦完成 ）*
 
 ..
    * - 
