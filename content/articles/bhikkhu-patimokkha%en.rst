@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-11T20:52+07:00
+:modified: 2023-06-11T21:11+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1228,6 +1228,33 @@ Bhikkhu Pāṭimokkha - Aniyata
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
+
+Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
++++++++++++++++++++++++++++++++++++++++++
+
+.. https://www.bps.lk/tipitaka/1Vinaya-Pitaka/index.html
+.. https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E7%BE%85%E6%8F%90%E6%9C%A8%E5%8F%89
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=1391" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **tiṃsa nissaggiyā pācittiyā dhammā** uddesaṃ
+       āgacchanti.
+     - Venerable sirs, these **thirty actions entailing forfeiture and
+       confession** come up for recitation.
+     - 具壽們，誦出此 **三十尼薩耆波逸提** 來。
 
 ----
 
