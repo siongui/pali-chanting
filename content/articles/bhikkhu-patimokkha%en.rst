@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-11T21:11+07:00
+:modified: 2023-06-13T00:12+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1255,6 +1255,17 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
      - Venerable sirs, these **thirty actions entailing forfeiture and
        confession** come up for recitation.
      - 具壽們，誦出此 **三十尼薩耆波逸提** 來。
+
+   * - 1. Niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine, dasāha-paramaṃ
+       atireka-cīvaraṃ dhāretabbaṃ. Taṃ atikkāmayato, nissaggiyaṃ pācittiyaṃ.
+     - 1. When a bhikkhu has finished his robe and the frame is dismantled (his
+       kathina privileges are ended), he is to keep extra robe-cloth ten days at
+       most. Beyond that, it is to be forfeited and confessed.
+     - 1. 當比丘衣已完成，迦絺那已捨出，多餘的衣最多可持有十天。
+       超過此者，尼薩耆波逸提。
+
+.. 略探受「迦絺那」儀式所得「五種權利」之內容、起源與演變
+.. http://www.chibs.edu.tw/ch_html/chbs/07/chbs0702.htm
 
 ----
 
