@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-13T00:12+07:00
+:modified: 2023-06-13T22:56+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1263,6 +1263,15 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        most. Beyond that, it is to be forfeited and confessed.
      - 1. 當比丘衣已完成，迦絺那已捨出，多餘的衣最多可持有十天。
        超過此者，尼薩耆波逸提。
+
+   * - 2. Niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine, eka-rattam-pi ce
+       bhikkhu ti-cīvarena vippavaseyya, aññatra bhikkhu-sammatiyā, nissaggiyaṃ
+       pācittiyaṃ.
+     - 2. When a bhikkhu has finished his robe and the frame is dismantled: If
+       he dwells apart from (any of) his three robes even for one night-unless
+       authorized by the bhikkhus-it is to be forfeited and confessed.
+     - 2．當比丘衣已完成，迦絺那已捨出，假如比丘離開三衣即使一夜，
+       除了比丘共許外，尼薩耆波逸提。
 
 .. 略探受「迦絺那」儀式所得「五種權利」之內容、起源與演變
 .. http://www.chibs.edu.tw/ch_html/chbs/07/chbs0702.htm
