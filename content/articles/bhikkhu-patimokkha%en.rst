@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-13T22:56+07:00
+:modified: 2023-06-16T01:27+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1272,6 +1272,24 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        authorized by the bhikkhus-it is to be forfeited and confessed.
      - 2．當比丘衣已完成，迦絺那已捨出，假如比丘離開三衣即使一夜，
        除了比丘共許外，尼薩耆波逸提。
+
+   * - 3. Niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine, bhikkhuno pan'eva
+       akāla-cīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ.
+       Paṭiggahetvā khippam'eva kāretabbaṃ. No c'assa pāripūri,
+       māsa-paraman'tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ, ūnassa pāripūriyā
+       satiyā paccāsāya. Tato ce uttariṃ nikkhipeyya satiyā-pi paccāsāya,
+       nissaggiyaṃ pācittiyaṃ.
+     - 3. When a bhikkhu has finished his robe and the frame is dismantled:
+       Should out-of-season robe-cloth accrue to him, he may accept it if he so
+       desires. Having accepted it, he is to make it up immediately (into a
+       cloth requisite). If it should not be enough, he may lay it aside for a
+       month at most when he has an expectation for filling the lack. If he
+       should keep it beyond that, even when he has an expectation (for further
+       cloth), it is to be forfeited and confessed.
+     - 3．當比丘衣已完成，迦絺那已捨出，若比丘得非時衣，想要的比丘可以接受，
+       接受後應當盡快地做。如果不足，那位比丘最多可以存放該衣一個月，
+       以存有期望將不足的補足 。
+       假如存放超過此者，即使存有期望，也尼薩耆波逸提。
 
 .. 略探受「迦絺那」儀式所得「五種權利」之內容、起源與演變
 .. http://www.chibs.edu.tw/ch_html/chbs/07/chbs0702.htm
