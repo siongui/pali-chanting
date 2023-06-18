@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-16T01:27+07:00
+:modified: 2023-06-18T22:24+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1291,8 +1291,30 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        以存有期望將不足的補足 。
        假如存放超過此者，即使存有期望，也尼薩耆波逸提。
 
+   * - 4. Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇa-cīvaraṃ dhovāpeyya vā
+       rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
+     - 4. Should any bhikkhu have a used robe washed, dyed, or beaten by a
+       bhikkhuni unrelated to him, it is to be forfeited and confessed.
+     - 4．若比丘使非親戚的比丘尼洗、染或打舊衣者，尼薩耆波逸提。
+
+   * - 5. Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya
+       aññatra pārivaṭṭakā, nissaggiyaṃ pācittiyaṃ.
+     - 5. Should any bhikkhu accept robe-cloth from the hand of a bhikkhuni
+       unrelated to him-except in exchange-it is to be forfeited and confessed.
+     - 5．若比丘從非親戚的比丘尼手中接受衣，除了交換外，尼薩耆波逸提。
+
+..
+   * - 
+     - 
+     - 
+
+.. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
+.. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
+
+
 .. 略探受「迦絺那」儀式所得「五種權利」之內容、起源與演變
 .. http://www.chibs.edu.tw/ch_html/chbs/07/chbs0702.htm
+
 
 ----
 
