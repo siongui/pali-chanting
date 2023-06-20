@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-18T22:24+07:00
+:modified: 2023-06-20T21:13+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1302,6 +1302,26 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
      - 5. Should any bhikkhu accept robe-cloth from the hand of a bhikkhuni
        unrelated to him-except in exchange-it is to be forfeited and confessed.
      - 5．若比丘從非親戚的比丘尼手中接受衣，除了交換外，尼薩耆波逸提。
+
+   * - 6. Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ
+       vññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ. Tatth'āyaṃ samayo:
+       Acchinna-cīvaro vā hoti bhikkhu naṭṭha-cīvaro vā. Ayaṃ tattha samayo.
+     - 6. Should any bhikkhu ask for robe-cloth from a man or woman householder
+       unrelated to him--except at the proper occasion-it is to be forfeited and
+       confessed. Here the proper occasion is this: The bhikkhu's robe has been
+       snatched away or destroyed. This is the proper occasion here.
+     - 6．若比丘向非親戚的居士或女居士乞衣，除了適時外，尼薩耆波逸提。
+       這裡的適時為：比丘被奪衣或丟失衣。此是這裡的適時。
+
+   * - 7. Tañ-ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi
+       abhihaṭṭhum-pavāreyya, santar'uttara-paraman'tena bhikkhunā tato cīvaraṃ
+       sāditabbaṃ. Tato ce uttariṃ sādiyeyya, nissaggiyaṃ pācittiyaṃ.
+     - 7. If that unrelated man or woman householder presents the bhikkhu with
+       many robes (pieces of robe-cloth), he is to accept at most (enough for)
+       an upper and a lower robe. If he accepts more than that, it is to be
+       forfeited and confessed.
+     - 7．假如非親戚的居士或女居士以許多衣邀請他拿取，
+       那位比丘最多可以從其中接受上、下衣。假如接受超過此者，尼薩耆波逸提。
 
 ..
    * - 
