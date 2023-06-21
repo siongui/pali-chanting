@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-20T21:13+07:00
+:modified: 2023-06-21T20:41+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1322,6 +1322,26 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        forfeited and confessed.
      - 7．假如非親戚的居士或女居士以許多衣邀請他拿取，
        那位比丘最多可以從其中接受上、下衣。假如接受超過此者，尼薩耆波逸提。
+
+   * - 8. Bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā
+       cīvara-cetāpanaṃ upakkhaṭaṃ hoti, "Iminā cīvara-cetāpanena cīvaraṃ
+       cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī" ti. Tatra ce so
+       bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya, "Sādhu
+       vata maṃ āyasmā iminā cīvara-cetāpanena, evarūpaṃ vā evarūpaṃ vā cīvaraṃ
+       cetāpetvā acchādehī" ti, kalyāṇa-kamyataṃ upādāya, nissaggiyaṃ
+       pācittiyaṃ.
+     - 8. In case a man or woman householder unrelated (to the bhikkhu) prepares
+       a robe fund for the sake of a bhikkhu, (thinking,) "Having purchased a
+       robe with this robe fund, I will clothe the bhikkhu named so-and-so with
+       a robe ": If the bhikkhu, not previously invited, approaching (the
+       householder) should make a stipulation with regard to the robe, (saying,)
+       "It would be good indeed, sir, if you clothed me (with a robe), having
+       purchased a robe of such-and-such a sort with this robe fund"-out of a
+       desire for something fine-it is to be forfeited and confessed.
+     - 8．若非親戚的居士或女居士指定為比丘準備衣資 :“我將以此衣資交換衣後，
+       送衣給某某比丘披著。 ”假如那位比丘事先未受邀請即前往對衣作指示:
+       “具壽，實在很好！請以此衣資交換這樣或這樣的衣給我披著。
+       ”出於欲求好者，尼薩耆波逸提。
 
 ..
    * - 
