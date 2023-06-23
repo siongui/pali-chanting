@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-21T20:41+07:00
+:modified: 2023-06-23T22:03+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1342,6 +1342,30 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        送衣給某某比丘披著。 ”假如那位比丘事先未受邀請即前往對衣作指示:
        “具壽，實在很好！請以此衣資交換這樣或這樣的衣給我披著。
        ”出於欲求好者，尼薩耆波逸提。
+
+   * - 9. Bhikkhuṃ pan'eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā
+       gahapatānīnaṃ vā pacceka-cīvara-cetāpanā upakkhaṭā honti, "Imehi mayaṃ
+       pacceka-cīvara-cetāpanehi pacceka-cīvarāni cetāpetvā itthannāmaṃ
+       bhikkhuṃ cīvarehi acchādessāmā" ti. Tatra ce so bhikkhu pubbe appavārito
+       upasaṅkamitvā cīvare vikappaṃ āpajjeyya, "Sādhu vata maṃ āyasmanto imehi
+       pacceka-cīvara-cetāpanehi, evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā
+       acchādetha ubho'va santā ekenā" ti, kalyāṇa-kamyataṃ upādāya, nissaggiyaṃ
+       pācittiyaṃ.
+     - 9. In case two householders-men or women-unrelated (to the bhikkhu)
+       prepare separate robe funds for the sake of a bhikkhu, (thinking,)
+       "Having purchased separate robes with these separate robe funds of ours,
+       we will clothe the bhikkhu named so-and-so with robes": If the bhikkhu,
+       not previously invited, approaching (them) should make a stipulation with
+       regard to the robe, (saying,) "It would be good indeed, sirs, if you
+       clothed me (with a robe), having purchased a robe of such-and-such a sort
+       with these separate robe funds, the two (funds) together for one
+       (robe)"-out of a desire for something fine-it is to be forfeited and
+       confessed.
+     - 9．若兩位非親戚的居士或女居士指定為比丘各別準備衣資:
+       “我們將以這些各別的衣資交換各別的衣後，送衣給某某比丘披著。”
+       假如那位比丘事先未受到邀請即前往對衣作指示:“具壽們，實在很好！
+       以這些各別的衣資合二為一，交換這樣或這樣的衣給我披著。”
+       出於欲求好者，尼薩耆波逸提。
 
 ..
    * - 
