@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-23T22:03+07:00
+:modified: 2023-06-25T21:59+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1366,6 +1366,38 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        假如那位比丘事先未受到邀請即前往對衣作指示:“具壽們，實在很好！
        以這些各別的衣資合二為一，交換這樣或這樣的衣給我披著。”
        出於欲求好者，尼薩耆波逸提。
+
+   * - 10. Bhikkhuṃ pan'eva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko
+       vā dūtena cīvara-cetāpanaṃ pahiṇeyya, "Iminā cīvara-cetāpanena cīvaraṃ
+       cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī" ti.
+
+       So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya, "Idaṃ kho bhante
+       āyasmantaṃ uddissa cīvara-cetāpanaṃ ābhataṃ. Paṭiggaṇhātu āyasmā
+       cīvara-cetāpanan" ti. Tena bhikkhunā so dūto evam-assa vacanīyo, "Na kho
+       mayaṃ āvuso cīvara-cetāpanaṃ paṭiggaṇhāma, cīvarañ-ca kho mayaṃ
+       paṭiggaṇhāma kālena kappiyan" ti.
+
+       ...
+     - 10. In case a king, a royal official, a brahman, or a householder sends a
+       robe fund for the sake of a bhikkhu via a messenger, (saying,) Having
+       purchased a robe with this robe fund, clothe the bhikkhu named so-and-so
+       with a robe":
+
+       If the messenger, approaching the bhikkhu, should say, "This is a robe
+       fund being delivered for the sake of the venerable one. May the venerable
+       one accept this robe fund," then the bhikkhu is to tell the messenger:
+       "We do not accept robe funds, my friend. We accept robes (robe-cloth) as
+       are proper according to season."
+
+       ...
+     - 10．若王、王臣、婆羅門或居士派使者指定為比丘送衣資:
+       “請你以此衣資交換衣後，送衣給某某比丘披著。”
+
+       假如該使者前往那位比丘處後如此說:“尊者，這是指定為具壽帶來的衣資，
+       請具壽接受衣資。”該比丘宜對那位使者如此說:“賢友，我們不能接受衣資，
+       我們在適時接受許可之衣。”
+
+       ...
 
 ..
    * - 
