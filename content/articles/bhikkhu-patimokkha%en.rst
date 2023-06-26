@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-25T21:59+07:00
+:modified: 2023-06-26T22:21+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1377,6 +1377,19 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        mayaṃ āvuso cīvara-cetāpanaṃ paṭiggaṇhāma, cīvarañ-ca kho mayaṃ
        paṭiggaṇhāma kālena kappiyan" ti.
 
+       So ce dūto taṃ bhikkhuṃ evaṃ vadeyya, "Atthi pan'āyasmato koci
+       veyyāvaccakaro" ti. Cīvar'atthikena bhikkhave bhikkhunā veyyāvaccakaro
+       niddisitabbo, ārāmiko vā upāsako vā, "Eso kho āvuso bhikkhūnaṃ
+       veyyāvaccakaro" ti.
+
+       So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ
+       vadeyya, "Yaṃ kho bhante āyasmā veyyāvaccakaraṃ niddisi, saññatto so
+       mayā. Upasaṅkamatu āyasmā kālena cīvarena taṃ acchādessatī" ti.
+       Cīvar'atthikena bhikkhave bhikkhunā veyyāvaccakaro upasaṅkamitvā
+       dvittikkhattuṃ codetabbo sāretabbo, "Attho me āvuso cīvarenā" ti.
+       Dvittikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya,
+       icc'etaṃ kusalaṃ.
+
        ...
      - 10. In case a king, a royal official, a brahman, or a householder sends a
        robe fund for the sake of a bhikkhu via a messenger, (saying,) Having
@@ -1389,6 +1402,19 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        "We do not accept robe funds, my friend. We accept robes (robe-cloth) as
        are proper according to season."
 
+       If the messenger should say to the bhikkhu, "Does the venerable one have
+       a steward?" then, bhikkhus, if the bhikkhu desires a robe, he may
+       indicate a steward-either a monastery attendant or a lay
+       follower-(saying,) "That, my friend, is the bhikkhus' steward.
+
+       If the messenger, having instructed the steward and going to the bhikkhu,
+       should say, "I have instructed the steward the venerable one indicated.
+       May the venerable one go (to him) and he will clothe you with a robe in
+       season," then the bhikkhu, desiring a robe and approaching the steward,
+       may prompt and remind him two or three times, "I have need of a robe."
+       Should (the steward) produce the robe after being prompted and reminded
+       two or three times, that is good.
+
        ...
      - 10．若王、王臣、婆羅門或居士派使者指定為比丘送衣資:
        “請你以此衣資交換衣後，送衣給某某比丘披著。”
@@ -1396,6 +1422,17 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        假如該使者前往那位比丘處後如此說:“尊者，這是指定為具壽帶來的衣資，
        請具壽接受衣資。”該比丘宜對那位使者如此說:“賢友，我們不能接受衣資，
        我們在適時接受許可之衣。”
+
+       假如該使者對那位比丘如此說:“具壽有服務者嗎？ ”
+       諸比丘，需要衣的比丘可指出園民或近事男為服務者:
+       “賢友，這位就是比丘們的服務者。 ”
+
+       如果該使者交代那位服務者後，前往那位比丘處如此說:
+       “尊者，具壽所指出的服務者我已經交代他了，請具壽在適時前往，
+       他將送衣給您披著。”
+       諸比丘，需要衣的比丘前往服務者之處後，可以催促、提醒兩、三次:
+       “賢友，我需要衣。”
+       如果在兩、三次催促、提醒時獲得該衣，這實在很好。
 
        ...
 
