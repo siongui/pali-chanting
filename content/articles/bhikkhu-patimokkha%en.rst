@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-26T22:21+07:00
+:modified: 2023-06-27T23:09+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1390,7 +1390,19 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        Dvittikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya,
        icc'etaṃ kusalaṃ.
 
-       ...
+       No ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattu-paramaṃ
+       tuṇhī-bhūtena uddissa ṭhātabbaṃ. Catukkhattuṃ pañcakkhattuṃ
+       chakkhattu-paramaṃ tuṇhī-bhūto uddissa tiṭṭhamāno taṃ cīvaraṃ
+       abhinipphādeyya, icc'etaṃ kusalaṃ.
+
+       No ce abhinipphādeyya, tato ce uttariṃ vāyamamāno taṃ cīvaraṃ
+       abhinipphādeyya, nissaggiyaṃ pācittiyaṃ.
+
+       No ce abhinipphādeyya, yatassa cīvara-cetāpanaṃ ābhataṃ, tattha sāmaṃ vā
+       gantabbaṃ, dūto vā pāhetabbo, "Yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa
+       cīvara-cetāpanaṃ pahiṇittha. Na tan-tassa bhikkhuno kiñci atthaṃ
+       anubhoti. Yuñjant'āyasmanto sakaṃ. Mā vo sakaṃ vinassī" ti. Ayaṃ tattha
+       sāmīci.
      - 10. In case a king, a royal official, a brahman, or a householder sends a
        robe fund for the sake of a bhikkhu via a messenger, (saying,) Having
        purchased a robe with this robe fund, clothe the bhikkhu named so-and-so
@@ -1415,7 +1427,21 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        Should (the steward) produce the robe after being prompted and reminded
        two or three times, that is good.
 
-       ...
+       If he should not produce the robe, (the bhikkhu) should stand in silence
+       four times, five times, six times at most for that purpose. Should (the
+       steward) produce the robe after (the bhikkhu) has stood in silence for
+       that purpose four times, five times, six times at most, that is good.
+
+       If he should not produce the robe (at that point), should he then produce
+       the robe after (the bhikkhu) has endeavored further than that, it is to
+       be forfeited and confessed.
+
+       If he should not produce (the robe), then the bhikkhu himself should go
+       to the place from which the robe fund was brought, or a messenger should
+       be sent (to say), "The robe fund that you, venerable sirs, sent for the
+       sake of the bhikkhu has given no benefit to the bhikkhu at all. May you
+       be united with what is yours. May what is yours not be lost." This is the
+       proper course here.
      - 10．若王、王臣、婆羅門或居士派使者指定為比丘送衣資:
        “請你以此衣資交換衣後，送衣給某某比丘披著。”
 
@@ -1434,7 +1460,15 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        “賢友，我需要衣。”
        如果在兩、三次催促、提醒時獲得該衣，這實在很好。
 
-       ...
+       假如沒有獲得，可以四次、五次，最多六次為此而靜默地站著。
+       如果在四次、五次，最多六次為此而靜默地站著時獲得該衣，這實在很好。
+
+       [假如沒有獲得，]更由此作過度的努力時才獲得該衣者，尼薩耆波逸提。
+
+       假如沒有獲得，則必須自己去或派遣使者到為他送來衣資之處:
+       “具壽們，你們曾指定為比丘所送去的衣資，該比丘並沒有從中得到任何的利益。
+       具壽們，自己努力，不要失去你們自己的！ ”
+       這於此是如法的。
 
 ..
    * - 
