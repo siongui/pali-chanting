@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-27T23:09+07:00
+:modified: 2023-06-28T22:07+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1229,8 +1229,8 @@ Bhikkhu Pāṭimokkha - Aniyata
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
 
-Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
-+++++++++++++++++++++++++++++++++++++++++
+Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Cīvara-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. https://www.bps.lk/tipitaka/1Vinaya-Pitaka/index.html
 .. https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E7%BE%85%E6%8F%90%E6%9C%A8%E5%8F%89
@@ -1241,7 +1241,7 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=1391" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-.. list-table:: Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
+.. list-table:: Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Cīvara-vaggo
    :header-rows: 1
    :class: stack-th-td-on-mobile
    :widths: auto
@@ -1469,6 +1469,35 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā
        “具壽們，你們曾指定為比丘所送去的衣資，該比丘並沒有從中得到任何的利益。
        具壽們，自己努力，不要失去你們自己的！ ”
        這於此是如法的。
+
+   * - Cīvara-vaggo paṭhamo.
+     - (Here ends) the first chapter, on robes.
+     - 第一 衣品
+
+
+Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=1790" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 11. Yo pana bhikkhu kosiya-missakaṃ santhataṃ kārāpeyya, nissaggiyaṃ
+       pācittiyaṃ.
+     - 11. Should any bhikkhu have a felt (blanket/rug) made of a mixture
+       containing silk, it is to be forfeited and confessed.
+     - 11．若比丘做混有蠶絲的敷具者，尼薩耆波逸提。
 
 ..
    * - 
