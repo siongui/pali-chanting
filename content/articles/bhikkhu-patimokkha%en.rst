@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-28T22:07+07:00
+:modified: 2023-06-29T21:33+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1498,6 +1498,26 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
      - 11. Should any bhikkhu have a felt (blanket/rug) made of a mixture
        containing silk, it is to be forfeited and confessed.
      - 11．若比丘做混有蠶絲的敷具者，尼薩耆波逸提。
+
+   * - 12. Yo pana bhikkhu suddha-kāḷakānaṃ eḷaka-lomānaṃ santhataṃ kārāpeyya,
+       nissaggiyaṃ pācittiyaṃ.
+     - 12. Should any bhikkhu have a felt (blanket/rug) made of pure black wool,
+       it is to be forfeited and confessed.
+     - 12．若比丘做純黑色的羊毛敷具者，尼薩耆波逸提。
+
+   * - 13. Navam-pana bhikkhunā santhataṃ kārayamānena, dve bhāgā
+       suddha-kāḷakānaṃ eḷaka-lomānaṃ ādātabbā, tatiyaṃ odātānaṃ catutthaṃ
+       gocariyānaṃ. Anādā ce bhikkhu dve bhāge suddha-kāḷakānaṃ eḷaka-lomānaṃ,
+       tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ navaṃ santhataṃ kārāpeyya,
+       nissaggiyaṃ pācittiyaṃ.
+     - 13. When a bhikkhu is having a new felt (blanket/rug) made, two parts of
+       pure black wool are to be incorporated, a third (part) of white, and a
+       fourth of brown. If a bhikkhu should have a new felt (blanket/rug) made
+       without incorporating two parts of pure black wool, a third of white, and
+       a fourth of brown, it is to be forfeited and confessed.
+     - 13．比丘在做新敷具時，應當取兩部分純黑色的羊毛，第三為白色，第四為褐色。
+       假如比丘不取兩部分純黑色的羊毛，第三為白色，第四為褐色而做新敷具者，
+       尼薩耆波逸提。
 
 ..
    * - 
