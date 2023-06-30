@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-29T21:33+07:00
+:modified: 2023-06-30T20:00+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1518,6 +1518,30 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
      - 13．比丘在做新敷具時，應當取兩部分純黑色的羊毛，第三為白色，第四為褐色。
        假如比丘不取兩部分純黑色的羊毛，第三為白色，第四為褐色而做新敷具者，
        尼薩耆波逸提。
+
+   * - 14. Navam-pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ.
+       Orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā
+       aññaṃ navaṃ santhataṃ kārāpeyya, aññatra bhikkhu-sammatiyā, nissaggiyaṃ
+       pācittiyaṃ.
+     - 14. When a bhikkhu has had a new felt (blanket/rug) made, he is to keep
+       it for (at least) six years. If after less than six years he should have
+       another new felt (blanket/rug) made, regardless of whether or not he has
+       disposed of the first, then-unless he has been authorized by the
+       bhikkhus-it is to be forfeited and confessed.
+     - 14．比丘做新敷具後應持用六年。在六年之內無論捨或未捨該敷具，
+       假如再做其他新敷具者，除了比丘共許外，尼薩耆波逸提。
+
+   * - 15. Nisīdana-santhatam-pana bhikkhunā kārayamānena purāṇa-santhatassa
+       sāmantā sugata-vidatthi ādātabbā dubbaṇṇa-karaṇāya. Anādā ce bhikkhu
+       purāṇa-santhatassa sāmantā sugata-vidatthiṃ navaṃ nisīdana-santhataṃ
+       kārāpeyya, nissaggiyaṃ pācittiyaṃ.
+     - 15. When a bhikkhu is having a felt sitting rug made, a piece of old felt
+       a sugata span [25 cm.] on each side is to be incorporated for the sake of
+       discoloring it. If, without incorporating a piece of old felt a sugata
+       span on each side, a bhikkhu should have a new felt sitting rug made, it
+       is to be forfeited and confessed.
+     - 15．比丘在做坐墊時，為了作壞色，應從舊敷具的周圍取一善至張手。
+       假如比丘不從舊敷具的周圍取一善至張手來做新坐墊者，尼薩耆波逸提。
 
 ..
    * - 
