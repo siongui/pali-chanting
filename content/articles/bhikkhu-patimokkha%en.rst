@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-06-30T20:00+07:00
+:modified: 2023-07-01T21:32+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1542,6 +1542,25 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
        is to be forfeited and confessed.
      - 15．比丘在做坐墊時，為了作壞色，應從舊敷具的周圍取一善至張手。
        假如比丘不從舊敷具的周圍取一善至張手來做新坐墊者，尼薩耆波逸提。
+
+   * - 16. Bhikkhuno pan'eva addhāna-magga-paṭipannassa eḷaka-lomāni
+       uppajjeyyuṃ. Ākaṅkhamānena bhikkhunā paṭiggahetabbāni. Paṭiggahetvā
+       ti-yojana-paramaṃ sahatthā hāretabbāni, asante hārake. Tato ce uttariṃ
+       hareyya asante-pi hārake, nissaggiyaṃ pācittiyaṃ.
+     - 16. Should wool accrue to a bhikkhu as he is going on a journey, he may
+       accept it if he so desires. Having accepted it, he may carry it by
+       hand-there being no one else to carry it-three leagues [48 km.=30 miles]
+       at most. If he should carry it farther than that, even if there is no one
+       else to carry it, it is to be forfeited and confessed.
+     - 16．若比丘在旅行途中獲得羊毛，想要的比丘可以接受。
+       接受後，在沒有人拿時，比丘最多可以親手拿三由旬。
+       假如拿超過此者，即使沒有人拿，也尼薩耆波逸提。
+
+   * - 17. Yo pana bhikkhu aññātikāya bhikkhuniyā eḷaka-lomāni dhovāpeyya vā
+       rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.
+     - 17. Should any bhikkhu have wool washed, dyed, or carded by a bhikkhuni
+       unrelated to him, it is to be forfeited and confessed.
+     - 17．若比丘使非親戚的比丘尼洗、染或梳羊毛者，尼薩耆波逸提。
 
 ..
    * - 
