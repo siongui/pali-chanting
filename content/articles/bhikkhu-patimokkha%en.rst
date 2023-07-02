@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-01T21:32+07:00
+:modified: 2023-07-02T20:04+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1561,6 +1561,29 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
      - 17. Should any bhikkhu have wool washed, dyed, or carded by a bhikkhuni
        unrelated to him, it is to be forfeited and confessed.
      - 17．若比丘使非親戚的比丘尼洗、染或梳羊毛者，尼薩耆波逸提。
+
+   * - 18. Yo pana bhikkhu jātarūpa-rajataṃ uggaṇheyya vā uggaṇhāpeyya vā
+       upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.
+     - 18. Should any bhikkhu accept gold and silver, or have it accepted, or
+       consent to its being deposited (near him), it is to be forfeited and
+       confessed.
+     - 18．若比丘捉取金銀，或令捉取，或同意放在近處者，尼薩耆波逸提。
+
+   * - 19. Yo pana bhikkhu nānappakārakaṃ rūpiya-saṃvohāraṃ samāpajjeyya,
+       nissaggiyaṃ pācittiyaṃ.
+     - 19. Should any bhikkhu engage in various types of monetary exchange, it
+       (the income) is to be forfeited and confessed.
+     - 19．若比丘從事各種金錢交易者，尼薩耆波逸提。
+
+   * - 20. Yo pana bhikkhu nānappakārakaṃ kaya-vikkayaṃ samāpajjeyya,
+       nissaggiyaṃ pācittiyaṃ.
+     - 20. Should any bhikkhu engage in various types of trade, it (the article
+       obtained) is to be forfeited and confessed.
+     - 20．若比丘從事各種買賣者，尼薩耆波逸提。
+
+   * - Kosiya-vaggo dutiyo.
+     - (Here ends) the second chapter, on silk.
+     - 第二 蠶絲品
 
 ..
    * - 
