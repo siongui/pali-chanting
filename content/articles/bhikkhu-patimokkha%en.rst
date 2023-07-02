@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-02T20:04+07:00
+:modified: 2023-07-02T20:45+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1584,6 +1584,31 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
    * - Kosiya-vaggo dutiyo.
      - (Here ends) the second chapter, on silk.
      - 第二 蠶絲品
+
+
+Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=1949" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 21. Dāsaha-paramaṃ atireka-patto dhāretabbo. Taṃ atikkāmayato,
+       nissaggiyaṃ pācittiyaṃ.
+     - 21. An extra alms bowl may be kept ten days at most. Beyond that, it is
+       to be forfeited and confessed.
+     - 21．多餘的缽最多可以持有十天。超過此者，尼薩耆波逸提。
 
 ..
    * - 
