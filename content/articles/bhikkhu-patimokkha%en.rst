@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-02T20:45+07:00
+:modified: 2023-07-04T20:46+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1609,6 +1609,32 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
      - 21. An extra alms bowl may be kept ten days at most. Beyond that, it is
        to be forfeited and confessed.
      - 21．多餘的缽最多可以持有十天。超過此者，尼薩耆波逸提。
+
+   * - 22. Yo pana bhikkhu ūna-pañca-bandhanena pattena aññaṃ navaṃ pattaṃ
+       cetāpeyya, nissaggiyaṃ pācittiyaṃ. Tena bhikkhunā so patto
+       bhikkhu-parisāya nissajjitabbo. Yo ca tassā bhikkhu-parisāya
+       patta-pariyanto, so ca tassa bhikkhuno padātabbo, "Ayan-te bhikkhu patto,
+       yāva bhedanāya dhāretabbo" ti. Ayaṃ tattha sāmīci.
+     - 22. Should any bhikkhu with an alms bowl having fewer than five mends ask
+       for another new bowl, it is to be forfeited and confessed. The bowl is to
+       be forfeited by the bhikkhu to the company of bhikkhus. That company of
+       bhikkhus' final bowl should be presented to the bhikkhu, (saying) "This,
+       bhikkhu, is your bowl. It is to be kept until broken." This is the proper
+       course here.
+     - 22．若比丘以不到五補綴的缽換取其他新缽者，尼薩耆波逸提。
+       該缽應由那位比丘在比丘眾中捨，而該比丘眾最後的缽應給與那位比丘:
+       “比丘，這是你的缽，應持用至破為止。 ”這於此是如法的。
+
+   * - 23. Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni,
+       seyyathīdaṃ: sappi navanītaṃ telaṃ madhu phāṇitaṃ; tāni paṭiggahetvā
+       sattāha-paramaṃ sannidhi-kārakaṃ paribhuñjitabbāni. Taṃ atikkāmayato,
+       nissaggiyaṃ pācittiyaṃ.
+     - 23. There are these tonics to be taken by sick bhikkhus: ghee, fresh
+       butter, oil, honey, sugar/molasses. Having been received, they are to be
+       used from storage seven days at most. Beyond that, they are to be
+       forfeited and confessed.
+     - 23．凡生病比丘所服用的那些藥，這就是：熟酥、生酥、油、蜂蜜、糖，
+       接受那些後，最多可以儲存七日食用。超過此者，尼薩耆波逸提。
 
 ..
    * - 
