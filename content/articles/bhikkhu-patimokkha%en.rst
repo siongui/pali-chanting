@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-04T20:46+07:00
+:modified: 2023-07-05T20:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1635,6 +1635,28 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
        forfeited and confessed.
      - 23．凡生病比丘所服用的那些藥，這就是：熟酥、生酥、油、蜂蜜、糖，
        接受那些後，最多可以儲存七日食用。超過此者，尼薩耆波逸提。
+
+   * - 24. "Māso seso gimhānan" ti bhikkhunā vassika-sāṭika-cīvaraṃ
+       pariyesitabbaṃ. "Aḍḍha-māso seso gimhānan" ti katvā nivāsetabbaṃ. "Orena
+       ce māso seso gimhānan" ti vassika-sāṭika-cīvaraṃ pariyeseyya,
+       "Oren'aḍḍha-māso seso gimhānan" ti katvā nivāseyya, nissaggiyaṃ
+       pācittiyaṃ.
+     - 24. When a month is left to the hot season, a bhikkhu may seek a
+       rains-bathing cloth. When a half-month is left to the hot season, (the
+       cloth) having been made, may be worn. If when more than a month is left
+       to the hot season he should seek a rains-bathing cloth, (or) when more
+       than a half-month is left to the hot season, (the cloth) having been made
+       should be worn, it is to be forfeited and confessed.
+     - 24．在熱季的最後一個月比丘可以尋求雨浴衣，
+       熱季的最後半個月做好後可以穿著。假如還未到熱季的最後一個月即尋求雨浴衣，
+       還未到熱季的最後半個月即做好並穿著者，尼薩耆波逸提。
+
+   * - 25. Yo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano
+       acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.
+     - 25. Should any bhikkhu-having himself given robe-cloth to (another)
+       bhikkhu and then being angered and displeased-snatch it back or have it
+       snatched back, it is to be forfeited and confessed.
+     - 25．若比丘自己施衣給比丘後，忿怒、不悅而奪取或令奪取者，尼薩耆波逸提。
 
 ..
    * - 
