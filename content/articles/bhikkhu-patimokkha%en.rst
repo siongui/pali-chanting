@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-05T20:53+07:00
+:modified: 2023-07-06T20:09+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1657,6 +1657,50 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
        bhikkhu and then being angered and displeased-snatch it back or have it
        snatched back, it is to be forfeited and confessed.
      - 25．若比丘自己施衣給比丘後，忿怒、不悅而奪取或令奪取者，尼薩耆波逸提。
+
+   * - 26. Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ
+       vāyāpeyya, nissaggiyaṃ pācittiyaṃ.
+     - 26. Should any bhikkhu, having requested thread, have robe-cloth woven by
+       weavers, it is to be forfeited and confessed.
+     - 26．若比丘自己乞線後，請織匠們織衣者，尼薩耆波逸提。
+
+   * - 27. Bhikkhuṃ pan'eva uddissa aññātako gahapati vā gahapatānī vā
+       tantavāyehi cīvaraṃ vāyāpeyya. Tatra ce so bhikkhu pubbe appavārito
+       tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya, "Idaṃ kho āvuso
+       cīvaraṃ maṃ uddissa vīyati. Āyatañ-ca karotha vitthatañ-ca appitañ-ca
+       suvītañ-ca supavāyitañ-ca suvilekhitañ-ca suvitacchitañ-ca karotha;
+       app'eva nāma mayam-pi āyasmantānaṃ kiñci-mattaṃ anupadajjeyyāmā" ti.
+       Evañ-ca so bhikkhu vatvā kiñci-mattaṃ anupadajjeyya, antamaso
+       piṇḍapāta-mattam-pi, nissaggiyaṃ pācittiyaṃ.
+     - 27. In case a man or woman householder unrelated (to the bhikkhu) has
+       robe-cloth woven by weavers for the sake of a bhikkhu, and if the
+       bhikkhu, not previously invited (by the householder), having approached
+       the weavers, should make stipulations with regard to the cloth, (saying,)
+       "This cloth, friends, is being woven for my sake. Make it long, make it
+       broad, tightly woven, well woven, well spread, well scraped, well
+       smoothed, and perhaps I may reward you with a little something"; and
+       should the bhikkhu, having said that, reward them with a little
+       something, even as much as almsfood, it (the cloth) is to be forfeited
+       and confessed.
+     - 27．如果非親戚的居士或女居士請織匠們指定為比丘織衣。
+       假如那位比丘事先未受到邀請即前往織匠處對衣作指示:
+       “賢友們，這件衣是指定為我而織的，
+       請你們做得長、寬、堅固、善織、善編織、善刮平，以及做得善平滑，
+       或許我會送些東西給具壽們的。 ”
+       若該比丘如此說後送了某些東西，即使是缽食之量，也尼薩耆波逸提。
+
+   * - 28. Dasāhānāgataṃ kattika-temāsi-puṇṇamaṃ, bhikkhuno pan'eva
+       acceka-cīvaraṃ uppajjeyya. Accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ.
+       Paṭiggahetvā yāva cīvara-kāla-samayaṃ nikkhipitabbaṃ. Tato ce uttariṃ
+       nikkhipeyya, nissaggiyaṃ pācittiyaṃ.
+     - 28. Ten days prior to the third-month Kattika full moon, should
+       robe-cloth offered in urgency accrue to a bhikkhu, he is to accept it if
+       he regards it as offered in urgency. Once he has accepted it, he may keep
+       it throughout the robe season. Beyond that, it is to be forfeited and
+       confessed.
+     - 28．在未到咖底咖第三個月滿月之前的十日，若比丘得到特施衣，
+       知道特施衣的比丘應當接受，接受後可以存放直到衣時。
+       假如存放超過此者，尼薩耆波逸提。
 
 ..
    * - 
