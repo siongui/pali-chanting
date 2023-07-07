@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-06T20:09+07:00
+:modified: 2023-07-07T21:15+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1701,6 +1701,34 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
      - 28．在未到咖底咖第三個月滿月之前的十日，若比丘得到特施衣，
        知道特施衣的比丘應當接受，接受後可以存放直到衣時。
        假如存放超過此者，尼薩耆波逸提。
+
+   * - 29. Upavassaṃ kho pana kattika-puṇṇamaṃ. Yāni kho pana tāni āraññakāni
+       senāsanāni sāsaṅka-sammatāni sappaṭibhayāni, tathā-rūpesu bhikkhu
+       senāsanesu viharanto, ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ
+       antara-ghare nikkhipeyya. Siyā ca tassa bhikkhuno kocid'eva paccayo tena
+       cīvarena vippavāsāya, chāratta-paraman-tena bhikkhunā tena cīvarena
+       vippavasitabbaṃ. Tato ce uttariṃ vippavaseyya, aññatra bhikkhu-sammatiyā,
+       nissaggiyaṃ pācittiyaṃ.
+     - 29. There are wilderness lodgings that are considered dubious and risky.
+       A bhikkhu living in such lodgings after having observed the Kattika full
+       moon may keep any one of his three robes in a village if he so desires.
+       Should he have any reason to live apart from the robe, he may do so for
+       six nights at most. If he should live apart from it beyond that-unless
+       authorized by the bhikkhus-it is to be forfeited and confessed.
+     - 29．出雨安居後至咖底咖滿月時，若是於公認有危險、有恐怖的諸林野坐臥處，
+       比丘住在如此的坐臥處，希望時可以將三衣中的一件衣放置於俗家間。
+       如果那位比丘有任何因緣離開該衣，那位比丘最多可以離開該衣六夜。
+       假如離開超過此者，除了比丘共許外，尼薩耆波逸提。
+
+   * - 30. Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya,
+       nissaggiyaṃ pācittiyaṃ.
+     - 30. Should any bhikkhu knowingly divert to himself gains that had been
+       allocated for a Community, they are to be forfeited and confessed.
+     - 30．若比丘明知施向僧團的所得而回入自己者，尼薩耆波逸提。
+
+   * - Patta-vaggo tatiyo.
+     - (Here ends) the third chapter, on bowls.
+     - 第三 缽品
 
 ..
    * - 
