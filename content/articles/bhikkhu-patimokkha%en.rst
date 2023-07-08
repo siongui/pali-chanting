@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-08T20:21+07:00
+:modified: 2023-07-08T20:38+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1254,7 +1254,7 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Cīvara-vaggo
        āgacchanti.
      - Venerable sirs, these **thirty actions entailing forfeiture and
        confession** come up for recitation.
-     - 具壽們，誦出此 **三十尼薩耆波逸提** 來。
+     - 具壽們，誦出此 **三十尼薩耆波逸提法** 來。
 
    * - 1. Niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ kaṭhine, dasāha-paramaṃ
        atireka-cīvaraṃ dhāretabbaṃ. Taṃ atikkāmayato, nissaggiyaṃ pācittiyaṃ.
@@ -1761,6 +1761,30 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
    * - *(Nissaggiyā pācittiyā dhammā niṭṭhitā)*
      - *(The Forfeiture and Confession actions are finished)*
      - *（ 尼薩耆波逸提法已結束 ）*
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā
+++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **dve-navuti pācittiyā dhammā** uddesaṃ āgacchanti.
+     - Venerable sirs, these **ninety-two actions entailing confession** come up
+       for recitation.
+     - 具壽們，誦出此 **九十二波逸提法** 來。
 
 ..
    * - 
