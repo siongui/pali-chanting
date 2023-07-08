@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-07T21:15+07:00
+:modified: 2023-07-08T20:21+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1729,6 +1729,38 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
    * - Patta-vaggo tatiyo.
      - (Here ends) the third chapter, on bowls.
      - 第三 缽品
+
+   * - Uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā.
+     - Venerable sirs, the thirty actions entailing forfeiture and confession
+       have been recited.
+     - 具壽們，已經誦出三十尼薩耆波逸提法。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *(Nissaggiyā pācittiyā dhammā niṭṭhitā)*
+     - *(The Forfeiture and Confession actions are finished)*
+     - *（ 尼薩耆波逸提法已結束 ）*
 
 ..
    * - 
