@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-08T20:38+07:00
+:modified: 2023-07-09T20:57+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1785,6 +1785,35 @@ Bhikkhu Pāṭimokkha - Pācittiyā
      - Venerable sirs, these **ninety-two actions entailing confession** come up
        for recitation.
      - 具壽們，誦出此 **九十二波逸提法** 來。
+
+   * - 1. Sampajāna-musāvāde pācittiyaṃ.
+     - 1. A deliberate lie is to be confessed.
+     - 1. 故意虛妄語者，波逸提。
+
+   * - 2. Omasavāde pācittiyaṃ.
+     - 2. An insult is to be confessed.
+     - 2. 辱罵語者，波逸提。
+
+   * - 3. Bhikkhu-pesuññe pācittiyaṃ.
+     - 3. Malicious tale-bearing among bhikkhus is to be confessed.
+     - 3. 離間比丘者，波逸提。
+
+   * - 4. Yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.
+     - 4. Should any bhikkhu have an unordained person recite Dhamma line by
+       line (with him), it is to be confessed.
+     - 4. 若比丘與未達上者同句誦法者，波逸提。
+
+   * - 5. Yo pana bhikkhu anupasampannena uttari-dviratta-tirattaṃ saha-seyyaṃ
+       kappeyya, pācittiyaṃ.
+     - 5. Should any bhikkhu lie down together (in the same dwelling) with an
+       unordained person for more than two or three (consecutive) nights, it is
+       to be confessed.
+     - 5. 若比丘與未達上者同宿超過兩、三夜者，波逸提。
+
+   * - 6. Yo pana bhikkhu mātugāmena saha-seyyaṃ kappeyya, pācittiyaṃ.
+     - 6. Should any bhikkhu lie down together (in the same dwelling) with a
+       woman, it is to be confessed.
+     - 6. 若比丘與女人同宿者，波逸提。
 
 ..
    * - 
