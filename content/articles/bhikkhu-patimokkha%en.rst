@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-09T20:57+07:00
+:modified: 2023-07-10T22:16+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1814,6 +1814,18 @@ Bhikkhu Pāṭimokkha - Pācittiyā
      - 6. Should any bhikkhu lie down together (in the same dwelling) with a
        woman, it is to be confessed.
      - 6. 若比丘與女人同宿者，波逸提。
+
+   * - 7. Yo pana bhikkhu mātugāmassa uttari-chappañca-vācāhi dhammaṃ deseyya,
+       aññatra viññunā purisa-viggahena, pācittiyaṃ.
+     - 7. Should any bhikkhu teach more than five or six sentences of Dhamma to
+       a woman-unless a knowledgeable man is present-it is to be confessed.
+     - 7. 若比丘對女人說法超過五、六語，除了有智男子外，波逸提。
+
+   * - 8. Yo pana bhikkhu anupasampannassa uttari-manussa-dhammaṃ āroceyya,
+       bhūtasmiṃ pācittiyaṃ.
+     - 8. Should any bhikkhu report (his own) superior human state to an
+       unordained person, when it is factual, it is to be confessed.
+     - 8. 若比丘實得上人法而告訴未達上者，波逸提。
 
 ..
    * - 
