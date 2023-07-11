@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-10T22:16+07:00
+:modified: 2023-07-11T20:48+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1763,8 +1763,8 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
      - *（ 尼薩耆波逸提法已結束 ）*
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā
-++++++++++++++++++++++++++++++
+Bhikkhu Pāṭimokkha - Pācittiyā - Musāvāda-vaggo
++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. container:: align-center video-container
 
@@ -1772,7 +1772,7 @@ Bhikkhu Pāṭimokkha - Pācittiyā
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Musāvāda-vaggo
    :header-rows: 1
    :class: stack-th-td-on-mobile
    :widths: auto
@@ -1826,6 +1826,21 @@ Bhikkhu Pāṭimokkha - Pācittiyā
      - 8. Should any bhikkhu report (his own) superior human state to an
        unordained person, when it is factual, it is to be confessed.
      - 8. 若比丘實得上人法而告訴未達上者，波逸提。
+
+   * - 9. Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa
+       āroceyya aññatra bhikkhu-sammatiyā, pācittiyaṃ.
+     - 9. Should any bhikkhu report (another) bhikkhu's serious offense to an
+       unordained person-unless authorized by the bhikkhus-it is to be
+       confessed.
+     - 9. 若比丘將比丘的粗重罪告訴未達上者，除了比丘共許外，波逸提。
+
+   * - 10. Yo pana bhikkhu paṭhaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiyaṃ.
+     - 10. Should any bhikkhu dig soil or have it dug, it is to be confessed.
+     - 10．若比丘掘地或令掘者，波逸提。
+
+   * - Musāvāda-vaggo paṭhamo.
+     - (Here ends) the first chapter, on lies.
+     - 第一 虛妄語品
 
 ..
    * - 
