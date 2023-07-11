@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-11T20:48+07:00
+:modified: 2023-07-11T20:57+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1841,6 +1841,29 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Musāvāda-vaggo
    * - Musāvāda-vaggo paṭhamo.
      - (Here ends) the first chapter, on lies.
      - 第一 虛妄語品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2292" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 11. Bhūtagāma-pātabyatāya pācittiyaṃ.
+     - 11. The damaging of a living plant is to be confessed.
+     - 11．壞生物村者，波逸提。
 
 ..
    * - 
