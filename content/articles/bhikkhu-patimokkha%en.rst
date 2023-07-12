@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-11T20:57+07:00
+:modified: 2023-07-12T21:33+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1864,6 +1864,35 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
    * - 11. Bhūtagāma-pātabyatāya pācittiyaṃ.
      - 11. The damaging of a living plant is to be confessed.
      - 11．壞生物村者，波逸提。
+
+   * - 12. Aññavādake vihesake pācittiyaṃ.
+     - 12. Evasive speech and causing frustration are to be confessed.
+     - 12．異語、惱亂者，波逸提。
+
+   * - 13. Ujjhāpanake khiyyanake pācittiyaṃ.
+     - 13. Criticizing or complaining (about a Community official) is to be
+       confessed.
+     - 13．輕毀、嫌責者，波逸提。
+
+   * - 14. Yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā
+       ajjhokāse santharitvā vā santharāpetvā vā, taṃ pakkamanto n'eva
+       uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.
+     - 14. Should any bhikkhu set a bed, bench, mattress, or stool belonging to
+       the Community out in the open--or have it set out-and then on departing
+       neither put it away nor have it put away, or should he go without taking
+       leave, it is to be confessed.
+     - 14．若比丘在露地敷設或令敷設僧團的床、椅、褥墊、草蓆後，
+       離開時既不收起來，也不令收起來，或未囑咐而離去者，波逸提。
+
+   * - 15. Yo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā
+       vā, taṃ pakkamanto n'eva uddhareyya na uddharāpeyya, anāpucchaṃ vā
+       gaccheyya, pācittiyaṃ.
+     - 15. Should any bhikkhu set out bedding in a dwelling belonging to the
+       Community-or have it set out-and then on departing neither put it away
+       nor have it put away, or should he go without taking leave, it is to be
+       confessed.
+     - 15．若比丘在僧團的住處敷設或令敷設臥具後，離開時不收起來，也不令收起來，
+       或未囑咐而離去者，波逸提。
 
 ..
    * - 
