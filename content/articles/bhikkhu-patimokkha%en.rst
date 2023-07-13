@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-12T21:33+07:00
+:modified: 2023-07-13T21:23+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1893,6 +1893,16 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
        confessed.
      - 15．若比丘在僧團的住處敷設或令敷設臥具後，離開時不收起來，也不令收起來，
        或未囑咐而離去者，波逸提。
+
+   * - 16. Yo pana bhikkhu saṅghike vihāre jānaṃ pubbūpagataṃ bhikkhuṃ
+       anūpakhajja seyyaṃ kappeyya, "Yassa sambādho bhavissati, so pakkamissatī"
+       ti. Etad'eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+     - 16. Should any bhikkhu knowingly lie down in a dwelling belonging to the
+       Community so as to intrude on a bhikkhu who arrived there first,
+       (thinking,) "Whoever finds it confining will go away"-doing it for just
+       that reason and no other-it is to be confessed.
+     - 16．若比丘在僧團的住處明知有先到的比丘，強入而設臥具：
+       “若是擁擠，他將會離開。”只以此因緣而作，而非其他者，波逸提。
 
 ..
    * - 
