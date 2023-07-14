@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-13T21:23+07:00
+:modified: 2023-07-14T23:25+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1903,6 +1903,13 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
        that reason and no other-it is to be confessed.
      - 16．若比丘在僧團的住處明知有先到的比丘，強入而設臥具：
        “若是擁擠，他將會離開。”只以此因緣而作，而非其他者，波逸提。
+
+   * - 17. Yo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā
+       nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.
+     - 17. Should any bhikkhu, angered and displeased, evict a bhikkhu from a
+       dwelling belonging to the Community-or have him evicted-it is to be
+       confessed.
+     - 17．若比丘忿怒、不悅而將比丘從僧團的住處趕出，或令趕出者，波逸提。
 
 ..
    * - 
