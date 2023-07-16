@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-14T23:25+07:00
+:modified: 2023-07-16T20:54+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1910,6 +1910,14 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
        dwelling belonging to the Community-or have him evicted-it is to be
        confessed.
      - 17．若比丘忿怒、不悅而將比丘從僧團的住處趕出，或令趕出者，波逸提。
+
+   * - 18. Yo pana bhikkhu saṅghike vihāre upari-vehāsa-kuṭiyā
+       āhacca-pādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā,
+       pācittiyaṃ.
+     - 18. Should any bhikkhu sit or lie down on a bed or bench with detachable
+       legs on an (unplanked) loft in a dwelling belonging to the Community, it
+       is to be confessed.
+     - 18．若比丘在僧團的住處，於閣樓上坐或臥於腳可拆卸之床或椅者，波逸提。
 
 ..
    * - 
