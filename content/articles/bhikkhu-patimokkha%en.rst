@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-17T20:47+07:00
+:modified: 2023-07-17T21:10+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1942,6 +1942,30 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
    * - Bhūtagāma-vaggo dutiyo.
      - (Here ends) the second chapter, on living plants.
      - 第二 生物村品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
+++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2414" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 21. Yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.
+     - 21. Should any bhikkhu, unauthorized, exhort the bhikkhunis, it is to be
+       confessed.
+     - 21．若比丘未經選派而教誡諸比丘尼者，波逸提。
 
 ..
    * - 
