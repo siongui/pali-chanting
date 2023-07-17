@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-16T20:54+07:00
+:modified: 2023-07-17T20:47+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1918,6 +1918,30 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
        legs on an (unplanked) loft in a dwelling belonging to the Community, it
        is to be confessed.
      - 18．若比丘在僧團的住處，於閣樓上坐或臥於腳可拆卸之床或椅者，波逸提。
+
+   * - 19. Mahallakam-pana bhikkhunā vihāraṃ kārayamānena, yāva dvāra-kosā
+       aggalaṭṭhapanāya, āloka-sandhi-parikammāya, dvitticchadanassa pariyāyaṃ,
+       appaharite ṭhitena adhiṭṭhātabbaṃ. Tato ce uttariṃ appaharite-pi ṭhito
+       adhiṭṭhaheyya, pācittiyaṃ.
+     - 19. When a bhikkhu is having a large dwelling built, he may supervise two
+       or three layers of facing to plaster the area around the window frame and
+       reinforce the area around the door frame the width of the door opening,
+       while standing where there are no crops to speak of. Should he supervise
+       more than that, even if standing where there are no crops to speak of, it
+       is to be confessed.
+     - 19．當比丘建造大住所時，於門週範圍內，為了固定門框，為了安置窗戶 ，
+       [蓋]兩、三層的屋頂，應當站在沒有農作物處指示。
+       假如超過此者，即使站在沒有農作物處指示，也波逸提。
+
+   * - 20. Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya
+       vā siñcāpeyya vā, pācittiyaṃ.
+     - 20. Should any bhikkhu knowingly pour water containing living beings-or
+       have it poured-on grass or on clay, it is to be confessed.
+     - 20．若比丘明知有生物之水而澆草或土，或令澆者，波逸提。
+
+   * - Bhūtagāma-vaggo dutiyo.
+     - (Here ends) the second chapter, on living plants.
+     - 第二 生物村品
 
 ..
    * - 
