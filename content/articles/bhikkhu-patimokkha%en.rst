@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-17T21:10+07:00
+:modified: 2023-07-18T22:00+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1966,6 +1966,28 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
      - 21. Should any bhikkhu, unauthorized, exhort the bhikkhunis, it is to be
        confessed.
      - 21．若比丘未經選派而教誡諸比丘尼者，波逸提。
+
+   * - 22. Sammato-pi ce bhikkhu atthaṅgate suriye bhikkhuniyo ovadeyya,
+       pācittiyaṃ.
+     - 22. Should any bhikkhu even if authorized, exhort the bhikkhunis after
+       sunset, it is to be confessed.
+     - 22．即使被選派，假如比丘在日落教誡諸比丘尼者，波逸提。
+
+   * - 23. Yo pana bhikkhu bhikkhunūpassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya
+       aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo: Gilānā hoti bhikkhunī. Ayaṃ
+       tattha samayo.
+     - 23. Should any bhikkhu, having gone to the bhikkhunis' quarters, exhort
+       the bhikkhunis-except at the proper occasion-it is to be confessed. Here
+       the proper occasion is this: A bhikkhuni is ill. This is the proper
+       occasion here.
+     - 23．若比丘前往比丘尼的寢室教誡諸比丘尼者，除了適時外，波逸提。
+       這裡的適時為：比丘尼生病，此是這裡的適時。
+
+   * - 24. Yo pana bhikkhu evaṃ vadeyya, "Āmisa-hetu bhikkhū bhikkhuniyo
+       ovadantī" ti, pācittiyaṃ.
+     - 24. Should any bhikkhu say that the bhikkhus exhort the bhikkhunis for
+       the sake of worldly gain, it is to be confessed.
+     - 24．若比丘如此說“比丘們因為利養而教誡諸比丘尼”者，波逸提。
 
 ..
    * - 
