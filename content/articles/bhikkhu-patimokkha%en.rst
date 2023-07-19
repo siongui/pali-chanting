@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-18T22:00+07:00
+:modified: 2023-07-19T20:29+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1988,6 +1988,31 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
      - 24. Should any bhikkhu say that the bhikkhus exhort the bhikkhunis for
        the sake of worldly gain, it is to be confessed.
      - 24．若比丘如此說“比丘們因為利養而教誡諸比丘尼”者，波逸提。
+
+   * - 25. Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, aññatra
+       pārivaṭṭakā, pācittiyaṃ.
+     - 25. Should any bhikkhu give robe-cloth to a bhikkhuni unrelated to
+       him-except in exchange-it is to be confessed.
+     - 25．若比丘送衣給非親戚的比丘尼，除了交換外，波逸提。
+
+   * - 26. Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ sibbeyya vā sibbāpeyya
+       vā, pācittiyaṃ.
+     - 26. Should any bhikkhu sew a robe or have it sewn for a bhikkhuni
+       unrelated to him, it is to be confessed.
+     - 26．若比丘為非親戚的比丘尼縫衣，或令縫者，波逸提。
+
+   * - 27. Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ek'addhāna-maggaṃ
+       paṭipajjeyya, antamaso gām'antaram-pi aññatra samayā, pācittiyaṃ.
+       Tatthāyaṃ samayo: Sattha-gamanīyo hoti maggo sāsaṅka-sammato
+       sappaṭibhayo. Ayaṃ tattha samayo.
+     - 27. Should any bhikkhu, by arrangement, travel together with a bhikkhuni
+       even for the interval between one village and the next-except at the
+       proper occasion-it is to be confessed. Here the proper occasion is this:
+       The road is to be traveled by caravan and is considered dubious and
+       risky. This is the proper occasion here.
+     - 27．若比丘與比丘尼相約在同一旅途而行者，乃至村落間，除了適時外，
+       也波逸提。這裡的適時為：應與商旅同行的、公認有危險、有恐怖的道路，
+       此是這裡的適時。
 
 ..
    * - 
