@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-19T20:29+07:00
+:modified: 2023-07-20T20:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2013,6 +2013,32 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
      - 27．若比丘與比丘尼相約在同一旅途而行者，乃至村落間，除了適時外，
        也波逸提。這裡的適時為：應與商旅同行的、公認有危險、有恐怖的道路，
        此是這裡的適時。
+
+   * - 28. Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ
+       abhirūheyya, uddha-gāminiṃ vā adho-gāminiṃ vā, aññatra tiriy'antaraṇāya,
+       pācittiyaṃ.
+     - 28. Should any bhikkhu, by arrangement, get in the same boat with a
+       bhikkhuni going upstream or downstream-except to cross over to the other
+       bank-it is to be confessed.
+     - 28．若比丘與比丘尼相約搭乘同一條船往上游或往下游者，除了橫渡外，波逸提。
+
+   * - 29. Yo pana bhikkhu jānaṃ bhikkhunī-paripācitaṃ piṇḍapātaṃ bhuñjeyya,
+       aññatra pubbe gihi-samārambhā, pācittiyaṃ.
+     - 29. Should any bhikkhu knowingly eat almsfood donated through the
+       prompting of a bhikkhuni-except for food that householders had already
+       intended for him-it is to be confessed.
+     - 29．若比丘知道比丘尼所促成的缽食而食用者，除了在家人事先準備的之外，
+       波逸提。
+
+   * - 30. Yo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya,
+       pācittiyaṃ.
+     - 30. Should any bhikkhu sit in private, alone with a bhikkhuni, it is to
+       be confessed.
+     - 30．若比丘單獨與一比丘尼秘密共坐者，波逸提。
+
+   * - Ovāda-vaggo tatiyo.
+     - (Here ends) the third chapter, on exhortation.
+     - 第三 教誡品
 
 ..
    * - 
