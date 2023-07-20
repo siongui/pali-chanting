@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-20T20:53+07:00
+:modified: 2023-07-20T21:07+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2039,6 +2039,31 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
    * - Ovāda-vaggo tatiyo.
      - (Here ends) the third chapter, on exhortation.
      - 第三 教誡品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2523" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 31. Agilānena bhikkhunā eko āvasatha-piṇḍo bhuñjitabbo. Tato ce uttariṃ
+       bhuñjeyya, pācittiyaṃ.
+     - 31. A bhikkhu who is not ill may eat one meal at a public alms center. If
+       he should eat more than that, it is to be confessed.
+     - 31．無病的比丘可以食用施處食一次。假如食用超過此者，波逸提。
 
 ..
    * - 
