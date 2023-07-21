@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-20T21:07+07:00
+:modified: 2023-07-21T21:20+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2064,6 +2064,28 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
      - 31. A bhikkhu who is not ill may eat one meal at a public alms center. If
        he should eat more than that, it is to be confessed.
      - 31．無病的比丘可以食用施處食一次。假如食用超過此者，波逸提。
+
+   * - 32. Gaṇa-bhojane aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo:
+       gilāna-samayo, cīvara-dāna-samayo, cīvara-kāra-samayo,
+       addhāna-gamana-samayo, nāvābhirūhana-samayo, mahā-samayo,
+       samaṇa-bhatta-samayo. Ayaṃ tattha samayo.
+     - 32. A group meal-except at the proper occasions-is to be confessed. Here
+       the proper occasions are these: a time of illness, a time of giving
+       cloth, a time of making robes, a time of going on a journey, a time of
+       embarking on a boat, a great occasion, a time when the meal is supplied
+       by contemplatives. These are the proper occasions here.
+     - 32．結眾食者，除了適時外，波逸提。這裡的適時為：生病時，施衣時，
+       做衣時，旅行時，乘船時，大眾會時，沙門食時，此是這裡的適時。
+
+   * - 33. Parampara-bhojane aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo:
+       gilāna-samayo, cīvara-dāna-samayo, cīvara-kāra-samayo. Ayaṃ tattha
+       samayo.
+     - 33. An out-of-turn meal -except at the proper occasions-is to be
+       confessed. Here the proper occasions are these: a time of illness, a time
+       of giving cloth, a time of making robes. These are the proper occasions
+       here.
+     - 33．輾轉食者，除了適時外，波逸提。這裡的適時為：生病時，施衣時，
+       做衣時，此是這裡的適時。
 
 ..
    * - 
