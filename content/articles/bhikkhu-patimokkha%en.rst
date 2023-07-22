@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-21T21:20+07:00
+:modified: 2023-07-22T21:22+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1235,6 +1235,9 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Cīvara-vaggo
 .. https://www.bps.lk/tipitaka/1Vinaya-Pitaka/index.html
 .. https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E7%BE%85%E6%8F%90%E6%9C%A8%E5%8F%89
 
+.. 略探受「迦絺那」儀式所得「五種權利」之內容、起源與演變
+.. http://www.chibs.edu.tw/ch_html/chbs/07/chbs0702.htm
+
 .. container:: align-center video-container
 
   .. raw:: html
@@ -2087,6 +2090,44 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
      - 33．輾轉食者，除了適時外，波逸提。這裡的適時為：生病時，施衣時，
        做衣時，此是這裡的適時。
 
+   * - 34. Bhikkhuṃ pan'eva kulaṃ upagataṃ pūvehi vā manthehi vā
+       abhihaṭṭhum-pavāreyya, ākaṅkhamānena bhikkhunā dvitti-patta-pūrā
+       paṭiggahetabbā. Tato ce uttariṃ paṭiggaṇheyya, pācittiyaṃ.
+       Dvitti-patta-pūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ
+       saṃvibhajitabbaṃ. Ayaṃ tattha sāmīci.
+     - 34. In case a bhikkhu arriving at a family residence is presented with
+       cakes or cooked grain-meal, he may accept two or three bowlfuls if he so
+       desires. If he should accept more than that, it is to be confessed.
+       Having accepted the two-or-three bowlfuls and having taken them from
+       there, he is to share them among the bhikkhus. This is the proper course
+       here.
+     - 34．若以餅或乾糧邀請前往俗家的比丘拿取，想要的比丘可以接受兩、三滿缽。
+       假如接受超過此者，波逸提。
+       接受兩、三滿缽後，應從那裡帶回與比丘們分享，這於此是如法的。
+
+   * - 35. Yo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā
+       bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
+     - 35. Should any bhikkhu, having eaten and turned down an offer (of further
+       food), chew or consume staple or non-staple food that is not leftover, it
+       is to be confessed.
+     - 35．若比丘已足食，咀嚼或食用非剩餘的嚼食或噉食者，波逸提。
+
+   * - 36. Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena
+       vā bhojanīyena vā abhihaṭṭhum-pavāreyya, "Handa bhikkhu khāda vā bhuñja
+       vā" ti, jānaṃ āsādan'āpekkho, bhuttasmiṃ pācittiyaṃ.
+     - 36. Should any bhikkhu, knowingly and wishing to find fault, present
+       staple or non-staple food he has brought to a bhikkhu who has eaten and
+       turned down an offer (of further food), (saying,) "Here, bhikkhu, chew or
+       consume this"-when it has been eaten, it is to be confessed.
+     - 36．若比丘以非剩餘的嚼食或噉食邀請明知已足食的比丘拿取：
+       “比丘，來咀嚼或食用吧！”意圖攻訐者，在食用時，波逸提。
+
+   * - 37. Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā
+       bhuñjeyya vā, pācittiyaṃ.
+     - 37. Should any bhikkhu chew or consume staple or non-staple food at the
+       wrong time, it is to be confessed.
+     - 37．若比丘在非時咀嚼或食用嚼食或噉食者，波逸提。
+
 ..
    * - 
      - 
@@ -2094,11 +2135,6 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
 
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
-
-
-.. 略探受「迦絺那」儀式所得「五種權利」之內容、起源與演變
-.. http://www.chibs.edu.tw/ch_html/chbs/07/chbs0702.htm
-
 
 ----
 
