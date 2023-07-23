@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-23T21:04+07:00
+:modified: 2023-07-23T21:17+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2154,6 +2154,32 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
    * - Bhojana-vaggo catuttho.
      - (Here ends) the fourth chapter, on food.
      - 第四 食物品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2669" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 41. Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā
+       sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.
+     - 41. Should any bhikkhu give staple or non-staple food with his own hand
+       to a naked ascetic, a male wanderer, or a female wanderer, it is to be
+       confessed.
+     - 41．若比丘親手把嚼食或噉食給與裸行者、遊方僧或遊方尼者，波逸提。
 
 ..
    * - 
