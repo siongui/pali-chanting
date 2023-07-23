@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-22T21:22+07:00
+:modified: 2023-07-23T21:04+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2127,6 +2127,33 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
      - 37. Should any bhikkhu chew or consume staple or non-staple food at the
        wrong time, it is to be confessed.
      - 37．若比丘在非時咀嚼或食用嚼食或噉食者，波逸提。
+
+   * - 38. Yo pana bhikkhu sannidhi-kārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya
+       vā bhuñjeyya vā, pācittiyaṃ.
+     - 38. Should any bhikkhu chew or consume stored-up staple or non-staple
+       food, it is to be confessed.
+     - 38．若比丘咀嚼或食用儲存的嚼食或噉食者，波逸提。
+
+   * - 39. Yāni kho pana tāni paṇīta-bhojanāni, seyyathīdaṃ: sappi navanītaṃ
+       telaṃ madhu phāṇitaṃ, maccho maṃsaṃ khīraṃ dadhi. Yo pana bhikkhu
+       eva-rūpāni paṇīta-bhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya,
+       pācittiyaṃ.
+     - 39. There are these finer staple foods: ghee, fresh butter, oil, honey,
+       sugar / molasses, fish, meat, milk, and curds. Should any bhikkhu who is
+       not ill, having requested finer staple foods such as these for his own
+       sake, then consume them, it is to be confessed.
+     - 39．凡諸美味食物，這即是：熟酥、生酥、油、蜂蜜、糖、魚、肉、乳、酪。
+       若比丘無病而為自己乞求如此諸美味食物而食用者，波逸提。
+
+   * - 40. Yo pana bhikkhu adinnaṃ mukha-dvāraṃ āhāraṃ āhareyya, aññatra
+       udaka-dantapoṇā, pācittiyaṃ.
+     - 40. Should any bhikkhu take into his mouth an edible that has not been
+       given-except for water and tooth-cleaning sticks-it is to be confessed.
+     - 40．若比丘把未授與的食物持入口中者，除了水、齒木外，波逸提。
+
+   * - Bhojana-vaggo catuttho.
+     - (Here ends) the fourth chapter, on food.
+     - 第四 食物品
 
 ..
    * - 
