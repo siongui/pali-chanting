@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-23T21:17+07:00
+:modified: 2023-07-24T20:48+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2180,6 +2180,38 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
        to a naked ascetic, a male wanderer, or a female wanderer, it is to be
        confessed.
      - 41．若比丘親手把嚼食或噉食給與裸行者、遊方僧或遊方尼者，波逸提。
+
+   * - 42. Yo pana bhikkhu bhikkhuṃ evaṃ vadeyya: "Eh'āvuso gāmaṃ vā nigamaṃ vā
+       piṇḍāya pavisissāmā" ti. Tassa dāpetvā vā adāpetvā vā uyyojeyya,
+       "Gacch'āvuso. Na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti. Ekakassa
+       me kathā vā nisajjā vā phāsu hotī" ti. Etad'eva paccayaṃ karitvā anaññaṃ,
+       pācittiyaṃ.
+     - 42. Should any bhikkhu say to a bhikkhu, "Come, my friend, let's enter
+       the village or town for alms," and then-whether or not he has had (food)
+       given to him- dismiss him, (saying,) "Go away, my friend. I don't like
+       sitting or talking with you. I prefer sitting or talking alone"- doing it
+       for just that reason and no other-it is to be confessed.
+     - 42．若比丘對比丘如此說：“賢友，來，我們入村或鎮集食吧！ ”
+       [無論]給與或未給而趕走他：“賢友，走！我和你一起說話或坐著不安樂，
+       我獨自說話或坐著才安樂。 ”只以此因緣而作，而非其他者，波逸提。
+
+   * - 43. Yo pana bhikkhu sabhojane kule anūpakhajja nisajjaṃ kappeyya,
+       pācittiyaṃ.
+     - 43. Should any bhikkhu sit intruding on a family "with its meal," it is
+       to be confessed.
+     - 43．若比丘強入有兩人之家而坐者，波逸提。
+
+   * - 44. Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ
+       kappeyya, pācittiyaṃ.
+     - 44. Should any bhikkhu sit in private on a secluded seat with a woman, it
+       is to be confessed.
+     - 44．若比丘與女人在秘密的屏覆座位共坐者，波逸提。
+
+   * - 45. Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya,
+       pācittiyaṃ.
+     - 45. Should any bhikkhu sit in private, alone with a woman, it is to be
+       confessed.
+     - 45．若比丘單獨與一女人秘密共坐者，波逸提。
 
 ..
    * - 
