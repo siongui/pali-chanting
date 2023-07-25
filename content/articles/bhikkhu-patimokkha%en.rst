@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-24T20:48+07:00
+:modified: 2023-07-25T20:57+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2212,6 +2212,34 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
      - 45. Should any bhikkhu sit in private, alone with a woman, it is to be
        confessed.
      - 45．若比丘單獨與一女人秘密共坐者，波逸提。
+
+   * - 46. Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā
+       pure-bhattaṃ vā pacchā-bhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra
+       samayā, pācittiyaṃ. Tatthāyaṃ samayo: cīvara-dāna-samayo,
+       cīvara-kāra-samayo. Ayaṃ tattha samayo.
+     - 46. Should any bhikkhu, being invited for a meal and without taking leave
+       of an available bhikkhu, go calling on families before or after the
+       meal--except at the proper occasions-it is to be confessed. Here the
+       proper occasions are these: a time of giving cloth, a time of making
+       robes. These are the proper occasions here.
+     - 46．若比丘已受食物邀請，有比丘而不囑咐，在食前或食後走訪俗家，
+       除了適時外，波逸提。這裡的適時為：施衣時，做衣時，此是這裡的適時。
+
+   * - 47. Agilānena bhikkhunā cātu-māsa-paccaya-pavāraṇā sāditabbā, aññatra
+       puna-pavāraṇāya, aññatra nicca-pavāraṇāya. Tato ce uttariṃ sādiyeyya,
+       pācittiyaṃ.
+     - 47. A bhikkhu who is not ill may accept (make use of) a four-month
+       invitation to ask for requisites. If he should accept (make use of) it
+       beyond that-unless the invitation is renewed or is permanent-it is to be
+       confessed.
+     - 47．無病比丘可以接受四個月資具的邀請，除了再邀請，除了常邀請外。
+       假如接受超過此者，波逸提。
+
+   * - 48. Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra
+       tathā-rūpa-paccayā, pācittiyaṃ.
+     - 48. Should any bhikkhu go to see an army on active duty-unless there is a
+       suitable reason-it is to be confessed.
+     - 48．若比丘前往觀看出征的軍隊者，除了適當的因緣外，波逸提。
 
 ..
    * - 
