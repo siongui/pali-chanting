@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-25T20:57+07:00
+:modified: 2023-07-26T20:25+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2240,6 +2240,27 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
      - 48. Should any bhikkhu go to see an army on active duty-unless there is a
        suitable reason-it is to be confessed.
      - 48．若比丘前往觀看出征的軍隊者，除了適當的因緣外，波逸提。
+
+   * - 49. Siyā ca tassa bhikkhuno kocid'eva paccayo senaṃ gamanāya,
+       dviratta-tirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttariṃ
+       vaseyya, pācittiyaṃ.
+     - 49. There being some reason or another for a bhikkhu to go to an army, he
+       may stay two or three (consecutive) nights with the army. If he should
+       stay beyond that, it is to be confessed.
+     - 49．當比丘有因緣前往軍中時，那位比丘可以在軍中住兩、三夜。
+       若住超過此者，波逸提。
+
+   * - 50. Dviratta-tirattañ-ce bhikkhu senāya vasamāno, uyyodhikaṃ vā balaggaṃ
+       vā senā-byūhaṃ vā anīka-dassanaṃ vā gaccheyya, pācittiyaṃ.
+     - 50. If a bhikkhu staying two or three nights with an army should go to a
+       battlefield, a roll call, the troops in battle formation, or to see a
+       review of the (battle) units, it is to be confessed.
+     - 50．當比丘住在軍中兩、三夜時，假如前往觀看演習、列兵、布陣或閱兵者，
+       波逸提。
+
+   * - Acelaka-vaggo pañcamo.
+     - (Here ends) the fifth chapter, on naked ascetics.
+     - 第五 裸行者品
 
 ..
    * - 
