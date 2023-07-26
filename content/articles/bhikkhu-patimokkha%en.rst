@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-26T20:25+07:00
+:modified: 2023-07-26T20:54+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2261,6 +2261,46 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
    * - Acelaka-vaggo pañcamo.
      - (Here ends) the fifth chapter, on naked ascetics.
      - 第五 裸行者品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2802" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 51. Surā-meraya-pāne pācittiyaṃ.
+     - 51. The drinking of alcohol or fermented liquor is to be confessed.
+     - 51．飲谷酒、花果酒者，波逸提。
+
+   * - 52. Aṅguli-patodake pācittiyaṃ.
+     - 52. Tickling with the fingers is to be confessed.
+     - 52．搔癢者，波逸提。
+
+   * - 53. Udake hassa-dhamme pācittiyaṃ.
+     - 53. The act of playing in the water is to be confessed.
+     - 53．水中嬉戲者，波逸提。
+
+   * - 54. Anādariye pācittiyaṃ.
+     - 54. Disrespect is to be confessed.
+     - 54．不恭敬者，波逸提。
+
+   * - 55. Yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.
+     - 55. Should any bhikkhu try to frighten another bhikkhu, it is to be
+       confessed.
+     - 55．若比丘恐嚇比丘者，波逸提。
 
 ..
    * - 
