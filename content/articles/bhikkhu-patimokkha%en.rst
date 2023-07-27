@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-26T20:54+07:00
+:modified: 2023-07-27T21:14+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2301,6 +2301,40 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
      - 55. Should any bhikkhu try to frighten another bhikkhu, it is to be
        confessed.
      - 55．若比丘恐嚇比丘者，波逸提。
+
+   * - 56. Yo pana bhikkhu agilāno visīvan'āpekkho, jotiṃ samādaheyya vā
+       samādahāpeyya vā, aññatra tathā-rūpa-paccayā, pācittiyaṃ.
+     - 56. Should any bhikkhu who is not ill, seeking to warm himself, kindle a
+       fire or have one kindled-unless there is a suitable reason-it is to be
+       confessed.
+     - 56．若無病比丘想要取暖而燃火或令燃者，除了適當的因緣外，波逸提。
+
+   * - 57. Yo pana bhikkhu oren'aḍḍha-māsaṃ nhāyeyya, aññatra samayā,
+       pācittiyaṃ. Tatthāyaṃ samayo: "Diyaḍḍho māso seso gimhānan" ti,
+       vassānassa paṭhamo māso, icc'ete aḍḍhateyya-māsā; uṇha-samayo,
+       pariḷāha-samayo, gilāna-samayo, kamma-samayo, addhāna-gamana-samayo,
+       vāta-vuṭṭhi-samayo. Ayaṃ tattha samayo.
+     - 57. Should any bhikkhu bathe at intervals of less than half a
+       month-except at the proper occasions-it is to be confessed. Here the
+       proper occasions are these: the last month and a half of the hot season,
+       the first month of the rains, these two and a half months being a time of
+       heat, a time of fever; (also) a time of illness; a time of work; a time
+       of going on a journey; a time of wind or rain. These are the proper
+       occasions here.
+     - 57．若比丘在半月之內洗浴，除了適時外，波逸提。這裡的適時為：
+       熱季末後的一個半月、雨季的第一個月，如此這兩個半月為暑時、熱時，生病時，
+       工作時，旅行時，風雨時，此是這裡的適時。
+
+   * - 58. Navam-pana bhikkhunā cīvara-lābhena tiṇṇaṃ dubbaṇṇa-karaṇānaṃ
+       aññataraṃ dubbaṇṇa-karaṇaṃ ādātabbaṃ, nīlaṃ vā kaddamaṃ vā kāḷa-sāmaṃ vā.
+       Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇa-karaṇānaṃ aññataraṃ dubbaṇṇa-karaṇaṃ
+       navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.
+     - 58. When a bhikkhu receives a new robe, any one of three means of
+       discoloring it is to be applied: green, brown, or black. If a bhikkhu
+       should make use of a new robe without applying any of the three means of
+       discoloring it, it is to be confessed.
+     - 58．當比丘獲得新衣，應當取青色、泥色或黑褐色三種壞色之一作壞色。
+       假如比丘未取三種壞色之一對新衣作壞色而穿用者，波逸提。
 
 ..
    * - 
