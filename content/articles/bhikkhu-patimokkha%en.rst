@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-28T21:19+07:00
+:modified: 2023-07-28T21:45+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2358,6 +2358,47 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
    * - Surā-pāna-vaggo chaṭṭho.
      - (Here ends) the sixth chapter, on alcoholic drinks.
      - 第六 飲谷酒品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
+++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=2909" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 61. Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.
+     - 61. Should any bhikkhu intentionally deprive an animal of life, it is to
+       be confessed.
+     - 61．若比丘故意奪取生物的生命者，波逸提。
+
+   * - 62. Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya pācittiyaṃ.
+     - 62. Should any bhikkhu knowingly make use of water containing living
+       beings, it is to be confessed.
+     - 62．若比丘使用明知有生物之水者，波逸提。
+
+   * - 63. Yo pana bhikkhu jānaṃ yathādhammaṃ nīhatādhikaraṇaṃ punakammāya
+       ukkoṭeyya, pācittiyaṃ.
+     - 63. Should any bhikkhu knowingly agitate for the reviving of an issue
+       that has been rightfully dealt with, it is to be confessed.
+     - 63．若比丘明知已如法裁決的爭事，為了再度羯磨而翻案者，波逸提。
+
+   * - 64. Yo pana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya,
+       pācittiyaṃ.
+     - 64. Should any bhikkhu knowingly conceal (another) bhikkhu's serious
+       offense, it is to be confessed.
+     - 64．若比丘明知而隱瞞比丘的粗重罪者，波逸提。
 
 ..
    * - 
