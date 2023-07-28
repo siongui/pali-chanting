@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-27T21:14+07:00
+:modified: 2023-07-28T21:19+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2335,6 +2335,29 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
        discoloring it, it is to be confessed.
      - 58．當比丘獲得新衣，應當取青色、泥色或黑褐色三種壞色之一作壞色。
        假如比丘未取三種壞色之一對新衣作壞色而穿用者，波逸提。
+
+   * - 59. Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā
+       sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhārakaṃ
+       paribhuñjeyya, pācittiyaṃ.
+     - 59. Should any bhikkhu, having himself placed robe-cloth under shared
+       ownership (vikappana) with a bhikkhu, a bhikkhuni, a female trainee, a
+       male novice, or a female novice, then make use of the cloth without the
+       shared ownership's being rescinded, it is to be confessed.
+     - 59．若比丘把自己的衣和比丘、比丘尼、在學尼（式叉摩那）、
+       沙彌或沙彌尼作共有後，未經捨出即穿用者，波逸提。
+
+   * - 60. Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā
+       sūci-gharaṃ vā kāya-bandhanaṃ vā apanidheyya vā apanidhāpeyya vā,
+       antamaso hass'āpekkho-pi, pācittiyaṃ.
+     - 60. Should any bhikkhu hide (another) bhikkhu's bowl, robe, sitting
+       cloth, needle box, or belt-or have it hidden-even as a joke, it is to be
+       confessed.
+     - 60．若比丘藏匿比丘的缽、衣、坐具、針筒或腰帶，或令藏匿者，
+       乃至想要開玩笑，也波逸提。
+
+   * - Surā-pāna-vaggo chaṭṭho.
+     - (Here ends) the sixth chapter, on alcoholic drinks.
+     - 第六 飲谷酒品
 
 ..
    * - 
