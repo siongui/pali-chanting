@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-28T21:45+07:00
+:modified: 2023-07-29T20:46+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2399,6 +2399,30 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
      - 64. Should any bhikkhu knowingly conceal (another) bhikkhu's serious
        offense, it is to be confessed.
      - 64．若比丘明知而隱瞞比丘的粗重罪者，波逸提。
+
+   * - 65. Yo pana bhikkhu jānaṃ ūna-vīsati-vassaṃ puggalaṃ upasampādeyya, so ca
+       puggalo anupasampanno, te ca bhikkhū gārayhā. Idaṃ tasmiṃ pācittiyaṃ.
+     - 65. Should any bhikkhu knowingly give full Acceptance (ordination) to an
+       individual less than twenty years old, the individual is not accepted and
+       the bhikkhus are blameworthy; and as for him (the preceptor), it is to be
+       confessed.
+     - 65．若比丘明知未滿二十歲之人而使達上（受具足戒），
+       那個人仍是未達上者（未得具足戒），且那些比丘應受呵責。
+       此對他（親教師[戒師]）是波逸提。
+
+   * - 66. Yo pana bhikkhu jānaṃ theyya-satthena saddhiṃ saṃvidhāya
+       ek'addhāna-maggaṃ paṭipajjeyya, antamaso gām'antaram-pi, pācittiyaṃ.
+     - 66. Should any bhikkhu knowingly and by arrangement travel together with
+       a caravan of thieves, even for the interval between one village and the
+       next, it is to be confessed.
+     - 66．若比丘明知盜賊的商旅，還相約在同一旅途而行者，乃至村落間，也波逸提。
+
+   * - 67. Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ek'addhāna-maggaṃ
+       paṭipajjeyya, antamaso gām'antaram-pi, pācittiyaṃ.
+     - 67. Should any bhikkhu, by arrangement, travel together with a woman,
+       even for the interval between one village and the next, it is to be
+       confessed.
+     - 67．若比丘與女人相約在同一旅途而行者，乃至村落間，也波逸提。
 
 ..
    * - 
