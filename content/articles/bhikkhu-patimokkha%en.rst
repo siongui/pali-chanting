@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-29T20:46+07:00
+:modified: 2023-07-30T20:28+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2423,6 +2423,50 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
        even for the interval between one village and the next, it is to be
        confessed.
      - 67．若比丘與女人相約在同一旅途而行者，乃至村落間，也波逸提。
+
+   * - 68. Yo pana bhikkhu evaṃ vadeyya, "Tathāhaṃ bhagavatā dhammaṃ desitaṃ
+       ājānāmi, yathā ye'me antarāyikā dhammā vuttā bhagavatā, te paṭisevato
+       nālaṃ antarāyāyā" ti. So bhikkhu bhikkhūhi evam'assa vacanīyo, "Mā āyasmā
+       evaṃ avaca. Mā bhagavantaṃ abbhācikkhi. Na hi sādhu bhagavato
+       abbhakkhānaṃ. Na hi bhagavā evaṃ vadeyya. Aneka-pariyāyena āvuso
+       antarāyikā dhammā vuttā bhagavatā, alañ-ca pana te paṭisevato antarāyāyā"
+       ti.
+
+       Evañ-ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu
+       bhikkhūhi yāva-tatiyaṃ samanubhāsitabbo tassa paṭinissaggāya.
+       Yāva-tatiyañ-ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ.
+       No ce paṭinissajjeyya, pācittiyaṃ.
+     - 68. Should any bhikkhu say, "As I understand the Dhamma taught by the
+       Blessed One, those acts the Blessed One says are obstructive, when
+       engaged in are not genuine obstructions," the bhikkhus are to admonish
+       him thus: "Do not say that, venerable sir. Do not misrepresent the
+       Blessed One, for it is not good to misrepresent the Blessed One. The
+       Blessed One would not say anything like that. In many ways, friend, the
+       Blessed One has described obstructive acts, and when engaged in they are
+       genuine obstructions."
+
+       And should that bhikkhu, thus admonished by the bhikkhus, persist as
+       before, the bhikkhus are to rebuke him up to three times so as to desist.
+       If while being rebuked up to three times he desists, that is good. If he
+       does not desist, it is to be confessed.
+     - 68．若比丘如此說:“我如實知道世尊所說之法，如果從事世尊所說的那些障礙法，
+       並不足以構成障礙。 ”比丘們應如此勸告那個比丘:“請具壽不要如此說，
+       不要誹謗世尊，誹謗世尊確實不好，世尊不可能如此說。
+       賢友，世尊以各種方便說諸障礙法為障礙，以及從事那些足以構成障礙。 ”
+
+       當比丘們在如此勸告那個比丘時，他仍然堅持，
+       比丘們應乃至第三次勸諫那個比丘，使他捨棄。
+       假如在乃至第三次勸諫時捨棄了，這實在很好。假如不捨棄，波逸提。
+
+   * - 69. Yo pana bhikkhu jānaṃ tathā-vādinā bhikkhunā akaṭānudhammena taṃ
+       diṭṭhiṃ appaṭinissaṭṭhena, saddhiṃ sambhuñjeyya vā saṃvaseyya vā saha vā
+       seyyaṃ kappeyya, pācittiyaṃ.
+     - 69. Should any bhikkhu knowingly commune, affiliate, or lie down in the
+       same dwelling with a bhikkhu professing such a view who has not acted in
+       compliance with the rule, who has not abandoned that view, it is to be
+       confessed.
+     - 69．若比丘明知如此主張的比丘，未隨法作，
+       未捨棄該見而共受用、共住或同宿者，波逸提。
 
 ..
    * - 
