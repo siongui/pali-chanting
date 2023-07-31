@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-30T20:28+07:00
+:modified: 2023-07-31T20:22+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2467,6 +2467,58 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
        confessed.
      - 69．若比丘明知如此主張的比丘，未隨法作，
        未捨棄該見而共受用、共住或同宿者，波逸提。
+
+   * - 70. Samaṇuddeso-pi ce evaṃ vadeyya, "Tathāhaṃ bhagavatā dhammaṃ desitaṃ
+       ājānāmi, yathā ye'me antarāyikā dhammā vuttā bhagavatā, te paṭisevato
+       nālaṃ antarāyāyā" ti. So samaṇuddeso bhikkhūhi evam'assa vacanīyo, "Mā
+       āvuso samaṇuddesa evaṃ avaca. Mā bhagavantaṃ abbhācikkhi. Na hi sādhu
+       bhagavato abbhakkhānaṃ. Na hi bhagavā evaṃ vadeyya. Aneka-pariyāyena
+       āvuso samaṇuddesa antarāyikā dhammā vuttā bhagavatā, alañ-ca pana te
+       paṭisevato antarāyāyā" ti.
+
+       Evañ-ca so samaṇuddeso bhikkhūhi vuccamāno tath'eva paggaṇheyya, so
+       samaṇuddeso bhikkhūhi evam'assa vacanīyo, "Ajjatagge te āvuso samaṇuddesa
+       na c'eva so bhagavā satthā apadisitabbo, yam-pi c'aññe samaṇuddesā
+       labhanti bhikkhūhi saddhiṃ dviratta-tirattaṃ saha-seyyaṃ, sā-pi te
+       n'atthi. Cara-pi re vinassā" ti.
+
+       Yo pana bhikkhu jānaṃ tathā-nāsitaṃ samaṇuddesaṃ upalāpeyya vā
+       upaṭṭhāpeyya vā sambhuñjeyya vā saha vā seyyaṃ kappeyya, pācittiyaṃ.
+     - 70. And if a novice should say, "As I understand the Dhamma taught by the
+       Blessed One, those acts the Blessed One says are obstructive, when
+       engaged in are not genuine obstructions," the bhikkhus are to admonish
+       him thus: "Do not say that, friend novice. Do not misrepresent the
+       Blessed One, for it is not good to misrepresent the Blessed One. The
+       Blessed One would not say anything like that. In many ways, friend, the
+       Blessed One has described obstructive acts, and when engaged in they are
+       genuine obstructions."
+
+       And should that novice, thus admonished by the bhikkhus, persist as
+       before, the bhikkhus are to admonish him thus: "From this day forth,
+       friend novice, you are not to claim the Blessed One as your teacher, nor
+       are you even to have the opportunity the other novices get-that of
+       sharing dwellings two or three nights with the bhikkhus. Away with you!
+       Get lost!"
+
+       Should any bhikkhu knowingly befriend, receive services from, commune
+       with, or lie down in the same dwelling with a novice thus expelled, it is
+       to be confessed.
+     - 70．假如沙彌也如此說:“我如實知道世尊所說之法，
+       如果從事世尊所說的那些障礙法，並不足以構成障礙。 ”
+       比丘們應如此勸告那個沙彌:“賢友沙彌，請不要如此說，不要誹謗世尊，
+       誹謗世尊確實不好，世尊不可能如此說。賢友沙彌，
+       世尊以各種方便說諸障礙法為障礙，以及從事那些足以構成障礙。 ”
+
+       當比丘們在如此勸告那個沙彌時，他仍然堅持，比丘們應對那個沙彌如此說:
+       “賢友沙彌，從今以後你不能聲稱世尊為導師，
+       其他的沙彌可以與比丘們一起同宿兩、三夜，而你不行。
+       喂！走開，消失吧！ ”
+
+       若比丘明知如此被驅擯的沙彌，還撫慰、令服侍、共受用或同宿者，波逸提。
+
+   * - Sappāṇa-vaggo sattamo.
+     - (Here ends) the seventh chapter, on animals.
+     - 第七 有生物品
 
 ..
    * - 
