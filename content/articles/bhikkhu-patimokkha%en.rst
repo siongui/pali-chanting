@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-31T20:22+07:00
+:modified: 2023-07-31T20:55+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2519,6 +2519,40 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
    * - Sappāṇa-vaggo sattamo.
      - (Here ends) the seventh chapter, on animals.
      - 第七 有生物品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=3126" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 71. Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya, "Na
+       tāvāhaṃ āvuso etasmiṃ sikkhāpade sikkhissāmi, yāva n'aññaṃ bhikkhuṃ
+       byattaṃ vinaya-dharaṃ paripucchāmī" ti, pācittiyaṃ. Sikkhamānena
+       bhikkhave bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ. Ayaṃ
+       tattha sāmīci.
+     - 71. Should any bhikkhu, admonished by the bhikkhus in accordance with a
+       rule, say, "Friends, I will not train myself under this training rule
+       until I have put questions about it to another bhikkhu, competent and
+       learned in the discipline," it is to be confessed. Bhikkhus, a bhikkhu in
+       training should understand, should ask, should ponder. This is the proper
+       course here.
+     - 71．若比丘在被比丘們如法勸告時如此說：
+       “賢友們，在我尚未詢問其他賢明的持律比丘前，我將不學此學處。 ”
+       波逸提。諸比丘，正在學習的比丘應當了知、詢問、遍問，這於此是如法的。
 
 ..
    * - 
