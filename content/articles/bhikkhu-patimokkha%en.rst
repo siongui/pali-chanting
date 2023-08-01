@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-07-31T20:55+07:00
+:modified: 2023-08-01T20:48+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2553,6 +2553,50 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
      - 71．若比丘在被比丘們如法勸告時如此說：
        “賢友們，在我尚未詢問其他賢明的持律比丘前，我將不學此學處。 ”
        波逸提。諸比丘，正在學習的比丘應當了知、詢問、遍問，這於此是如法的。
+
+   * - 72. Yo pana bhikkhu pāṭimokkhe uddissamāne evaṃ vadeyya, "Kim-pan'imehi
+       khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvad'eva kukkuccāya vihesāya
+       vilekhāya saṃvattantī" ti. Sikkhāpada-vivaṇṇanake, pācittiyaṃ.
+     - 72. Should any bhikkhu, when the Pāṭimokkha is being recited, say, "Why
+       are these lesser and minor training rules recited when they lead only to
+       anxiety, bother, and confusion?" the criticism of the training rules is
+       to be confessed.
+     - 72．若比丘在誦波羅提木叉時如此說：“為什麼要誦這些微細又微細學處呢，
+       那只會導致疑悔、惱害、混亂而已。”誹謗學處者，波逸提。
+
+   * - 73. Yo pana bhikkhu anvaḍḍha-māsaṃ pāṭimokkhe uddissamāne evaṃ vadeyya,
+       "Idān'eva kho ahaṃ ājānāmi, 'Ayam-pi kira dhammo sutt'āgato
+       sutta-pariyāpanno anvaḍḍha-māsaṃ uddesaṃ āgacchatī'" ti. Tañ-ce bhikkhuṃ
+       aññe bhikkhū jāneyyuṃ, "Nisinna-pubbaṃ iminā bhikkhunā dvittikkhattuṃ
+       pāṭimokkhe uddissamāne, ko pana vādo bhiyyo" ti, na ca tassa bhikkhuno
+       aññāṇakena mutti atthi. Yañ-ca tattha āpattiṃ āpanno, tañ-ca yathā-dhammo
+       kāretabbo, uttariñ-c'assa moho āropetabbo, "Tassa te āvuso alābhā, tassa
+       te dulladdhaṃ, yaṃ tvaṃ pāṭimokkhe uddissamāne na sādhukaṃ aṭṭhikatvā
+       manasikarosī" ti. Idaṃ tasmiṃ mohanake, pācittiyaṃ.
+     - 73. Should any bhikkhu, when the Pāṭimokkha is being recited every
+       half-month, say, "Just now have I learned that this case, too, is handed
+       down in the Pāṭimokkha, is included in the Pāṭimokkha, and comes up for
+       recitation every half-month"; and if the bhikkhus should know, "That
+       bhikkhu has already sat through two or three recitations of the
+       Pāṭimokkha, if not more," the bhikkhu is not exempted for being ignorant.
+       Whatever the offense he has committed, he is to be dealt with in
+       accordance with the rule; and in addition, his deceit is to be exposed:
+       "It is no gain for you, friend, it is ill-done, that when the Pāṭimokkha
+       is being recited, you do not pay proper attention and take it to heart."
+       As for the deception, it is to be confessed.
+     - 73．若比丘在每半月誦波羅提木叉時如此說：“現在我才知道此法確實收錄在經中，
+       係屬於經，在每半月誦出來。 ”假如其他比丘知道該比丘：
+       “這位比丘在之前誦波羅提木叉時曾坐過兩、三次，何況更多！ ”
+       那位比丘無法以無知而逃脫，凡所犯之罪應當如法懲治，更應呵責其愚癡：
+       “賢友，這對你不利，這對你難以獲益，
+       你在誦波羅提木叉時不好好地專心、作意。 ”
+       這對他的愚癡，波逸提。
+
+   * - 74. Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya,
+       pācittiyaṃ.
+     - 74. Should any bhikkhu, angered and displeased, give a blow to (another)
+       bhikkhu, it is to be confessed.
+     - 74．若比丘忿怒、不悅而打比丘者，波逸提。
 
 ..
    * - 
