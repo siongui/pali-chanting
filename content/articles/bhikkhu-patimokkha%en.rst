@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-01T20:48+07:00
+:modified: 2023-08-02T20:31+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2597,6 +2597,44 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
      - 74. Should any bhikkhu, angered and displeased, give a blow to (another)
        bhikkhu, it is to be confessed.
      - 74．若比丘忿怒、不悅而打比丘者，波逸提。
+
+   * - 75. Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya,
+       pācittiyaṃ.
+     - 75. Should any bhikkhu, angered and displeased, raise the palm of his
+       hand against (another) bhikkhu, it is to be confessed.
+     - 75．若比丘忿怒、不悅向比丘舉起手掌作打勢者，波逸提。
+
+   * - 76. Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya,
+       pācittiyaṃ.
+     - 76. Should any bhikkhu charge a bhikkhu with an unfounded saṅghadisesa
+       (offense), it is to be confessed.
+     - 76．若比丘以無根據的僧殘（罪）毀謗比丘者，波逸提。
+
+   * - 77. Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya, "Iti'ssa
+       muhuttam-pi aphāsu bhavissatī" ti. Etad'eva paccayaṃ karitvā anaññaṃ,
+       pācittiyaṃ.
+     - 77. Should any bhikkhu intentionally provoke anxiety in (another)
+       bhikkhu, (thinking,) "This way, even for just a moment, he will have no
+       peace" -doing it for just that reason and no other-it is to be confessed.
+     - 77．若比丘故意致使比丘疑悔:“如此他將會短暫地不安樂。 ”
+       只以此因緣而作，而非其他者，波逸提。
+
+   * - 78. Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ
+       vivādāpannānaṃ upassutiṃ tiṭṭheyya, "Yaṃ ime bhaṇissanti taṃ sossāmī" ti.
+       Etad'eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+     - 78. Should any bhikkhu stand eavesdropping on bhikkhus when they are
+       arguing, quarreling, and disputing, (thinking,) "I will overhear what
+       they say" -doing it for just that reason and no other-it is to be
+       confessed.
+     - 78．若比丘與比丘們發生爭吵、不和、紛爭，站著偷聽:“讓我聽聽他們說些什麼。”
+       只以此因緣而作，而非其他者，波逸提。
+
+   * - 79. Yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā, pacchā
+       khiyyana-dhammaṃ āpajjeyya, pācittiyaṃ.
+     - 79. Should any bhikkhu, having given consent (by proxy) to a transaction
+       carried out in accordance with the rule, later complain (about the
+       transaction), it is to be confessed.
+     - 79．若比丘對如法的羯磨給與意欲，事後卻表示不滿者，波逸提。
 
 ..
    * - 
