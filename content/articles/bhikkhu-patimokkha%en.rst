@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-02T20:31+07:00
+:modified: 2023-08-03T21:14+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2635,6 +2635,33 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
        carried out in accordance with the rule, later complain (about the
        transaction), it is to be confessed.
      - 79．若比丘對如法的羯磨給與意欲，事後卻表示不滿者，波逸提。
+
+   * - 80. Yo pana bhikkhu saṅghe vinicchaya-kathāya vattamānāya, chandaṃ adatvā
+       uṭṭhāy'āsanā pakkameyya, pācittiyaṃ.
+     - 80. Should any bhikkhu, when deliberation is being carried on in the
+       Community, get up from his seat and leave without having given consent,
+       it is to be confessed.
+     - 80．若比丘在僧團進行決斷論事時，未與意欲而起座離去者，波逸提。
+
+   * - 81. Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā, pacchā
+       khiyyana-dhammaṃ āpajjeyya, "Yathā-santhutaṃ bhikkhū saṅghikaṃ lābhaṃ
+       pariṇāmentī" ti, pācittiyaṃ.
+     - 81. Should any bhikkhu, (acting as part of) a united Community, give
+       robe-cloth (to an individual bhikkhu) and later complain, "The bhikkhus
+       allocate the Community's gains according to friendship," it is to be
+       confessed.
+     - 81．若比丘在僧團和合地給與衣之後卻表示不滿
+       “比丘們隨相熟把僧團的所得回與”者，波逸提。
+
+   * - 82. Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa
+       pariṇāmeyya, pācittiyaṃ.
+     - 82. Should any bhikkhu knowingly divert to an individual gains that had
+       been allocated for a Community, it is to be confessed.
+     - 82．若比丘明知施向僧團的所得而回與個人者，波逸提。
+
+   * - Sahadhammika-vaggo aṭṭhamo.
+     - (Here ends) the eighth chapter, on what is in accordance with the rule.
+     - 第八 如法品
 
 ..
    * - 
