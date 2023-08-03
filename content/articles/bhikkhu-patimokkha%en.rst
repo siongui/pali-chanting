@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-03T21:14+07:00
+:modified: 2023-08-03T21:31+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2662,6 +2662,35 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
    * - Sahadhammika-vaggo aṭṭhamo.
      - (Here ends) the eighth chapter, on what is in accordance with the rule.
      - 第八 如法品
+
+
+Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
++++++++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=3319" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - 83. Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhanta-rājake
+       aniggata-ratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkāmeyya,
+       pācittiyaṃ.
+     - 83. Should any bhikkhu, unannounced beforehand, cross the threshold of a
+       consecrated noble king's (sleeping chamber) from which the king has not
+       left, from which the valuable (the queen) has not withdrawn, it is to be
+       confessed.
+     - 83．若比丘在灌頂的剎帝利王未離開[寢宮]，寶未出來時，
+       事先未告知而越過帝柱者，波逸提。
 
 ..
    * - 
