@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-03T21:31+07:00
+:modified: 2023-08-04T21:20+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2691,6 +2691,45 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
        confessed.
      - 83．若比丘在灌頂的剎帝利王未離開[寢宮]，寶未出來時，
        事先未告知而越過帝柱者，波逸提。
+
+   * - 84. Yo pana bhikkhu ratanaṃ vā ratana-sammataṃ vā aññatra ajjhārāmā vā
+       ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā
+       pana bhikkhunā ratana-sammataṃ vā, ajjhārāme vā ajjhāvasathe vā uggahetvā
+       vā uggaṇhāpetvā vā nikkhipitabbaṃ, "Yassa bhavissati so harissatī" ti.
+       Ayaṃ tattha sāmīci.
+     - 84. Should any bhikkhu pick up or have (someone) pick up a valuable or
+       what is considered a valuable-except in a monastery or in a dwelling-it
+       is to be confessed. But when a bhikkhu has picked up or had (someone)
+       pick up a valuable or what is considered a valuable (left) in a monastery
+       or in a dwelling, he is to keep it, (thinking,) "Whoever it belongs to
+       will (come and) fetch it." This is the proper course here.
+     - 84．除了在[僧]園或房間內，若比丘捉持或令捉持寶物或視同寶類者，波逸提。
+       若比丘在[僧]園或房間內捉持或令捉持寶物或視同寶類後應收藏：
+       “其所有主將拿回。”這於此是如法的。
+
+   * - 85. Yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā vikāle gāmaṃ paviseyya,
+       aññatra tathā-rūpā accāyikā karaṇīyā, pācittiyaṃ.
+     - 85. Should any bhikkhu, without taking leave of an available bhikkhu,
+       enter a village at the wrong time-unless there is a suitable emergency-it
+       is to be confessed.
+     - 85．若比丘[在寺內]有比丘而未囑咐，在非時入村者，除了適當的緊急事情外，
+       波逸提。
+
+   * - 86. Yo pana bhikkhu aṭṭhi-mayaṃ vā danta-mayaṃ vā visāṇa-mayaṃ vā
+       sūci-gharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.
+     - 86. Should any bhikkhu have a needle box made of bone, ivory, or horn, it
+       is to be broken and confessed.
+     - 86．若比丘做骨製、牙製或角製的針筒者，應打碎的波逸提。
+
+   * - 87. Navam-pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena,
+       aṭṭh'aṅgula-pādakaṃ kāretabbaṃ sugat'aṅgulena, aññatra heṭṭhimāya
+       aṭaniyā. Taṃ atikkāmayato, chedanakaṃ pācittiyaṃ.
+     - 87. When a bhikkhu is having a new bed or bench made, it is to have legs
+       (at most) eight fingerbreadths long-using sugata fingerbreadths-not
+       counting the lower edge of the frame. In excess of that, it is to be cut
+       down and confessed.
+     - 87．比丘在做新床或椅時，腳應按善至指寬的八指寬而做，除了底部的木框外。
+       超過此者，應鋸斷的波逸提。
 
 ..
    * - 
