@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-04T21:20+07:00
+:modified: 2023-08-05T20:47+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2730,6 +2730,32 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
        down and confessed.
      - 87．比丘在做新床或椅時，腳應按善至指寬的八指寬而做，除了底部的木框外。
        超過此者，應鋸斷的波逸提。
+
+   * - 88. Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya,
+       uddālanakaṃ pācittiyaṃ.
+     - 88. Should any bhikkhu have a bed or bench upholstered, it (the
+       upholstery) is to be torn off and confessed.
+     - 88．若比丘做裝入棉花的床或椅者，應取出的波逸提。
+
+   * - 89. Nisīdanam-pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ. Tatr'idaṃ
+       pamāṇaṃ: dīghaso dve vidatthiyo sugata-vidatthiyā, tiriyaṃ diyaḍḍhaṃ,
+       dasā vidatthi. Taṃ atikkāmayato, chedanakaṃ pācittiyaṃ.
+     - 89. When a bhikkhu is having a sitting cloth made, it is to be made to
+       the standard measurement. Here the standard is this: two spans-using the
+       sugata span-in length, one and a half in width, the border a span. In
+       excess of that, it is to be cut down and confessed.
+     - 89．比丘在做坐具時，當適量而做。這裡的量是：
+       長為善至張手的兩張手，寬一張半，緣一張手。超過此者，應裁掉的波逸提。
+
+   * - 90. Kaṇḍu-paṭicchādiṃ pana bhikkhunā kārayamānena pamāṇika kāretabbā.
+       Tatr'idaṃ pamāṇaṃ: dīghaso catasso vidatthiyo sugata-vidatthiyā, tiriyaṃ
+       dve vidatthiyo. Taṃ atikkāmayato, chedanakaṃ pācittiyaṃ.
+     - 90. When a bhikkhu is having a skin-eruption covering cloth made, it is
+       to be made to the standard measurement. Here the standard is this: four
+       spans-using the sugata span-in length, two in width. In excess of that,
+       it is to be cut down and confessed.
+     - 90．比丘在做覆瘡衣時，當適量而做。這裡的量是：
+       長為善至張手的四張手，寬兩張手。超過此者，應裁掉的波逸提。
 
 ..
    * - 
