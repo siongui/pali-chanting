@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-05T20:47+07:00
+:modified: 2023-08-06T20:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2756,6 +2756,32 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
        it is to be cut down and confessed.
      - 90．比丘在做覆瘡衣時，當適量而做。這裡的量是：
        長為善至張手的四張手，寬兩張手。超過此者，應裁掉的波逸提。
+
+   * - 91. Vassika-sāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā.
+       Tatr'idaṃ pamāṇaṃ: dīghaso cha vidatthiyo sugata-vidatthiyā tiriyaṃ
+       aḍḍha-teyyā. Taṃ atikkāmayato, chedanakaṃ pācittiyaṃ.
+     - 91. When a bhikkhu is having a rains-bathing cloth made, it is to be made
+       to the standard measurement. Here the standard is this: six spans-using
+       the sugata span-in length, two and a half in width. In excess of that, it
+       is to be cut down and confessed.
+     - 91．比丘在做雨浴衣時，當適量而做。
+       這裡的量是：長為善至張手的六張手，寬兩張半。超過此者，應裁掉的波逸提。
+
+   * - 92. Yo pana bhikkhu sugata-cīvarappamāṇaṃ cīvaraṃ kārāpeyya atirekaṃ vā,
+       chedanakaṃ pācittiyaṃ. Tatr'idaṃ sugatassa sugata-cīvarappamāṇaṃ: dīghaso
+       nava vidatthiyo sugata-vidatthiyā, tiriyaṃ cha vidatthiyo. Idaṃ sugatassa
+       sugata-cīvarappamāṇaṃ.
+     - 92. Should any bhikkhu have a robe made the measurement of the sugata
+       robe or larger, it is to be cut down and confessed. Here, the measurement
+       of the Sugata's sugata robe is this: nine spans-using the sugata span-in
+       length, six spans in width. This is the measurement of the Sugata's
+       sugata robe.
+     - 92．若比丘做善至衣量之衣或超過者，應裁掉的波逸提。這裡善至的善至衣量是：
+       長為善至張手的九張手，寬六張手，這是善至的善至衣量。
+
+   * - Ratana-vaggo navamo.
+     - (Here ends) the ninth chapter, on valuables.
+     - 第九 寶品
 
 ..
    * - 
