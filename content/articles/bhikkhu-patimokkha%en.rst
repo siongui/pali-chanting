@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-08T20:13+07:00
+:modified: 2023-08-08T20:26+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2823,6 +2823,30 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
    * - *(Pācittiyā niṭṭhitā)*
      - *(The Confessions are finished)*
      - *（ 波逸提已結束 ）*
+
+
+Bhikkhu Pāṭimokkha - Pāṭidesanīyā
++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=3515" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pāṭidesanīyā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **cattāro pāṭidesanīyā dhammā** uddesaṃ āgacchanti.
+     - Venerable sirs, these **four actions entailing acknowledgement** come up
+       for recitation.
+     - 具壽們，誦出此 **四應悔過法** 來。
 
 ..
    * - 
