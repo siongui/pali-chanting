@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-06T20:53+07:00
+:modified: 2023-08-08T20:13+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2782,6 +2782,47 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
    * - Ratana-vaggo navamo.
      - (Here ends) the ninth chapter, on valuables.
      - 第九 寶品
+
+.. list-table:: Bhikkhu Pāṭimokkha - Pācittiyā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Uddiṭṭhā kho āyasmanto dve-navuti pācittiyā dhammā.
+     - Venerable sirs, the ninety-two actions entailing confession have been
+       recited.
+     - 具壽們，已經誦出九十二波逸提法。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *(Pācittiyā niṭṭhitā)*
+     - *(The Confessions are finished)*
+     - *（ 波逸提已結束 ）*
 
 ..
    * - 
