@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-08T20:26+07:00
+:modified: 2023-08-09T21:09+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2847,6 +2847,39 @@ Bhikkhu Pāṭimokkha - Pāṭidesanīyā
      - Venerable sirs, these **four actions entailing acknowledgement** come up
        for recitation.
      - 具壽們，誦出此 **四應悔過法** 來。
+
+   * - 1. Yo pana bhikkhu aññātikāya bhikkhuniyā antara-gharaṃ paviṭṭhāya
+       hatthato, khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā
+       bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā, "Gārayhaṃ āvuso dhammaṃ
+       āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī" ti.
+     - 1. Should any bhikkhu chew or consume staple or non-staple food, having
+       received it with his own hand from the hand of an unrelated bhikkhuni in
+       an inhabited area, he is to acknowledge it: "Friends, I have committed a
+       blameworthy, unsuitable act that ought to be acknowledged. I acknowledge
+       it."
+     - 1．若比丘親手從已進入俗家中的非親戚比丘尼手中接受嚼食或噉食而咀嚼或食用者，
+       那位比丘應當懺悔:“賢友，我犯了應受呵責之法，不適當，應悔過，我為此懺悔。”
+
+   * - 2. Bhikkhū pan'eva kulesu nimantitā bhuñjanti. Tatra ce bhikkhunī
+       vosāsamāna-rūpā ṭhitā hoti, "Idha sūpaṃ detha, idha odanaṃ dethā" ti.
+       Tehi bhikkhūhi sā bhikkhunī apasādetabbā, "Apasakka tāva bhagini, yāva
+       bhikkhū bhuñjantī" ti. Ekassa'pi ce bhikkhuno nappaṭibhāseyya taṃ
+       bhikkhuniṃ apasādetuṃ, "Apasakka tāva bhagini, yāva bhikkhū bhuñjantī"
+       ti, paṭidesetabbaṃ tehi bhikkhūhi, "Gārayhaṃ āvuso dhammaṃ āpajjimhā
+       asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā" ti.
+     - 2. In case bhikkhus, being invited, are eating in family residences, and
+       if a bhikkhuni is standing there as though giving directions, (saying,)
+       "Give curry here, give rice here," then the bhikkhus are to dismiss her:
+       "Go away, sister, while the bhikkhus are eating." If not one of the
+       bhikkhus should speak to dismiss her, "Go away, sister, while the
+       bhikkhus are eating," the bhikkhus are to acknowledge it: "Friends, we
+       have committed a blameworthy, unsuitable act that ought to be
+       acknowledged. We acknowledge it."
+     - 2．若比丘們受邀請在俗家中進食，假如那裡有比丘尼站著指示:
+       “這裡給羹，這裡給飯。”那些比丘應當斥責該比丘尼:
+       “賢妹，在比丘們用餐時請走開！ ”假如甚至沒有一位比丘響應而斥責該比丘尼:
+       “賢妹，在比丘們用餐時請走開！”那些比丘應當懺悔:
+       “賢友，我們犯了應受呵責之法，不適當，應悔過，我們為此懺悔。”
 
 ..
    * - 
