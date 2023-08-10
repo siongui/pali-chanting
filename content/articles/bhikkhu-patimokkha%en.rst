@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-09T21:09+07:00
+:modified: 2023-08-10T21:38+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2880,6 +2880,37 @@ Bhikkhu Pāṭimokkha - Pāṭidesanīyā
        “賢妹，在比丘們用餐時請走開！ ”假如甚至沒有一位比丘響應而斥責該比丘尼:
        “賢妹，在比丘們用餐時請走開！”那些比丘應當懺悔:
        “賢友，我們犯了應受呵責之法，不適當，應悔過，我們為此懺悔。”
+
+   * - 3. Yāni kho pana tāni sekkha-sammatāni kulāni. Yo pana bhikkhu
+       tathā-rūpesu sekkha-sammatesu kulesu pubbe animantito agilāno khādanīyaṃ
+       vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā,
+       paṭidesetabbaṃ tena bhikkhunā, "Gārayhaṃ āvuso dhammaṃ āpajjiṃ asappāyaṃ
+       pāṭidesanīyaṃ, taṃ paṭidesemī" ti.
+     - 3. There are families designated as in training. Should any bhikkhu, not
+       being ill, uninvited beforehand, chew or consume staple or non-staple
+       food, having received it himself at the residences of families designated
+       as in training, he is to acknowledge it: "Friends, I have committed a
+       blameworthy, unsuitable act that ought to be acknowledged. I acknowledge
+       it."
+     - 3．凡是有諸“認定學家”者，若比丘無病且先前未受邀請，
+       在如此諸“認定學家”中親手接受嚼食或噉食而咀嚼或食用者，那位比丘應當懺悔:
+       “賢友，我犯了應受呵責之法，不適當，應悔過，我為此懺悔。 ”
+
+   * - 4. Yāni kho pana tāni āraññakāni senāsanāni sāsaṅka-sammatāni
+       sappaṭibhayāni. Yo pana bhikkhu tathā-rūpesu senāsanesu viharanto, pubbe
+       appaṭisaṃviditaṃ khādanīyaṃ vā bhojanīyaṃ vā ajjhārāme sahatthā
+       paṭiggahetvā agilāno khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena
+       bhikkhunā, "Gārayhaṃ āvuso dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ
+       paṭidesemī" ti.
+     - 4. There are wilderness lodgings that are considered dubious and risky.
+       Should any bhikkhu, not being ill, living in such lodgings, chew or
+       consume (a gift of) staple or non-staple food that was unannounced
+       beforehand, having received it with his own hand in the lodging, he is to
+       acknowledge it: "Friends, I have committed a blameworthy, unsuitable act
+       that ought to be acknowledged. I acknowledge it."
+     - 4．凡是於公認有危險、有恐怖的諸林野坐臥處，若比丘無病而住在如此的坐臥處，
+       事先未告知而在[僧]園中接受嚼食或噉食而咀嚼或食用者，那位比丘應當懺悔:
+       “賢友，我犯了應受呵責之法，不適當，應悔過，我為此懺悔。
 
 ..
    * - 
