@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-11T19:46+07:00
+:modified: 2023-08-11T19:58+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2943,6 +2943,29 @@ Bhikkhu Pāṭimokkha - Pāṭidesanīyā
    * - *(Pāṭidesanīyā niṭṭhitā)*
      - *(The Acknowledgements are finished)*
      - *（ 應悔過已結束 ）*
+
+
+Bhikkhu Pāṭimokkha - Sekhiyā
+++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=3677" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Sekhiyā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **sekhiyā dhammā** uddesaṃ āgacchanti.
+     - Venerable sirs, these **actions to be trained in** come up for recitation.
+     - 具壽們，誦出此 **應學法** 來。
 
 ..
    * - 
