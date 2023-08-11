@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-10T21:38+07:00
+:modified: 2023-08-11T19:46+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2911,6 +2911,38 @@ Bhikkhu Pāṭimokkha - Pāṭidesanīyā
      - 4．凡是於公認有危險、有恐怖的諸林野坐臥處，若比丘無病而住在如此的坐臥處，
        事先未告知而在[僧]園中接受嚼食或噉食而咀嚼或食用者，那位比丘應當懺悔:
        “賢友，我犯了應受呵責之法，不適當，應悔過，我為此懺悔。
+
+   * - Uddiṭṭhā kho āyasmanto cattāro pāṭidesanīyā dhammā.
+     - Venerable sirs, the four actions entailing acknowledgement have been
+       recited.
+     - 具壽們，已經誦出四應悔過法。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *(Pāṭidesanīyā niṭṭhitā)*
+     - *(The Acknowledgements are finished)*
+     - *（ 應悔過已結束 ）*
 
 ..
    * - 
