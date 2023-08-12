@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-11T19:58+07:00
+:modified: 2023-08-12T21:04+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -2966,6 +2966,44 @@ Bhikkhu Pāṭimokkha - Sekhiyā
    * - Ime kho pan'āyasmanto **sekhiyā dhammā** uddesaṃ āgacchanti.
      - Venerable sirs, these **actions to be trained in** come up for recitation.
      - 具壽們，誦出此 **應學法** 來。
+
+   * - 1. "Parimaṇḍalaṃ nivāsessāmī" ti sikkhā karaṇīyā.
+     - 1. I will wear the lower robe wrapped around (me): a training to be
+       observed.
+     - 1．“我將齊整地著下衣。” 應當學。
+
+   * - 2. "Parimaṇḍalaṃ pārupissāmī" ti sikkhā karaṇīyā.
+     - 2. I will wear the upper robe wrapped around (me): a training to be
+       observed.
+     - 2．“我將齊整地披衣。” 應當學。
+
+   * - 3. "Supaṭicchanno antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 3. I will go well-covered in inhabited areas: a training to be observed.
+     - 3．“我將善披覆而行於俗家間。” 應當學。
+
+   * - 4. "Supaṭicchanno antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 4. I will sit well-covered in inhabited areas: a training to be observed.
+     - 4．“我將善披覆而坐於俗家間。” 應當學。
+
+   * - 5. "Susaṃvuto antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 5. I will go well-restrained in inhabited areas: a training to be
+       observed.
+     - 5．“我將善攝護而行於俗家間。” 應當學。
+
+   * - 6. "Susaṃvuto antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 6. I will sit well-restrained in inhabited areas: a training to be
+       observed.
+     - 6．“我將善攝護而坐於俗家間。” 應當學。
+
+   * - 7. "Okkhitta-cakkhu antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 7. I will go with eyes lowered in inhabited areas: a training to be
+       observed.
+     - 7．“我將眼垂視而行於俗家間。” 應當學。
+
+   * - 8. "Okkhitta-cakkhu antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 8. I will sit with eyes lowered in inhabited areas: a training to be
+       observed.
+     - 8．“我將眼垂視而坐於俗家間。” 應當學。
 
 ..
    * - 
