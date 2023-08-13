@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-12T21:04+07:00
+:modified: 2023-08-13T20:58+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3004,6 +3004,46 @@ Bhikkhu Pāṭimokkha - Sekhiyā
      - 8. I will sit with eyes lowered in inhabited areas: a training to be
        observed.
      - 8．“我將眼垂視而坐於俗家間。” 應當學。
+
+   * - 9. "Na ukkhittakāya antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 9. I will not go with robes hitched up in inhabited areas: a training to
+       be observed.
+     - 9．“我將不拉高衣而行於俗家間。” 應當學。
+
+   * - 10. "Na ukkhittakāya antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 10. I will not sit with robes hitched up in inhabited areas: a training
+       to be observed.
+     - 10．“我將不拉高衣而坐於俗家間。” 應當學。
+
+   * - 11. "Na ujjagghikāya antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 11. I will not go laughing loudly in inhabited areas: a training to be
+       observed.
+     - 11．“我將不高聲嬉笑而行於俗家間。” 應當學。
+
+   * - 12. "Na ujjagghikāya antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 12. I will not sit laughing loudly in inhabited areas: a training to be
+       observed.
+     - 12．“我將不高聲嬉笑而坐於俗家間。” 應當學。
+
+   * - 13. "Appasaddo antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 13. I will go (speaking) with a lowered voice in inhabited areas: a
+       training to be observed.
+     - 13．“我將低聲而行於俗家間。” 應當學。
+
+   * - 14. "Appasaddo antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 14. I will sit (speaking) with a lowered voice in inhabited areas: a
+       training to be observed.
+     - 14．“我將低聲而坐於俗家間。” 應當學。
+
+   * - 15. "Na kāyappacālakaṃ antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 15. I will not go swinging my body in inhabited areas: a training to be
+       observed.
+     - 15．“我將不搖身而行於俗家間。” 應當學。
+
+   * - 16. "Na kāyappacālakaṃ antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 16. I will not sit swinging my body in inhabited areas: a training to be
+       observed.
+     - 16．“我將不搖身而坐於俗家間。” 應當學。
 
 ..
    * - 
