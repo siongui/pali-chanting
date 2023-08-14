@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-13T20:58+07:00
+:modified: 2023-08-14T20:58+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3044,6 +3044,26 @@ Bhikkhu Pāṭimokkha - Sekhiyā
      - 16. I will not sit swinging my body in inhabited areas: a training to be
        observed.
      - 16．“我將不搖身而坐於俗家間。” 應當學。
+
+   * - 17. "Na bāhuppacālakaṃ antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 17. I will not go swinging my arms in inhabited areas: a training to be
+       observed.
+     - 17．“我將不搖臂而行於俗家間。” 應當學。
+
+   * - 18. "Na bāhuppacālakaṃ antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 18. I will not sit swinging my arms in inhabited areas: a training to be
+       observed.
+     - 18．“我將不搖臂而坐於俗家間。” 應當學。
+
+   * - 19. "Na sīsappacālakaṃ antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 19. I will not go swinging my head in inhabited areas: a training to be
+       observed.
+     - 19．“我將不搖頭而行於俗家間。” 應當學。
+
+   * - 20. "Na sīsappacālakaṃ antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 20. I will not sit swinging my head in inhabited areas: a training to be
+       observed.
+     - 20．“我將不搖頭而坐於俗家間。” 應當學。
 
 ..
    * - 
