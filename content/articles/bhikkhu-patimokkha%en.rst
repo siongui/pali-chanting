@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-14T20:58+07:00
+:modified: 2023-08-16T20:18+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3064,6 +3064,40 @@ Bhikkhu Pāṭimokkha - Sekhiyā
      - 20. I will not sit swinging my head in inhabited areas: a training to be
        observed.
      - 20．“我將不搖頭而坐於俗家間。” 應當學。
+
+   * - 21. "Na khambhakato antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 21. I will not go with arms akimbo in inhabited areas: a training to be
+       observed.
+     - 21．“我將不叉腰而行於俗家間。” 應當學。
+
+   * - 22. "Na khambhakato antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 22. I will not sit with arms akimbo in inhabited areas: a training to be
+       observed.
+     - 22．“我將不叉腰而坐於俗家間。” 應當學。
+
+   * - 23. "Na oguṇṭhito antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 23. I will not go with my head covered in inhabited areas: a training to
+       be observed.
+     - 23．“我將不覆頭而行於俗家間。” 應當學。
+
+   * - 24. "Na oguṇṭhito antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 24. I will not sit with my head covered in inhabited areas: a training to
+       be observed.
+     - 24．“我將不覆頭而坐於俗家間。” 應當學。
+
+   * - 25. "Na ukkuṭikāya antara-ghare gamissāmī" ti sikkhā karaṇīyā.
+     - 25. I will not go tiptoeing or walking just on the heels in inhabited
+       areas: a training to be observed.
+     - 25．“我將不踮腳而行於俗家間。” 應當學。
+
+   * - 26. "Na pallatthikāya antara-ghare nisīdissāmī" ti sikkhā karaṇīyā.
+     - 26. I will not sit clasping the knees in inhabited areas: a training to
+       be observed.
+     - 26．“我將不抱膝而坐於俗家間。” 應當學。
+
+   * - Chabbīsati-sāruppā.
+     - (Here end) the twenty-six forms of proper behavior.
+     - 
 
 ..
    * - 
