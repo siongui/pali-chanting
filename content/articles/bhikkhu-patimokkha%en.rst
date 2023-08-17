@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-16T20:18+07:00
+:modified: 2023-08-17T22:19+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3098,6 +3098,34 @@ Bhikkhu Pāṭimokkha - Sekhiyā
    * - Chabbīsati-sāruppā.
      - (Here end) the twenty-six forms of proper behavior.
      - 
+
+   * - 27. "Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmī" ti sikkhā karaṇīyā.
+     - 27. I will receive almsfood appreciatively: a training to be observed.
+     - 27．“我將恭敬地接受缽食。” 應當學。
+
+   * - 28. "Patta-saññī piṇḍapātaṃ paṭiggahessāmī" ti sikkhā karaṇīyā.
+     - 28. I will receive almsfood with attention focused on the bowl: a
+       training to be observed.
+     - 28．“我將注意缽而接受缽食。” 應當學。
+
+   * - 29. "Samasūpakaṃ piṇḍapātaṃ paṭiggahessāmī" ti sikkhā karaṇīyā.
+     - 29. I will receive almsfood with bean curry in proper proportion: a
+       training to be observed.
+     - 29．“我將以等量之羹而接受缽食。” 應當學。
+
+   * - 30. "Samatittikaṃ piṇḍapātaṃ paṭiggahessāmī" ti sikkhā karaṇīyā.
+     - 30. I will receive almsfood level with the edge (of the bowl): a training
+       to be observed.
+     - 30．“我將平缽而接受缽食。” 應當學。
+
+   * - 31. "Sakkaccaṃ piṇḍapātaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 31. I will eat almsfood appreciatively: a training to be observed.
+     - 31．“我將恭敬地食用缽食。” 應當學。
+
+   * - 32. "Patta-saññī piṇḍapātaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 32. I will eat almsfood with attention focused on the bowl: a training to
+       be observed.
+     - 32．“我將注意缽而食用缽食。” 應當學。
 
 ..
    * - 
