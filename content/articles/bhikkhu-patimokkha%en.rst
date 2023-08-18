@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-17T22:19+07:00
+:modified: 2023-08-18T21:05+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3126,6 +3126,45 @@ Bhikkhu Pāṭimokkha - Sekhiyā
      - 32. I will eat almsfood with attention focused on the bowl: a training to
        be observed.
      - 32．“我將注意缽而食用缽食。” 應當學。
+
+   * - 33. "Sapadānaṃ piṇḍapātaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 33. I will eat almsfood methodically: a training to be observed.
+     - 33．“我將次第地食用缽食。” 應當學。
+
+   * - 34. "Samasūpakaṃ piṇḍapātaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 34. I will eat almsfood with bean curry in proper proportion: a training
+       to be observed.
+     - 34．“我將以等量之羹而食用缽食。” 應當學。
+
+   * - 35. "Na thūpato omadditvā piṇḍapātaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 35. I will not eat almsfood taking mouthfuls from a heap: a training to
+       be observed.
+     - 35．“我將不從頂部捏取而食用缽食。” 應當學。
+
+   * - 36. "Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyo-kamyataṃ
+       upādāyā" ti sikkhā karaṇīyā.
+     - 36. I will not hide bean curry and foods with rice out of a desire to get
+       more: a training to be ob served .
+     - 36．“我將不以飯覆蓋羹或菜而想要取得更多。” 應當學。
+
+   * - 37. "Na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā bhuñjissāmī"
+       ti sikkhā karaṇīyā.
+     - 37. Not being ill, I will not eat rice or bean curry that I have
+       requested for my own sake: a training to be observed.
+     - 37．“無病我將不為自己乞求羹或飯而食用。” 應當學。
+
+   * - 38. "Na ujjhāna-saññī paresaṃ pattaṃ olokessāmī" ti sikkhā karaṇīyā.
+     - 38. I will not look at another's bowl intent on finding fault: a training
+       to be observed.
+     - 38．“我將不心存不滿而觀看他人之缽。” 應當學。
+
+   * - 39. "Nātimahantaṃ kavaḷaṃ karissāmī" ti sikkhā karaṇīyā.
+     - 39. I will not take an extra-large mouthful: a training to be observed.
+     - 39．“我將不做過大的飯糰。” 應當學。
+
+   * - 40. "Parimaṇḍalaṃ ālopaṃ karissāmī" ti sikkhā karaṇīyā.
+     - 40. I will make a rounded mouthful: a training to be observed .
+     - 40．“我將做圓的團食。” 應當學。
 
 ..
    * - 
