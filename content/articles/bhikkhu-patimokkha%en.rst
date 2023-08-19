@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-18T21:05+07:00
+:modified: 2023-08-19T20:16+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3165,6 +3165,69 @@ Bhikkhu Pāṭimokkha - Sekhiyā
    * - 40. "Parimaṇḍalaṃ ālopaṃ karissāmī" ti sikkhā karaṇīyā.
      - 40. I will make a rounded mouthful: a training to be observed .
      - 40．“我將做圓的團食。” 應當學。
+
+   * - 41. "Na anāhaṭe kavaḷe mukha-dvāraṃ vivarissāmī" ti sikkhā karaṇīyā.
+     - 41. I will not open the mouth when the mouthful has yet to be brought to
+       it: a training to be observed.
+     - 41．“在飯糰未持到時我將不張口。” 應當學。
+
+   * - 42. "Na bhuñjamāno sabbaṃ hatthaṃ mukhe pakkhipissāmī" ti sikkhā
+       karaṇīyā.
+     - 42. I will not insert the whole hand into the mouth while eating: a
+       training to be observed.
+     - 42．“在用餐時我將不把手全部塞入口中。” 應當學。
+
+   * - 43. "Na sakavaḷena mukhena byāharissāmī" ti sikkhā karaṇīyā.
+     - 43. I will not speak with the mouth full of food: a training to be
+       observed.
+     - 43．“我將不口含飯糰而說話。” 應當學。
+
+   * - 44. "Na piṇḍukkhepakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 44. I will not eat from lifted balls of food: a training to be observed.
+     - 44．“我將不投擲團食而食。” 應當學。
+
+   * - 45. "Na kavaḷāvacchedakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 45. I will not eat nibbling at mouthfuls of food: a training to be
+       observed.
+     - 45．“我將不咬斷飯糰而食。” 應當學。
+
+   * - 46. "Na avagaṇḍa-kārakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 46. I will not eat stuffing out the cheeks: a training to be observed.
+     - 46．“我將不塞滿口而食。” 應當學。
+
+   * - 47. "Na hattha-niddhūnakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 47. I will not eat shaking (food off) the hand: a training to be
+       observed.
+     - 47．“我將不甩手而食。” 應當學。
+
+   * - 48. "Na sitthāva-kārakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 48. I will not eat scattering lumps of rice about: a training to be
+       observed.
+     - 48．“我將不散落飯粒而食。” 應當學。
+
+   * - 49. "Na jivhā-nicchārakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 49. I will not eat sticking out the tongue: a training to be observed.
+     - 49．“我將不伸舌而食。” 應當學。
+
+   * - 50. "Na capu-capu-kārakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 50. I will not eat smacking the lips: a training to be observed.
+     - 50．“我將不作喳噗喳噗聲而食。” 應當學。
+
+   * - 51. "Na suru-suru-kārakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 51. I will not eat making a slurping noise: a training to be observed.
+     - 51．“我將不作囌嚕囌嚕聲而食。” 應當學。
+
+   * - 52. "Na hattha-nillehakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 52. I will not eat licking the hands: a training to be observed.
+     - 52．“我將不舔手而食。” 應當學。
+
+   * - 53. "Na patta-nillehakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 53. I will not eat licking the bowl: a training to be observed.
+     - 53．“我將不舔缽而食。” 應當學。
+
+   * - 54. "Na oṭṭha-nillehakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
+     - 54. I will not eat licking the lips: a training to be observed.
+     - 54．“我將不舔唇而食。” 應當學。
 
 ..
    * - 
