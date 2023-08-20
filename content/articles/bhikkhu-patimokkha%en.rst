@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-19T20:16+07:00
+:modified: 2023-08-20T19:08+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3228,6 +3228,22 @@ Bhikkhu Pāṭimokkha - Sekhiyā
    * - 54. "Na oṭṭha-nillehakaṃ bhuñjissāmī" ti sikkhā karaṇīyā.
      - 54. I will not eat licking the lips: a training to be observed.
      - 54．“我將不舔唇而食。” 應當學。
+
+   * - 55. "Na sāmisena hatthena pānīya-thālakaṃ paṭiggahessāmī" ti sikkhā
+       karaṇīyā.
+     - 55. I will not accept a water vessel with a hand soiled by food: a
+       training to be observed.
+     - 55．“我將不以沾有食物的手拿飲水器。” 應當學。
+
+   * - 56. "Na sasitthakaṃ patta-dhovanaṃ antara-ghare chaḍḍessāmī" ti sikkhā
+       karaṇīyā.
+     - 56. I will not, in an inhabited area, throw away bowl-rinsing water that
+       has grains of rice in it: a training to be observed.
+     - 56．“我將不把有飯粒的洗缽水倒於俗家間。” 應當學。
+
+   * - Samatiṃsa bhojana-paṭisaṃyuttā.
+     - (Here end) the thirty connected with food.
+     - 
 
 ..
    * - 
