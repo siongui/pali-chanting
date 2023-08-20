@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-20T19:08+07:00
+:modified: 2023-08-20T19:31+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3244,6 +3244,52 @@ Bhikkhu Pāṭimokkha - Sekhiyā
    * - Samatiṃsa bhojana-paṭisaṃyuttā.
      - (Here end) the thirty connected with food.
      - 
+
+   * - 57. "Na chatta-pāṇissa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 57. I will not teach Dhamma to a person with an umbrella in his hand who
+       is not ill: a training to be observed.
+     - 57．“我將不對無病而手持傘者說法。” 應當學。
+
+   * - 58. "Na daṇḍa-pāṇissa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 58. I will not teach Dhamma to a person with a staff in his hand who is
+       not ill: a training to be observed.
+     - 58．“我將不對無病而手持杖者說法。” 應當學。
+
+   * - 59. "Na sattha-pāṇissa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 59. I will not teach Dhamma to a person with a knife in his hand who is
+       not ill: a training to be observed.
+     - 59．“我將不對無病而手持刀者說法。” 應當學。
+
+   * - 60. "Na āvudha-pāṇissa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 60. I will not teach Dhamma to a person with a weapon in his hand who is
+       not ill: a training to be observed.
+     - 60．“我將不對無病而手持弓箭者說法。” 應當學。
+
+   * - 61. "Na pādukārūḷhassa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 61. I will not teach Dhamma to a person wearing non-leather footwear who
+       is not ill: a training to be observed.
+     - 61．“我將不對無病而穿拖鞋者說法。” 應當學。
+
+   * - 62. "Na upāhanārūḷhassa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 62. I will not teach Dhamma to a person wearing leather footwear who is
+       not ill: a training to be observed.
+     - 62．“我將不對無病而穿鞋者說法。” 應當學。
+
+   * - 63. "Na yāna-gatassa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 63. I will not teach Dhamma to a person in a vehicle who is not ill: a
+       training to be observed.
+     - 63．“我將不對無病而坐在車上者說法。” 應當學。
+
+   * - 64. "Na sayana-gatassa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
+     - 64. I will not teach Dhamma to a person lying down who is not ill: a
+       training to be observed.
+     - 64．“我將不對無病而躺臥者說法。” 應當學。
+
+   * - 65. "Na pallatthikāya nisinnassa agilānassa dhammaṃ desissāmī" ti sikkhā
+       karaṇīyā.
+     - 65. I will not teach Dhamma to a person who sits clasping his knees and
+       who is not ill: a training to be observed.
+     - 65．“我將不對無病而抱膝坐著者說法。” 應當學。
 
 ..
    * - 
