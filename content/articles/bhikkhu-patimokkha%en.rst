@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-20T19:31+07:00
+:modified: 2023-08-21T21:12+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3290,6 +3290,52 @@ Bhikkhu Pāṭimokkha - Sekhiyā
      - 65. I will not teach Dhamma to a person who sits clasping his knees and
        who is not ill: a training to be observed.
      - 65．“我將不對無病而抱膝坐著者說法。” 應當學。
+
+   * - 66. "Na veṭṭhita-sīsassa agilānassa dhammaṃ desissāmī" ti sikkhā
+       karaṇīyā.
+     - 66. I will not teach Dhamma to a person wearing headgear who is not ill:
+       a training to be observed.
+     - 66．“我將不對無病而纏頭者說法。” 應當學。
+
+   * - 67. "Na oguṇṭhita-sīsassa agilānassa dhammaṃ desissāmī" ti sikkhā
+       karaṇīyā.
+     - 67. I will not teach Dhamma to a person whose head is covered (with a
+       robe or scarf) and who is not ill: a training to be observed.
+     - 67．“我將不對無病而覆頭者說法。” 應當學。
+
+   * - 68. "Na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desissāmī"
+       ti sikkhā karaṇīyā.
+     - 68. Sitting on the ground, I will not teach Dhamma to a person sitting on
+       a seat who is not ill: a training to be observed.
+     - 68．“我將不坐在地上對無病而坐在座位者說法。” 應當學。
+
+   * - 69. "Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ
+       desissāmī" ti sikkhā karaṇīyā.
+     - 69. Sitting on a low seat, I will not teach Dhamma to a person sitting on
+       a high seat who is not ill: a training to be observed.
+     - 69．“我將不坐在低座對無病而坐在高座者說法。” 應當學。
+
+   * - 70. "Na ṭhito nisinnassa agilānassa dhammaṃ desissāmī" ti sikkhā
+       karaṇīyā.
+     - 70. Standing, I will not teach Dhamma to a person sitting who is not ill:
+       a training to be observed.
+     - 70．“我將不站著對無病而坐著者說法。” 應當學。
+
+   * - 71. "Na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ
+       desissāmī" ti sikkhā karaṇīyā.
+     - 71. Walking behind, I will not teach Dhamma to a person walking ahead who
+       is not ill: a training to be observed.
+     - 71．“我將不走在後面對無病而走在前面者說法。” 應當學。
+
+   * - 72. "Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ
+       desissāmī" ti sikkhā karaṇīyā.
+     - 72. Walking beside a path, I will not teach Dhamma to a person walking on
+       the path who is not ill: a training to be observed.
+     - 72．“我將不走在路旁對無病而走在路中者說法。” 應當學。
+
+   * - Soḷasa dhamma-desanā-paṭisaṃyuttā.
+     - (Here end) the sixteen connected with teaching Dhamma.
+     - 
 
 ..
    * - 
