@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-21T21:12+07:00
+:modified: 2023-08-22T21:13+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3335,6 +3335,28 @@ Bhikkhu Pāṭimokkha - Sekhiyā
 
    * - Soḷasa dhamma-desanā-paṭisaṃyuttā.
      - (Here end) the sixteen connected with teaching Dhamma.
+     - 
+
+   * - 73. "Na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmī" ti sikkhā
+       karaṇīyā.
+     - 73. Not being ill, I will not defecate or urinate while standing: a
+       training to be observed.
+     - 73．“無病我將不站著大便或小便。” 應當學。
+
+   * - 74. "Na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī" ti
+       sikkhā karaṇīyā.
+     - 74. Not being ill, I will not defecate, urinate, or spit on living crops:
+       a training to be observed.
+     - 74．“無病我將不在植物上大便、小便或吐唾液。” 應當學。
+
+   * - 75. "Na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī" ti
+       sikkhā karaṇīyā.
+     - 75. Not being ill, I will not defecate, urinate, or spit in water: a
+       training to be observed.
+     - 75．“無病我將不在水中大便、小便或吐唾液。” 應當學。
+
+   * - Tayo pakiṇṇakā.
+     - (Here end) the three miscellaneous matters.
      - 
 
 ..
