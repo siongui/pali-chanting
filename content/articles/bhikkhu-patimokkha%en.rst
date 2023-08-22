@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-22T21:23+07:00
+:modified: 2023-08-22T21:38+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3389,6 +3389,31 @@ Bhikkhu Pāṭimokkha - Sekhiyā
    * - *(Sekhiyā niṭṭhitā)*
      - *(The Trainings are finished)*
      - *（ 應學已結束 ）*
+
+
+Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
++++++++++++++++++++++++++++++++++++++++
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=4112" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Ime kho pan'āyasmanto **sattādhikaraṇa-samathā dhammā** uddesaṃ
+       āgacchanti.
+     - Venerable sirs, these **seven means for settling issues** come up for
+       recitation.
+     - 具壽們，誦出此 **七滅諍(止爭)法** 來。
 
 ..
    * - 
