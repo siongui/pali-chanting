@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-22T21:38+07:00
+:modified: 2023-08-23T20:07+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -1112,6 +1112,8 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
    * - *(Saṅghādises'uddeso niṭṭhito)*
      - *(The Initial and Subsequent Community Meetings Section is finished)*
      - *（ 僧殘誦完成 ）*
+
+.. TODO: In 13: chanda-gamino -> chanda-gāmino
 
 ..
    * - 
@@ -3394,6 +3396,8 @@ Bhikkhu Pāṭimokkha - Sekhiyā
 Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
 +++++++++++++++++++++++++++++++++++++++
 
+.. TODO: Uppannunānaṃ -> Uppannuppannānaṃ ?
+
 .. container:: align-center video-container
 
   .. raw:: html
@@ -3414,6 +3418,69 @@ Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
      - Venerable sirs, these **seven means for settling issues** come up for
        recitation.
      - 具壽們，誦出此 **七滅諍(止爭)法** 來。
+
+   * - Uppannunānaṃ adhikaraṇānaṃ samathāya vūpasamāya:
+     - For the settling and stilling of issues that have arisen:
+     - 為了止息、平息每次發生的諍(爭)事：
+
+   * - 1. Sammukhā-vinayo dātabbo,
+     - 1. A verdict "in the presence of" should be given.
+     - 1．應與現前調伏。
+
+   * - 2. Sati-vinayo dātabbo,
+     - 2. A verdict of mindfulness may be given .
+     - 2．應與憶念調伏。
+
+   * - 3. Amūḷha-vinayo dātabbo,
+     - 3. A verdict of past insanity may be given.
+     - 3．應與不癡調伏。
+
+   * - 4. Paṭiññāta-karaṇaṃ,
+     - 4. Acting in accordance with what is admitted.
+     - 4．應作自認。
+
+   * - 5. Yebhuyyasikā,
+     - 5. Acting in accordance with the majority.
+     - 5．依多數。
+
+   * - 6. Tassa-pāpiyasikā,
+     - 6. Acting for his (the accused's) further punishment.
+     - 6．[調查]他的罪惡。
+
+   * - 7. Tiṇa-vatthārako'ti.
+     - 7. Covering over as with grass.
+     - 7．以草覆蓋。
+
+   * - Uddiṭṭhā kho āyasmanto sattādhikaraṇa-samathā dhammā.
+     - Venerable sirs, the seven means for settling issues have been recited.
+     - 具壽們，已經誦出七滅諍(止爭)法。
+
+   * - | Tatth'āyasmante pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Dutiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Tatiyam-pi pucchāmi:
+       | Kacci'ttha parisuddhā?
+       | Parisuddh'etth'āyasmanto, tasmā tuṇhī, evam-etaṃ dhārayāmi.
+     - | Thus I ask the venerable ones:
+       | Are you pure in this?
+       | A second time I ask:
+       | Are you pure in this?
+       | A third time I ask:
+       | Are you pure in this?
+       | The venerable ones are pure in this, which is why they are silent. Thus
+         do I hold it.
+     - | 在此我問具壽們:
+       | “於此是否清淨？”
+       | 第二次我再問:
+       | “於此是否清淨？”
+       | 第三次我再問:
+       | “於此是否清淨？”
+       | 諸具壽於此是清淨的，因此沉默。此事我如是持。
+
+   * - *(Sattādhikaraṇa-samathā niṭṭhitā)*
+     - *(The Means for Settling Issues are finished)*
+     - *（ 七滅諍(止爭)已結束 ）*
 
 ..
    * - 
