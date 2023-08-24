@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-23T20:07+07:00
+:modified: 2023-08-24T19:45+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3481,6 +3481,75 @@ Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
    * - *(Sattādhikaraṇa-samathā niṭṭhitā)*
      - *(The Means for Settling Issues are finished)*
      - *（ 七滅諍(止爭)已結束 ）*
+
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hBoayS-a00c?start=4165" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Bhikkhu Pāṭimokkha
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+     - Chinese
+
+   * - Uddiṭṭhaṃ kho āyasmanto nidānaṃ.
+     - Venerable sirs, the introduction has been recited.
+     - 具壽們，已誦出序。
+
+   * - Uddiṭṭhā cattāro pārājikā dhammā.
+     - The four actions entailing defeat have been recited.
+     - 已誦出四波羅夷法。
+
+   * - Uddiṭṭhā terasa saṅghādisesā dhammā.
+     - The thirteen actions entailing initial and subsequent meetings of the
+       Community have been recited.
+     - 已誦出十三僧殘法。
+
+   * - Uddiṭṭhā dve aniyatā dhammā.
+     - The two uncertain actions have been recited.
+     - 已誦出二不定法。
+
+   * - Uddiṭṭhā tiṃsa nissaggiyā pācittiyā dhammā.
+     - The thirty actions entailing forfeiture and confession have been recited.
+     - 已誦出三十尼薩耆波逸提法。
+
+   * - Uddiṭṭhā dve-navuti pācittiyā dhammā.
+     - The ninety-two actions entailing confession have been recited.
+     - 已誦出九十二波逸提法。
+
+   * - Uddiṭṭhā cattāro pāṭidesanīyā dhammā.
+     - The four actions entailing acknowledgement have been recited.
+     - 已誦出四應悔過法。
+
+   * - Uddiṭṭhā sekhiyā dhammā.
+     - The actions to be trained in have been recited.
+     - 已誦出應學法。
+
+   * - Uddiṭṭhā sattādhikaraṇa-samathā dhammā.
+     - The seven means for settling issues have been recited.
+     - 已誦出七滅諍(止爭)法。
+
+   * - Ettakan-tassa bhagavato sutt'āgataṃ sutta-pariyāpannaṃ anvaḍḍha-māsaṃ
+       uddesaṃ āgacchati.
+     - This much is handed down in the Blessed One's Pāṭimokkha, is included in
+       the Blessed One's Pāṭimokkha, and comes up for recitation every
+       half-month.
+     - 這些收錄於那位世尊之經中，係屬於經，在每半月誦出來。
+
+   * - Tattha sabbeh'eva samaggehi sammodamānehi avivadamānehi sikkhitabban'ti.
+     - In it, all should train themselves harmoniously, cordially, and without
+       dispute.
+     - 於此，一切皆應和合、歡喜、無諍(爭)而學！
+
+   * - *( Bhikkhu-pāṭimokkhaṃ niṭṭhitaṃ )*
+     - *(The Pāṭimokkha is finished)*
+     - 比丘波羅提木叉已結束
 
 ..
    * - 
