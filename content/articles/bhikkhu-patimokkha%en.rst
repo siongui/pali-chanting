@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-26T19:49+07:00
+:modified: 2023-08-26T20:33+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3555,6 +3555,13 @@ Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
 After the Pāṭimokkha
 ++++++++++++++++++++
 
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5rgjIQkyBr8?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 .. list-table:: After the Pāṭimokkha
    :header-rows: 1
    :class: stack-th-td-on-mobile
@@ -3603,6 +3610,48 @@ After the Pāṭimokkha
      - | Through the speaking of this truth,
        | may I be blessed always.
 
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5rgjIQkyBr8?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Sīluddesa-pāṭha
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+
+   * - *Sīluddesa-pāṭha*
+     - *The Summary on Virtue*
+
+   * - *Handa mayaṃ sīluddesa-pāṭhaṃ bhaṇāma se:*
+     - *Let us recite the summary on Virtue:*
+
+   * - [Bhāsitam-idaṁ] tena Bhagavatā jānatā passatā arahatā sammā-sambuddhena:
+       “Sampanna-sīlā bhikkhave viharatha sampanna-pāṭimokkhā.
+       Pāṭimokkha-saṁvara-saṁvutā viharatha ācāra-gocara-sampannā. Aṇumattesu
+       vajjesu bhaya-dassāvī samādāya sikkhatha sikkhāpadesū” ti.
+     - This was said by the Blessed One, the One who Knows, the One who Sees,
+       the Worthy One Rightly Self-awakened: “Live consummate in virtue,
+       bhikkhus, and consummate in the Pāṭimokkha. Live restrained with the
+       restraint of the Pāṭimokkha, consummate in your behavior & sphere of
+       activity. Train yourselves, having undertaken the training rules, seeing
+       danger in the slightest faults.”
+
+   * - Tasmā tih’amhehi sikkhitabbaṁ: “Sampanna-sīlā viharissāma
+       sampanna-pāṭimokkhā. Pāṭimokkha-saṁvara-saṁvutā viharissāma
+       ācāra-gocara-sampannā. Aṇumattesu vajjesu bhaya-dassāvī samādāya
+       sikkhissāma sikkhāpadesū” ti. Evañ-hi no sikkhitabbaṁ.
+     - Therefore we should train ourselves: “We will live consummate in virtue,
+       consummate in the Pāṭimokkha. We will live restrained with the restraint
+       of the Pāṭimokkha, consummate in our behavior & sphere of activity. We
+       will train ourselves, having undertaken the training rules, seeing danger
+       in the slightest faults.” That’s how we should train ourselves.
+
 ..
    * - 
      - 
@@ -3629,6 +3678,10 @@ References:
 
 .. [3] `比库巴帝摩卡 玛欣德尊者 敬译 <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/patimokkha/MHD%2004%20%E6%AF%94%E5%BA%93%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1%20Chinese%20-%20Bhikkhupatimokkha%20-%20PAMC%2008-2018.pdf>`_
 
+       MHD 05 沙马内勒学处
+       (
+       `PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/samanera-sikkha/MHD%2005%20%E6%B2%99%E9%A9%AC%E5%86%85%E5%8B%92%E5%AD%A6%E5%A4%84%20Chinese%20-%20Samanera%20sikkhapadani%20-%20PAMC%2008-2018-pdf.pdf>`_
+       )
 ..     `比庫巴帝摩卡 瑪欣德尊者 編譯 (PDF) <https://www.dhammatalks.net/Chinese/Bhikkhu_Mahinda-Patimokkha.pdf>`_
        (
        `PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/patimokkha/Bhikkhu_Mahinda-Patimokkha-2009-hant.pdf>`__
@@ -3640,3 +3693,5 @@ References:
 .. [5] `The Buddhist Monastic Code <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`_
 
 .. [6] `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
+
+.. [7] `After the Pāṭimokkha <{filename}after-the-patimokkha%en.rst>`_
