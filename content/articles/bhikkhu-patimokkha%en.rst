@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-24T19:45+07:00
+:modified: 2023-08-26T19:49+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3550,6 +3550,58 @@ Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
    * - *( Bhikkhu-pāṭimokkhaṃ niṭṭhitaṃ )*
      - *(The Pāṭimokkha is finished)*
      - 比丘波羅提木叉已結束
+
+
+After the Pāṭimokkha
+++++++++++++++++++++
+
+.. list-table:: After the Pāṭimokkha
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+
+   * - *Handa mayaṃ buddhassa bhagavato pubba-bhāga-nama-kāraṃ karoma se:*
+     - *Now let us chant the preliminary passage in homage to the Awakened One,
+       the Blessed One:*
+
+   * - [Namo tassa] bhagavato arahato samma-sambuddhassa. *( tikkhattuṃ )*
+     - Homage to the Blessed One, the Worthy One, the Rightly Self-awakened One.
+
+   * - *Handa mayaṃ sacca-kiriyā-gāthāyo bhaṇāma se:*
+     - *Now let us recite the act-of-truth verses:*
+
+   * - | [N'atthi me saraṇaṃ aññaṃ]
+       |    Buddho me saraṇaṃ varaṃ
+     - | I have no other refuge.
+       | The Buddha is my foremost refuge.
+
+   * - | Etena sacca-vajjena
+       |    Sotthi me hotu sabbadā.
+     - | Through the speaking of this truth,
+       | may I be blessed always.
+
+   * - | [N'atthi me saraṇaṃ aññaṃ]
+       |    Dhammo me saraṇaṃ varaṃ
+     - | I have no other refuge.
+       | The Dhamma is my foremost refuge.
+
+   * - | Etena sacca-vajjena
+       |    Sotthi me hotu sabbadā.
+     - | Through the speaking of this truth,
+       | may I be blessed always.
+
+   * - | [N'atthi me saraṇaṃ aññaṃ]
+       |    Saṅgho me saraṇaṃ varaṃ
+     - | I have no other refuge.
+       | The Saṅgha is my foremost refuge.
+
+   * - | Etena sacca-vajjena
+       |    Sotthi me hotu sabbadā.
+     - | Through the speaking of this truth,
+       | may I be blessed always.
 
 ..
    * - 
