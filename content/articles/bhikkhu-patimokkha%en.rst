@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-26T20:33+07:00
+:modified: 2023-08-27T20:44+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3560,7 +3560,7 @@ After the Pāṭimokkha
 
   .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5rgjIQkyBr8?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5rgjIQkyBr8?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 .. list-table:: After the Pāṭimokkha
    :header-rows: 1
@@ -3651,6 +3651,70 @@ After the Pāṭimokkha
        of the Pāṭimokkha, consummate in our behavior & sphere of activity. We
        will train ourselves, having undertaken the training rules, seeing danger
        in the slightest faults.” That’s how we should train ourselves.
+
+
+.. container:: align-center video-container
+
+  .. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5rgjIQkyBr8?start=132" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.. list-table:: Tāyana-gāthā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+
+   * - *Tāyana-gāthā*
+     - *Verses to Tāyana*
+
+   * - *Handa mayaṁ Tāyana-gāthāyo bhaṇāmase:*
+     - *Let us recite the verses to Tāyana:*
+
+   * - | [Chinda sotaṁ] parakkamma
+       | Kāme panūda brāhmaṇa
+       | Nappahāya muni kāme
+       | N’ekattam-upapajjati.
+     - | Having striven, brahman, cut the stream.
+       | Expel sensual passions.
+       | Without abandoning sensual passions,
+       | a sage encounters no oneness of mind.
+
+   * - | Kayirā ce kayirāth’enaṁ
+       | Daḷham-enaṁ parakkame
+       | Sithilo hi paribbājo
+       | Bhiyyo ākirate rajaṁ.
+       | Akataṁ dukkaṭaṁ seyyo
+       | Pacchā tappati dukkaṭaṁ.
+       | Katañ-ca sukataṁ seyyo
+       | Yaṁ katvā nānutappati.
+     - | If something’s to be done,
+       | then work at it firmly,
+       | for a slack going-forth
+       | kicks up all the more dust.
+       | It’s better to leave a misdeed undone.
+       | A misdeed burns you afterward.
+       | Better that a good deed be done
+       | that, when you’ve done it, you don’t regret.
+
+   * - | Kuso yathā duggahito
+       | Hattham’evānukantati
+       | Sāmaññaṁ dupparāmaṭṭhaṁ
+       | Nirayāyūpakaḍḍhati.
+       | Yaṅ-kiñci sithilaṁ kammaṁ
+       | Saṅkiliṭṭhañ-ca yaṁ vataṁ
+       | Saṅkassaraṁ brahmacariyaṁ
+       | Na taṁ hoti, mahapphalan’ti.
+     - | Just as sharp-bladed grass, if wrongly held,
+       | wounds the very hand that holds it,
+       | the contemplative life, if wrongly grasped,
+       | drags you down to hell.
+       | Any slack act,
+       | defiled observance,
+       | or fraudulent life of celibacy
+       | bears no great fruit.
 
 ..
    * - 
