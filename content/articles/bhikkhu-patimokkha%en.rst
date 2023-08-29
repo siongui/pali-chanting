@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-27T20:44+07:00
+:modified: 2023-08-29T19:31+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3715,6 +3715,67 @@ After the Pāṭimokkha
        | defiled observance,
        | or fraudulent life of celibacy
        | bears no great fruit.
+
+
+.. list-table:: Ovāda-pāṭimokkha Gāthā
+   :header-rows: 1
+   :class: stack-th-td-on-mobile
+   :widths: auto
+
+   * - Pāli
+     - English
+
+   * - *Ovāda-pāṭimokkha Gāthā*
+     - *Pāṭimokkha Exhortation Verses*
+
+   * - [Uddiṭṭhaṃ kho] tena bhagavatā jānatā passatā arahatā sammā-sambuddhena:
+       Ovāda-pāṭimokkhaṃ tīhi gāthāhi.
+     - This was summarized by the Blessed One, the One who Knows, the One who
+       Sees, the Worthy One Rightly Self-awakened-the Pāṭimokkha Exhortation in
+       three verses:
+
+   * - Khantī paramaṃ tapo tītikkhā
+     - Patient forbearance is the highest austerity.
+
+   * - Nibbānaṃ paramaṃ vadanti buddhā,
+     - Unbinding is highest say the Buddhas.
+
+   * - Na hi pabbajito parūpaghātī
+     - He is no monk who injures another;
+
+   * - Samaṇo hoti paraṃ viheṭhayanto.
+     - | nor a contemplative,
+       | he who oppresses another.
+
+   * - Sabba-pāpassa akaraṇaṃ
+     - The non-doing of all evil,
+
+   * - Kusalassūpasampadā
+     - the performance of what is skillful,
+
+   * - Sacitta-pariyodapanaṃ
+     - the cleansing of one's own mind:
+
+   * - Etaṃ buddhāna-sāsanaṃ.
+     - That is the Buddhas' teaching.
+
+   * - Anūpavādo anūpaghāto
+     - Not disparaging, not injuring,
+
+   * - Pāṭimokkhe ca saṃvaro
+     - restraint in line with the Pāṭimokkha,
+
+   * - Mattaññutā ca bhattasmiṃ
+     - moderation in food,
+
+   * - Pantañ-ca sayan'āsanaṃ.
+     - dwelling in seclusion,
+
+   * - Adhicitte ca āyogo
+     - commitment to the heightened mind:
+
+   * - Etaṃ buddhāna-sāsanan'ti.
+     - That is the Buddhas' teaching.
 
 ..
    * - 
