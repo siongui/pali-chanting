@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-29T19:31+07:00
+:modified: 2023-08-30T20:08+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3776,6 +3776,21 @@ After the Pāṭimokkha
 
    * - Etaṃ buddhāna-sāsanan'ti.
      - That is the Buddhas' teaching.
+
+
+Group & Individual Uposatha
++++++++++++++++++++++++++++
+
+**Mutual purity.** *In an assembly of only three bhikkhus, the Pāṭimokkha may
+not be recited. Instead, the bhikkhus must declare their mutual purity. To do
+this, they meet in the uposatha hall, and one of the bhikkhus gives the motion:*
+
+Suṇantu me bhante [āvuso] āyasmantā, ajj'uposatho paṇṇaraso [cātuddaso],
+yad'āyasmantānaṃ pattakallaṃ, mayaṃ aññam-aññaṃ pārisuddhi-uposathaṃ kareyyāma.
+
+*This means: "May the venerable ones listen to me, sirs [friends]. Today is the
+uposatha of the fifteenth [fourteenth]. If the venerable ones are ready, we
+should perform our uposatha of mutual purity."*
 
 ..
    * - 
