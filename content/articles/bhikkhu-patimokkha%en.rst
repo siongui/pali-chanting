@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-30T20:08+07:00
+:modified: 2023-08-31T20:22+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3791,6 +3791,55 @@ yad'āyasmantānaṃ pattakallaṃ, mayaṃ aññam-aññaṃ pārisuddhi-uposat
 *This means: "May the venerable ones listen to me, sirs [friends]. Today is the
 uposatha of the fifteenth [fourteenth]. If the venerable ones are ready, we
 should perform our uposatha of mutual purity."*
+
+*Then the most senior bhikkhu, with his robe arranged over one shoulder, gets
+into the kneeling position and, with hands raised in añjali, says three times:*
+
+| Parisuddho ahaṃ āvuso.
+| Parisuddho'ti maṃ dhāretha.
+
+*This means: "I, friends, am pure. Remember me as pure."*
+
+*Then in descending order of seniority, the other two bhikkhus follow suit, the
+only difference being that each says (also three times):*
+
+| Parisuddho ahaṃ bhante.
+| Parisuddho'ti maṃ dhāretha.
+
+*This changes the "friends" to the more respectful "sirs."*
+
+**Purity.** *If there are only two bhikkhus in the assembly, they simply declare
+their purity to each other, without a motion. The more senior bhikkhu, with his
+robe arranged over one shoulder, gets into the kneeling position and, with hands
+raised in añjali, says three times:*
+
+| Parisuddho ahaṃ āvuso.
+| Parisuddho'ti maṃ dhārehi.
+
+*This means: "I, friend, am pure. Remember me as pure.*
+
+*The junior bhikkhu follows suit, with the difference that he says (again, three
+times):*
+
+| Parisuddho ahaṃ bhante.
+| Parisuddho'ti maṃ dhāretha.
+
+*This changes the "friend" to "sir," and the verb ending to the more respectful
+plural form.*
+
+**Determination.** *If there is only one bhikkhu, he should go to the place
+where the bhikkhus normally meet for the uposatha-the uposatha hall, a pavilion,
+or the root of a tree-should set out drinking water and washing water, should
+prepare a seat and light a lamp, and then sit down. If other bhikkhus happen to
+arrive, he should perform the uposatha with them. If not, he should make the
+following determination:*
+
+| Ajja me uposatho.
+| *(Today is my uposatha.)*
+
+*The Commentary notes that one may also add the word* paṇṇaraso *(the fifteenth)
+or* cātuddaso *(the fourteenth), as appropriate, to the end of the
+determination, but this is optional.*
 
 ..
    * - 
