@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-01T21:03+07:00
+:modified: 2023-09-01T21:10+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3851,6 +3851,20 @@ following determination:*
 *The Commentary notes that one may also add the word* paṇṇaraso *(the fifteenth)
 or* cātuddaso *(the fourteenth), as appropriate, to the end of the
 determination, but this is optional.*
+
+
+Pavāraṇā
+++++++++
+
+PRELIMINARY DUTIES
+==================
+
+| PAVĀRAṆĀ-karaṇato pubbe nava-vidhaṃ pubba-kiccaṃ kātabbaṃ hoti:
+| Taṇṭhāna-sammajjanañ-ca;
+| tattha padīp'ujjalanañ-ca;
+| āsana-paññapanañ-ca;
+| pānīya-paribhojanīyūpaṭṭhapanañ-ca;
+| chandārahānaṃ bhikkhūnaṃ chandāharaṇañ-ca;
 
 ..
    * - 
