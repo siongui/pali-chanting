@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-08-31T20:22+07:00
+:modified: 2023-09-01T21:03+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -12,7 +12,7 @@ Bhikkhu Pāṭimokkha
 Bhikkhu Pāṭimokkha (Thai version), based on [1]_ and refering to [3]_.
 
 
-.. contents:: **Bhikkhu Pāṭimokkha Pāli-English**
+.. contents:: **Bhikkhu Pāṭimokkha Pāli-English(-Chinese)**
 
 
 Forward
@@ -515,8 +515,12 @@ Preliminary Duties: Notes
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
-Bhikkhu Pāṭimokkha - Nidān'uddeso
-+++++++++++++++++++++++++++++++++
+
+Bhikkhu Pāṭimokkha
+++++++++++++++++++
+
+Nidān'uddeso
+============
 
 .. container:: align-center video-container
 
@@ -594,8 +598,9 @@ Bhikkhu Pāṭimokkha - Nidān'uddeso
 .. ā	ī	ū	ṅ	ṃ	ñ	ṭ	ḍ	ṇ	ḷ
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
-Bhikkhu Pāṭimokkha - Pārājika
-+++++++++++++++++++++++++++++
+
+Pārājika
+========
 
 .. container:: align-center video-container
 
@@ -728,8 +733,8 @@ Bhikkhu Pāṭimokkha - Pārājika
    %s/巴拉基格/波羅夷/gc
 
 
-Bhikkhu Pāṭimokkha - Saṅghādisesa
-+++++++++++++++++++++++++++++++++
+Saṅghādisesa
+============
 
 .. container:: align-center video-container
 
@@ -1124,8 +1129,8 @@ Bhikkhu Pāṭimokkha - Saṅghādisesa
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
 
-Bhikkhu Pāṭimokkha - Aniyata
-++++++++++++++++++++++++++++
+Aniyata
+=======
 
 .. container:: align-center video-container
 
@@ -1231,8 +1236,11 @@ Bhikkhu Pāṭimokkha - Aniyata
 .. Ā	Ī	Ū	Ṅ	Ṃ	Ñ	Ṭ	Ḍ	Ṇ	Ḷ
 
 
-Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Cīvara-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Nissaggiyā Pācittiyā
+====================
+
+Cīvara-vaggo
+------------
 
 .. https://www.bps.lk/tipitaka/1Vinaya-Pitaka/index.html
 .. https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E7%BE%85%E6%8F%90%E6%9C%A8%E5%8F%89
@@ -1480,8 +1488,8 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Cīvara-vaggo
      - 第一 衣品
 
 
-Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Kosiya-vaggo
+------------
 
 .. container:: align-center video-container
 
@@ -1591,8 +1599,8 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Kosiya-vaggo
      - 第二 蠶絲品
 
 
-Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Patta-vaggo
+-----------
 
 .. container:: align-center video-container
 
@@ -1768,8 +1776,11 @@ Bhikkhu Pāṭimokkha - Nissaggiyā Pācittiyā - Patta-vaggo
      - *（ 尼薩耆波逸提法已結束 ）*
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Musāvāda-vaggo
-+++++++++++++++++++++++++++++++++++++++++++++++
+Pācittiyā
+=========
+
+Musāvāda-vaggo
+--------------
 
 .. container:: align-center video-container
 
@@ -1848,8 +1859,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Musāvāda-vaggo
      - 第一 虛妄語品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++++
+Bhūtagāma-vaggo
+---------------
 
 .. container:: align-center video-container
 
@@ -1949,8 +1960,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhūtagāma-vaggo
      - 第二 生物村品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
-++++++++++++++++++++++++++++++++++++++++++++
+Ovāda-vaggo
+-----------
 
 .. container:: align-center video-container
 
@@ -2046,8 +2057,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ovāda-vaggo
      - 第三 教誡品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++
+Bhojana-vaggo
+-------------
 
 .. container:: align-center video-container
 
@@ -2158,8 +2169,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Bhojana-vaggo
      - 第四 食物品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++
+Acelaka-vaggo
+-------------
 
 .. container:: align-center video-container
 
@@ -2265,8 +2276,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Acelaka-vaggo
      - 第五 裸行者品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++++
+Surā-pāna-vaggo
+---------------
 
 .. container:: align-center video-container
 
@@ -2362,8 +2373,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Surā-pāna-vaggo
      - 第六 飲谷酒品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
-++++++++++++++++++++++++++++++++++++++++++++++
+Sappāṇa-vaggo
+-------------
 
 .. container:: align-center video-container
 
@@ -2523,8 +2534,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sappāṇa-vaggo
      - 第七 有生物品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+Sahadhammika-vaggo
+------------------
 
 .. container:: align-center video-container
 
@@ -2666,8 +2677,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Sahadhammika-vaggo
      - 第八 如法品
 
 
-Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
-+++++++++++++++++++++++++++++++++++++++++++++
+Ratana-vaggo
+------------
 
 .. container:: align-center video-container
 
@@ -2827,8 +2838,8 @@ Bhikkhu Pāṭimokkha - Pācittiyā - Ratana-vaggo
      - *（ 波逸提已結束 ）*
 
 
-Bhikkhu Pāṭimokkha - Pāṭidesanīyā
-+++++++++++++++++++++++++++++++++
+Pāṭidesanīyā
+============
 
 .. container:: align-center video-container
 
@@ -2947,8 +2958,8 @@ Bhikkhu Pāṭimokkha - Pāṭidesanīyā
      - *（ 應悔過已結束 ）*
 
 
-Bhikkhu Pāṭimokkha - Sekhiyā
-++++++++++++++++++++++++++++
+Sekhiyā
+=======
 
 .. container:: align-center video-container
 
@@ -3393,8 +3404,8 @@ Bhikkhu Pāṭimokkha - Sekhiyā
      - *（ 應學已結束 ）*
 
 
-Bhikkhu Pāṭimokkha - Adhikaraṇa-samathā
-+++++++++++++++++++++++++++++++++++++++
+Adhikaraṇa-samathā
+==================
 
 .. TODO: Uppannunānaṃ -> Uppannuppannānaṃ ?
 
