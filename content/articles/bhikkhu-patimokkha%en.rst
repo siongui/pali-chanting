@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-01T21:10+07:00
+:modified: 2023-09-02T20:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3865,6 +3865,19 @@ PRELIMINARY DUTIES
 | āsana-paññapanañ-ca;
 | pānīya-paribhojanīyūpaṭṭhapanañ-ca;
 | chandārahānaṃ bhikkhūnaṃ chandāharaṇañ-ca;
+| tesaññeva AKATA-PAVĀRAṆĀNAṂ PAVĀRAṆĀYA-PI āharaṇañ-ca;
+| utukkhānañ-ca;
+| bhikkhu-gaṇanā ca;
+| bhikkhunīnam-ovādo cā'ti.
+| Tattha purimesu catūsu kiccesu padīpa-kiccaṃ idāni suriya-lokassa atthitāya
+  n'atthi. Aparāni tīṇi bhikkhūnaṃ vattaṃ jānantehi bhikkhūhi katāni
+  pariniṭṭhitāni honti.
+| Chandāharaṇa PAVĀRAṆĀ-āharaṇāni pana imissaṃ sīmāyaṃ hattha-pāsaṃ vijahitvā
+  nisinnānaṃ bhikkhūnaṃ abhāvato n'atthi.
+| Utukkhānaṃ nāma, ettakaṃ atikkantaṃ ettakaṃ avasiṭṭhanti evaṃ utu-ācikkhanaṃ.
+  Utūnīdha pana sāsane hemanta-gimha-vassānānaṃ vasena tīṇi honti.
+
+.. TODO: suriy'ālokassa -> suriya-lokassa?
 
 ..
    * - 
