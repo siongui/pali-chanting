@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-02T20:53+07:00
+:modified: 2023-09-03T20:53+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3876,8 +3876,27 @@ PRELIMINARY DUTIES
   nisinnānaṃ bhikkhūnaṃ abhāvato n'atthi.
 | Utukkhānaṃ nāma, ettakaṃ atikkantaṃ ettakaṃ avasiṭṭhanti evaṃ utu-ācikkhanaṃ.
   Utūnīdha pana sāsane hemanta-gimha-vassānānaṃ vasena tīṇi honti.
+| Ayaṃ vassānotu. Imasmiñ-ca utumhi satta ca uposathā ekā ca pavāraṇā. Iminā
+  pakkhena-
+| EKĀ PAVĀRAṆĀ SAMPATTĀ,
+| pañca uposathā atikkantā,
+| dve uposathā avasiṭṭhā. [pvr1]_
+| Iti evaṃ sabbehi āyasmantehi utukkhānaṃ dhāretabbam.
+
+.. container:: align-center
+
+   *( Evaṃ, bhante )*
 
 .. TODO: suriy'ālokassa -> suriya-lokassa?
+
+.. [pvr1] *If the rainy season has an additional month, this paragraph should
+          be:*
+
+          | Ayaṃ vassānotu. Imasmiñ-ca utumhi adhikamāsa-vasena nava ca uposathā
+            ekā ca pavāraṇā. Iminā pakkhena-
+          | EKĀ PAVĀRAṆĀ SAMPATTĀ,
+          | satta uposathā atikkantā,
+          | dve uposathā avasiṭṭhā.
 
 ..
    * - 
