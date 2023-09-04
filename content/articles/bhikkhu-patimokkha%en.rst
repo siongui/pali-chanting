@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-03T20:53+07:00
+:modified: 2023-09-04T20:43+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3882,12 +3882,32 @@ PRELIMINARY DUTIES
 | pañca uposathā atikkantā,
 | dve uposathā avasiṭṭhā. [pvr1]_
 | Iti evaṃ sabbehi āyasmantehi utukkhānaṃ dhāretabbam.
+|
 
 .. container:: align-center
 
    *( Evaṃ, bhante )*
 
 .. TODO: suriy'ālokassa -> suriya-lokassa?
+
+|
+| Bhikkhu-gaṇanā nāma imasmiṃ PAVĀRAṆ'AGGE PAVĀRAṆATTHĀYA sannipatitā bhikkhū
+  ettakāti bhikkhūnaṃ gaṇanā. Imasmim-pana PAVĀRAṆ'AGGE pañca bhikkhū
+  sanni-patitā honti. Iti sabbehi āyasmantehi bhikkhu-gaṇanā'pi dhāretabbā.
+|
+
+.. container:: align-center
+
+   *( Evaṃ, bhante )*
+
+|
+| Bhikkhunīnam-ovādo pana idāni tāsaṃ natthitāya n'atthi.
+| Iti sakaraṇ'okāsānaṃ pubba-kiccānaṃ katattā, nikkaraṇ'okāsānaṃ pubba-kiccānaṃ
+  pakatiyā pariniṭṭhitattā.
+| Evan-taṃ navavidhaṃ pubba-kiccaṃ pariniṭṭhitaṃ hoti.
+| Niṭṭhite ca pubba-kicce.
+| Sace so divaso cātuddasī-paṇṇarasī-sāmaggīnamaññataro yathājja PAVĀRAṆĀ
+  PAṆṆARASĪ [CĀTUDDASĪ],
 
 .. [pvr1] *If the rainy season has an additional month, this paragraph should
           be:*
