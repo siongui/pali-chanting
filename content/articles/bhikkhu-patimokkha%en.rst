@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-04T20:43+07:00
+:modified: 2023-09-05T21:33+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3908,6 +3908,23 @@ PRELIMINARY DUTIES
 | Niṭṭhite ca pubba-kicce.
 | Sace so divaso cātuddasī-paṇṇarasī-sāmaggīnamaññataro yathājja PAVĀRAṆĀ
   PAṆṆARASĪ [CĀTUDDASĪ],
+| 1. yāvatikā ca bhikkhū kammappattā SAṄGHA-PAVĀRAṆĀRAHĀ, PAÑCA vā tato vā
+  atirekā pakatattā pārājikaṃ anāpannā saṅghena vā anukkhittā,
+| 2. te ca kho hatthapāsaṃ avijahitvā eka-sīmāyaṃ ṭhitā,
+| 3. tesañ-ca vikāla-bhojanādivasena vatthu-sabhāgāpattiyo ce na vijjanti,
+| 4. tesañ-ca hatthapāse hatthapāsato bahikaraṇavasena vajjetabbo koci
+  vajjanīya-puggalo ce n'atthi.
+| Evan-taṃ PAVĀRAṆĀ-kammaṃ imehi catūhi lakkhaṇehi saṅgahitaṃ pattakallaṃ nāma
+  hoti, kātuṃ yuttarūpaṃ.
+| PAVĀRAṆĀ-kammassa pattakallattaṃ viditvā idāni KARIYAMĀNĀ PAVĀRAṆĀ saṅghena
+  ANUMĀNETABBĀ.
+|
+
+.. TODO: yuttarūpam -> yuttarūpaṃ
+
+.. container:: align-center
+
+   *( Sādhu, bhante )*
 
 .. [pvr1] *If the rainy season has an additional month, this paragraph should
           be:*
