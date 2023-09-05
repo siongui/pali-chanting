@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-05T21:33+07:00
+:modified: 2023-09-05T21:39+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3934,6 +3934,12 @@ PRELIMINARY DUTIES
           | EKĀ PAVĀRAṆĀ SAMPATTĀ,
           | satta uposathā atikkantā,
           | dve uposathā avasiṭṭhā.
+
+THE MOTION
+==========
+
+Suṇātu me bhante saṅgho. Ajja pavāraṇā paṇṇarasī [cātuddasī]. Yadi saṅghassa
+pattakallaṃ, saṅgho te-vācikaṃ pavāreyya.
 
 ..
    * - 
