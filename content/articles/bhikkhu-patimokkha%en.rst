@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-06T21:22+07:00
+:modified: 2023-09-06T21:34+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3949,6 +3949,19 @@ invite with three statements."*
 
 *If each bhikkhu is to state his invitation twice, the word* te-vācikaṃ *should
 be changed to* dve-vācikaṃ. *If once, to* eka-vācikaṃ.
+
+
+THE INVITATION
+==============
+
+*Senior bhikkhu:* Saṅghaṃ āvuso pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi āvuso saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
+maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi āvuso saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
+maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
 
 ..
    * - 
