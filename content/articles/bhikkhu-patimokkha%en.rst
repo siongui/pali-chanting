@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-05T21:39+07:00
+:modified: 2023-09-06T21:22+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3940,6 +3940,15 @@ THE MOTION
 
 Suṇātu me bhante saṅgho. Ajja pavāraṇā paṇṇarasī [cātuddasī]. Yadi saṅghassa
 pattakallaṃ, saṅgho te-vācikaṃ pavāreyya.
+
+*"Venerable sirs, may the Community listen to me. Today is the Invitation day on
+the fifteenth [fourteenth]. If the Community is ready, the Community should
+invite with three statements."*
+
+*If the Invitation is a harmony Invitation, change* paṇṇarasī *to* sāmaggī.
+
+*If each bhikkhu is to state his invitation twice, the word* te-vācikaṃ *should
+be changed to* dve-vācikaṃ. *If once, to* eka-vācikaṃ.
 
 ..
    * - 
