@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-06T21:34+07:00
+:modified: 2023-09-07T23:09+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3962,6 +3962,24 @@ maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
 
 Tatiyam-pi āvuso saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu
 maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+*"Friends, I invite the Community. With regard to what is seen, heard, or
+suspected, may you speak to me out of sympathy. On seeing (the offense) I will
+make amends. A second time .... A third time, friends, I invite the Community
+.... On seeing (the offense) I will make amends."*
+
+*The remaining bhikkhus then state their invitations in line with seniority,
+changing* "Saṅghaṃ āvuso" *to* "Saṅgham-bhante," *and* "āvuso" *to*
+"bhante"- *i.e., "friends" to "venerable sirs," thus:*
+
+Saṅgham-bhante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā, vadantu maṃ
+āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi bhante saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi bhante saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
 
 ..
    * - 
