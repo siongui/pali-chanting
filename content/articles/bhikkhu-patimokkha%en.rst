@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-07T23:09+07:00
+:modified: 2023-09-08T21:19+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3980,6 +3980,40 @@ vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
 
 Tatiyam-pi bhante saṅghaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
 vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+
+Group & Individual Pavāraṇā
+===========================
+
+**Mutual Invitation.** *If the assembly contains four bhikkhus, the motion is:*
+
+Suṇāntu me āyasmanto. Ajja pavāraṇā paṇṇarasī [cātuddasī]. Yad'āyasmantānaṃ
+pattakallaṃ, mayaṃ aññam-aññaṃ pavāreyyāma.
+
+*This means: "Listen to me, sirs. Today is the Invitation day on the fifteenth
+[fourteenth]. If you are ready, we should invite one another."*
+
+*The bhikkhus should then invite one another, in line with seniority. Because
+there are so few of them, each should invite three times:*
+
+Ahaṃ āvuso [bhante] āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Dutiyam-pi āvuso [bhante] āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya
+vā, vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi āvuso [bhante] āyasmante pavāremi. Diṭṭhena vā sutena vā parisaṅkāya
+vā, vadantu maṃ āyasmanto anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+*This means: "Friends [venerable sirs], I invite you. With regard to what is
+seen, heard, or suspected, may you speak to me out of sympathy. On seeing (the
+offense) I will make amends. A second time .... A third time, friends [venerable
+sirs], I invite you .... On seeing (the offense) I will make amends."*
+
+*If the assembly contains three bhikkhus, they follow the same procedure as for
+four, except that* āyasmanto *is changed to* āyasmantā, *both in the motion and
+in the invitation, as is appropriate when addressing two rather than three
+people.*
 
 ..
    * - 
