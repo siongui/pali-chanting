@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-08T21:19+07:00
+:modified: 2023-09-09T20:54+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -4014,6 +4014,33 @@ sirs], I invite you .... On seeing (the offense) I will make amends."*
 four, except that* āyasmanto *is changed to* āyasmantā, *both in the motion and
 in the invitation, as is appropriate when addressing two rather than three
 people.*
+
+*If the assembly contains only two bhikkhus, they do not make a motion. Each
+simply invites the other, saying:*
+
+Aham āvuso [bhante] āyasmantaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya vā,
+vadatu maṃ āyasmā anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+.. TODO: Aham āvuso -> Ahaṃ āvuso?
+
+Dutiyam-pi āvuso [bhante] āyasmantaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya
+vā, vadatu maṃ āyasmā anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+Tatiyam-pi āvuso [bhante] āyasmantaṃ pavāremi. Diṭṭhena vā sutena vā parisaṅkāya
+vā, vadatu maṃ āyasmā anukampaṃ upādāya. Passanto paṭikkarissāmi.
+
+**Determination.** *If the assembly consists of only one bhikkhu, he is to
+prepare the place as he would for determining an uposatha observance. When he is
+sure that no one is coming, he may determine his Invitation:*
+
+.. container:: align-center
+
+   | Ajja me pavāraṇā.
+   | *(Today is my Invitation.)*
+
+*As with the uposatha, the Commentary recommends adding* paṇṇarasī *(the
+fifteenth) or* cātuddasī *(the fourteenth) at the end of the determination, but
+this is optional.*
 
 ..
    * - 
