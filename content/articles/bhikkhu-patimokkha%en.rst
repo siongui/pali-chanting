@@ -2,7 +2,7 @@ Bhikkhu Pāṭimokkha
 ##################
 
 :date: 2023-03-25T21:50+07:00
-:modified: 2023-09-09T20:54+07:00
+:modified: 2023-09-23T19:50+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Bhikkhu Pāṭimokkha
@@ -3110,7 +3110,7 @@ Sekhiyā
 
    * - Chabbīsati-sāruppā.
      - (Here end) the twenty-six forms of proper behavior.
-     - 
+     - 二十六項恰當威儀
 
    * - 27. "Sakkaccaṃ piṇḍapātaṃ paṭiggahessāmī" ti sikkhā karaṇīyā.
      - 27. I will receive almsfood appreciatively: a training to be observed.
@@ -3256,7 +3256,7 @@ Sekhiyā
 
    * - Samatiṃsa bhojana-paṭisaṃyuttā.
      - (Here end) the thirty connected with food.
-     - 
+     - 三十項與食相應的
 
    * - 57. "Na chatta-pāṇissa agilānassa dhammaṃ desissāmī" ti sikkhā karaṇīyā.
      - 57. I will not teach Dhamma to a person with an umbrella in his hand who
@@ -3348,7 +3348,7 @@ Sekhiyā
 
    * - Soḷasa dhamma-desanā-paṭisaṃyuttā.
      - (Here end) the sixteen connected with teaching Dhamma.
-     - 
+     - 十六項有關說法的
 
    * - 73. "Na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmī" ti sikkhā
        karaṇīyā.
@@ -3370,7 +3370,7 @@ Sekhiyā
 
    * - Tayo pakiṇṇakā.
      - (Here end) the three miscellaneous matters.
-     - 
+     - 三項雜記
 
    * - Uddiṭṭhā kho āyasmanto sekhiyā dhammā.
      - Venerable sirs, the actions to be trained in have been recited.
