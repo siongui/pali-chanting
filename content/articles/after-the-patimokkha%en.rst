@@ -2,7 +2,7 @@ After the Pāṭimokkha
 ####################
 
 :date: 2023-04-15T23:07+07:00
-:modified: 2023-04-18T21:01+07:00
+:modified: 2023-11-04T20:11+07:00
 :tags: Pāli Chanting
 :category: Pāli Chanting
 :summary: Chanting after the Bhikkhu Pāṭimokkha
@@ -74,7 +74,7 @@ Sīluddesa-pāṭha
 
    * - Pāli
      - English
-     - Chinese [4]_ Page 213
+     - Chinese [4]_ [5]_ Page 213
 
    * - (LEADER) Handa mayaṁ sīluddesa-pāṭhaṁ bhaṇāmase:
      - 
@@ -213,3 +213,5 @@ References:
        | 11000 Balik Pulau,
        | Penang,
        | West Malaysia.
+
+.. [5] `相應部47相應46經/波羅提木叉的自制經(念住相應/大篇/修多羅)(莊春江譯) <https://agama.buddhason.org/SN/SN1443.htm>`_
