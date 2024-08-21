@@ -149,6 +149,8 @@ Anumodana_ (隨喜)
 
 - `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}bhojanadaanaanumodanaa-gaathaa%zh.rst>`_
 
+- `Adāsi me akāsi me (親人去世來寺院供養時) - 巴利唸誦 <{filename}adaasi-me-akaasi-me-gaathaa%zh.rst>`_
+
 
 
 Myanmar (緬甸)
