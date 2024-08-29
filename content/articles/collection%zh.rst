@@ -2,7 +2,7 @@ Pali Chanting Collection 巴利唸誦整理
 #####################################
 
 :date: 2015-03-12 05:11
-:modified: 2016-01-06T03:37+08:00
+:modified: 2024-08-29T22:38+07:00
 :tags: 巴利語
 :category: 巴利唸誦
 :summary: Collection of online Pāli chanting resources
@@ -150,6 +150,11 @@ Anumodana_ (隨喜)
 - `bhojanadānānumodanāgāthā (供養食物感恩偈) - 巴利唸誦 <{filename}bhojanadaanaanumodanaa-gaathaa%zh.rst>`_
 
 - `Adāsi me akāsi me (親人去世來寺院供養時) - 巴利唸誦 <{filename}adaasi-me-akaasi-me-gaathaa%zh.rst>`_
+
+Kaṭhina_ (功德衣)
+`````````````````
+
+- `法宗派(Dhammayut)功德衣(Kaṭhina)第三位比丘羯磨文念誦 <{filename}kathina-dhammayut-third-bhikkhu%zh.rst>`_
 
 
 
@@ -573,6 +578,8 @@ Video & Audio (影音)
 .. _巴蓬寺: http://www.wpp-branches.net/cn/index.php
 
 .. _Anumodana: http://www.abuddhistlibrary.com/Buddhism/B%20-%20Theravada/Chanting%20Books/I%20-%20A%20Chanting%20Guide/anumodana.html
+
+.. _Kaṭhina: https://zh.wikipedia.org/wiki/%E4%BE%9B%E5%83%A7%E8%A1%A3%E7%AF%80
 
 .. _Gātha: http://en.wikipedia.org/wiki/Gatha
 
